@@ -2,8 +2,8 @@ const fs = require('fs').promises;
 const fetch = require('node-fetch');
 
 const BUFF_CSFLOAT_THRESHOLD = 0.95; 
-const BUFF_YOUPIN_THRESHOLD = 0.95; 
-const MIN_BUFF_STOCK = 15;           
+const BUFF_YOUPIN_THRESHOLD = 0.95;   
+const MIN_BUFF_STOCK = 15;            
 const MIN_CSFLOAT_STOCK = 10;        
 
 const BUFF_URL = 'https://jakupl.github.io/buff/buffPriceList.json';
@@ -38,6 +38,9 @@ async function main() {
     return;
   }
 
+  const csfloatRawData = rawCsfloat.items || rawCsfloat;
+  const youpinRawData = rawYoupin.items || rawYoupin;
+
   const buffData = {};
   for (const [key, value] of Object.entries(rawBuff)) {
     if (key !== 'updated_at' && typeof value === 'object' && 'price' in value && 'stock' in value) {
@@ -46,14 +49,15 @@ async function main() {
   }
 
   const csfloatData = {};
-  for (const [key, value] of Object.entries(rawCsfloat)) {
+  for (const [key, value] of Object.entries(csfloatRawData)) {
     if (typeof value === 'object' && 'price' in value && 'stock' in value) {
       csfloatData[key] = { price: value.price, stock: value.stock };
     }
   }
 
+  // Youpin
   const youpinData = {};
-  for (const [key, value] of Object.entries(rawYoupin)) {
+  for (const [key, value] of Object.entries(youpinRawData)) {
     if (typeof value === 'object' && 'price' in value && 'stock' in value) {
       youpinData[key] = { price: value.price, stock: value.stock };
     }
@@ -62,6 +66,9 @@ async function main() {
   log += `Buff items: ${Object.keys(buffData).length}\n`;
   log += `CSFloat items: ${Object.keys(csfloatData).length}\n`;
   log += `Youpin items: ${Object.keys(youpinData).length}\n\n`;
+  log += `Przykładowe klucze Buff: ${JSON.stringify(Object.keys(buffData).slice(0, 5))}\n`;
+  log += `Przykładowe klucze CSFloat: ${JSON.stringify(Object.keys(csfloatData).slice(0, 5))}\n`;
+  log += `Przykładowe klucze Youpin: ${JSON.stringify(Object.keys(youpinData).slice(0, 5))}\n\n`;
 
   const filteredItems = {};
   let checked = 0;
