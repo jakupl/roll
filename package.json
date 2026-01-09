@@ -1,0 +1,12 @@
+{
+  "name": "price-filter",
+  "version": "1.0.0",
+  "description": "Script to filter prices and publish to GitHub Pages",
+  "main": "filter.js",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "scripts": {
+    "start": "node filter.js"
+  }
+}
