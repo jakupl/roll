@@ -1,8 +1,11 @@
 const fs = require('fs').promises;
 const fetch = require('node-fetch');
 
-const BUFF_CSFLOAT_THRESHOLD = 0.95;
-const BUFF_YOUPIN_THRESHOLD = 0.95;
+const BUFF_CSFLOAT_THRESHOLD = 0.95;  // 95% ceny Buff
+const BUFF_YOUPIN_THRESHOLD = 0.95;   
+const MIN_BUFF_STOCK = 15;            
+const MIN_CSFLOAT_STOCK = 10;         
+
 
 const BUFF_URL = 'https://jakupl.github.io/buff/buffPriceList.json';
 const CSFLOAT_URL = 'https://jakupl.github.io/csfloat/floatPriceList.json';
@@ -36,61 +39,64 @@ async function main() {
     return;
   }
 
-  const buffData = {};
-  for (const [key, value] of Object.entries(rawBuff)) {
-    if (key !== 'updated_at' && typeof value === 'object' && 'price' in value) {
-      buffData[key] = value.price;
-    }
-  }
 
-  const csfloatData = rawCsfloat.items || {};
-  const youpinData = rawYoupin.items || {};
+  const buffData = rawBuff;      // { item: { price, stock } }
+  const csfloatData = rawCsfloat;
+  const youpinData = rawYoupin;
 
-  const csfloatPrices = {};
-  for (const [item, obj] of Object.entries(csfloatData)) {
-    if (typeof obj === 'object' && 'price' in obj) {
-      csfloatPrices[item] = obj.price;
-    }
-  }
-
-  const youpinPrices = {};
-  for (const [item, obj] of Object.entries(youpinData)) {
-    if (typeof obj === 'object' && 'price' in obj) {
-      youpinPrices[item] = obj.price;
-    }
-  }
-
-  log += `Buff: ${Object.keys(buffData).length} itemów\n`;
-  log += `CSFloat: ${Object.keys(csfloatPrices).length} itemów\n`;
-  log += `Youpin: ${Object.keys(youpinPrices).length} itemów\n\n`;
+  log += `Buff items: ${Object.keys(buffData).length}\n`;
+  log += `CSFloat items: ${Object.keys(csfloatData).length}\n`;
+  log += `Youpin items: ${Object.keys(youpinData).length}\n\n`;
 
   const filteredItems = {};
   let checked = 0;
   let presentInAll = 0;
+  let passedStock = 0;
 
-  for (const [item, buffPrice] of Object.entries(buffData)) {
+  for (const [item, buffObj] of Object.entries(buffData)) {
+    if (typeof buffObj !== 'object' || !('price' in buffObj) || !('stock' in buffObj)) continue;
+
     checked++;
-    const csfloatPrice = csfloatPrices[item];
-    const youpinPrice = youpinPrices[item];
+    const buffPrice = buffObj.price;
+    const buffStock = buffObj.stock;
 
-    if (csfloatPrice !== undefined && youpinPrice !== undefined) {
+    const csfloatObj = csfloatData[item];
+    const youpinObj = youpinData[item];
+
+    if (csfloatObj && youpinObj &&
+        typeof csfloatObj === 'object' && 'price' in csfloatObj && 'stock' in csfloatObj &&
+        typeof youpinObj === 'object' && 'price' in youpinObj && 'stock' in youpinObj) {
+
+      const csfloatPrice = csfloatObj.price;
+      const csfloatStock = csfloatObj.stock;
+      const youpinPrice = youpinObj.price;
+      const youpinStock = youpinObj.stock; 
+
       presentInAll++;
-      if (
-        csfloatPrice >= BUFF_CSFLOAT_THRESHOLD * buffPrice &&
-        youpinPrice >= BUFF_YOUPIN_THRESHOLD * buffPrice
-      ) {
-        filteredItems[item] = {
-          buff_price: buffPrice,
-          csfloat_price: csfloatPrice,
-          youpin_price: youpinPrice
-        };
+
+      if (buffStock >= MIN_BUFF_STOCK && csfloatStock >= MIN_CSFLOAT_STOCK) {
+        if (csfloatPrice >= BUFF_CSFLOAT_THRESHOLD * buffPrice &&
+            youpinPrice >= BUFF_YOUPIN_THRESHOLD * buffPrice) {
+
+          passedStock++;
+
+          filteredItems[item] = {
+            buff_price: buffPrice,
+            buff_stock: buffStock,
+            csfloat_price: csfloatPrice,
+            csfloat_stock: csfloatStock,
+            youpin_price: youpinPrice,
+            youpin_stock: youpinStock
+          };
+        }
       }
     }
   }
 
   log += `Sprawdzono itemów z Buff: ${checked}\n`;
   log += `Obecne na wszystkich trzech rynkach: ${presentInAll}\n`;
-  log += `Spełniające progi (>= ${BUFF_CSFLOAT_THRESHOLD * 100}% Buff): ${Object.keys(filteredItems).length}\n`;
+  log += `Spełniające min stock (Buff >=${MIN_BUFF_STOCK}, CSFloat >=${MIN_CSFLOAT_STOCK}): ${passedStock}\n`;
+  log += `Ostatecznie przefiltrowane (z progami cenowymi): ${Object.keys(filteredItems).length}\n`;
 
   await fs.writeFile(OUTPUT_FILE, JSON.stringify(filteredItems, null, 4), 'utf-8');
   await fs.writeFile(LOG_FILE, log);
