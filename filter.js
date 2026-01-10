@@ -1,8 +1,8 @@
 const fs = require('fs').promises;
 const fetch = require('node-fetch');
 
-const BUFF_CSFLOAT_THRESHOLD = 0.95; 
-const BUFF_YOUPIN_THRESHOLD = 0.95;   
+const BUFF_CSFLOAT_THRESHOLD = 0.92; 
+const BUFF_YOUPIN_THRESHOLD = 0.92;   
 const MIN_BUFF_STOCK = 15;            
 const MIN_CSFLOAT_STOCK = 10;        
 
