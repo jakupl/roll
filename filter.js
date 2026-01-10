@@ -98,9 +98,7 @@ async function main() {
           buff_price: buffPrice,
           buff_stock: buffStock,
           csfloat_price: csfloatPrice,
-          csfloat_stock: csfloatStock,
-          youpin_price: youpinPrice,
-          youpin_stock: youpinStock
+          youpin_price: youpinPrice
         };
       }
     }
