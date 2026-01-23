@@ -1,17 +1,20 @@
 const fs = require('fs').promises;
 const fetch = require('node-fetch');
 
-const BUFF_CSFLOAT_THRESHOLD = 0.92; 
-const BUFF_YOUPIN_THRESHOLD = 0.92;   
-const MIN_BUFF_STOCK = 15;            
-const MIN_CSFLOAT_STOCK = 10;        
+const BUFF_CSFLOAT_THRESHOLD = 0.92;
+const BUFF_YOUPIN_THRESHOLD  = 0.92;
+const MIN_BUFF_STOCK    = 15;
+const MIN_CSFLOAT_STOCK = 10;
 
-const BUFF_URL = 'https://jakupl.github.io/buff/buffPriceList.json';
+const MIN_BUFF_PRICE = 1;     
+const MAX_BUFF_PRICE = 100;   
+
+const BUFF_URL    = 'https://jakupl.github.io/buff/buffPriceList.json';
 const CSFLOAT_URL = 'https://jakupl.github.io/csfloat/floatPriceList.json';
-const YOUPIN_URL = 'https://jakupl.github.io/youpin/youpinPriceList.json';
+const YOUPIN_URL  = 'https://jakupl.github.io/youpin/youpinPriceList.json';
 
 const OUTPUT_FILE = 'filteredPriceList.json';
-const LOG_FILE = 'debug-log.txt';
+const LOG_FILE    = 'debug-log.txt';
 
 async function fetchJson(url) {
   try {
@@ -26,10 +29,11 @@ async function fetchJson(url) {
 
 async function main() {
   let log = `Uruchomiono: ${new Date().toISOString()}\n\n`;
+  log += `Filtry cenowe Buff: ${MIN_BUFF_PRICE} – ${MAX_BUFF_PRICE === Infinity ? 'bez górnego limitu' : MAX_BUFF_PRICE}\n\n`;
 
-  const rawBuff = await fetchJson(BUFF_URL);
+  const rawBuff    = await fetchJson(BUFF_URL);
   const rawCsfloat = await fetchJson(CSFLOAT_URL);
-  const rawYoupin = await fetchJson(YOUPIN_URL);
+  const rawYoupin  = await fetchJson(YOUPIN_URL);
 
   if (!rawBuff || !rawCsfloat || !rawYoupin) {
     log += 'Nie udało się pobrać danych z jednego ze źródeł.\n';
@@ -39,7 +43,7 @@ async function main() {
   }
 
   const csfloatRawData = rawCsfloat.items || rawCsfloat;
-  const youpinRawData = rawYoupin.items || rawYoupin;
+  const youpinRawData  = rawYoupin.items  || rawYoupin;
 
   const buffData = {};
   for (const [key, value] of Object.entries(rawBuff)) {
@@ -55,7 +59,6 @@ async function main() {
     }
   }
 
-  // Youpin
   const youpinData = {};
   for (const [key, value] of Object.entries(youpinRawData)) {
     if (typeof value === 'object' && 'price' in value && 'stock' in value) {
@@ -66,39 +69,45 @@ async function main() {
   log += `Buff items: ${Object.keys(buffData).length}\n`;
   log += `CSFloat items: ${Object.keys(csfloatData).length}\n`;
   log += `Youpin items: ${Object.keys(youpinData).length}\n\n`;
-  log += `Przykładowe klucze Buff: ${JSON.stringify(Object.keys(buffData).slice(0, 5))}\n`;
-  log += `Przykładowe klucze CSFloat: ${JSON.stringify(Object.keys(csfloatData).slice(0, 5))}\n`;
-  log += `Przykładowe klucze Youpin: ${JSON.stringify(Object.keys(youpinData).slice(0, 5))}\n\n`;
+
+  log += `Przykładowe klucze Buff: ${JSON.stringify(Object.keys(buffData).slice(0,5))}\n\n`;
 
   const filteredItems = {};
-  let checked = 0;
-  let presentInAll = 0;
+  let checked       = 0;
+  let presentInAll  = 0;
   let passedFilters = 0;
 
   for (const [item, buffObj] of Object.entries(buffData)) {
     checked++;
+
     const { price: buffPrice, stock: buffStock } = buffObj;
 
+    // Najpierw najtańszy filtr – cena poza zakresem → od razu pomijamy
+    if (buffPrice < MIN_BUFF_PRICE || buffPrice > MAX_BUFF_PRICE) {
+      continue;
+    }
+
     const csfloatObj = csfloatData[item];
-    const youpinObj = youpinData[item];
+    const youpinObj  = youpinData[item];
 
     if (csfloatObj && youpinObj) {
       presentInAll++;
+
       const { price: csfloatPrice, stock: csfloatStock } = csfloatObj;
-      const { price: youpinPrice, stock: youpinStock } = youpinObj;
+      const { price: youpinPrice,  stock: youpinStock  } = youpinObj;
 
-      if (buffStock >= MIN_BUFF_STOCK &&
-          csfloatStock >= MIN_CSFLOAT_STOCK &&
-          csfloatPrice >= BUFF_CSFLOAT_THRESHOLD * buffPrice &&
-          youpinPrice >= BUFF_YOUPIN_THRESHOLD * buffPrice) {
-
+      if (
+        buffStock     >= MIN_BUFF_STOCK    &&
+        csfloatStock  >= MIN_CSFLOAT_STOCK &&
+        csfloatPrice  >= BUFF_CSFLOAT_THRESHOLD * buffPrice &&
+        youpinPrice   >= BUFF_YOUPIN_THRESHOLD  * buffPrice
+      ) {
         passedFilters++;
-
         filteredItems[item] = {
-          buff_price: buffPrice,
-          buff_stock: buffStock,
+          buff_price:  buffPrice,
+          buff_stock:  buffStock,
           csfloat_price: csfloatPrice,
-          youpin_price: youpinPrice
+          youpin_price:  youpinPrice
         };
       }
     }
@@ -114,4 +123,4 @@ async function main() {
   console.log(`Gotowe! Znaleziono ${Object.keys(filteredItems).length} itemów spełniających warunki.`);
 }
 
-main();
+main().catch(err => console.error('Błąd w main:', err));
