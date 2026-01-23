@@ -82,7 +82,6 @@ async function main() {
 
     const { price: buffPrice, stock: buffStock } = buffObj;
 
-    // Najpierw najtańszy filtr – cena poza zakresem → od razu pomijamy
     if (buffPrice < MIN_BUFF_PRICE || buffPrice > MAX_BUFF_PRICE) {
       continue;
     }
