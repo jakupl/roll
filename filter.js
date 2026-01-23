@@ -104,10 +104,7 @@ async function main() {
       ) {
         passedFilters++;
         filteredItems[item] = {
-          buff_price:  buffPrice,
-          buff_stock:  buffStock,
-          csfloat_price: csfloatPrice,
-          youpin_price:  youpinPrice
+          buff_price:  buffPrice
         };
       }
     }
