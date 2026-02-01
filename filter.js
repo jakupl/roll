@@ -11,7 +11,7 @@ const MAX_BUFF_PRICE = 1000;
 
 const BUFF_URL    = 'https://jakupl.github.io/buff/buffPriceList.json';
 const CSFLOAT_URL = 'https://jakupl.github.io/csfloat/floatPriceList.json';
-const YOUPIN_URL  = 'https://jakupl.github.io/youpin/youpinPriceList.json';
+const YOUPIN_URL  = 'https://jakupl.github.io/youpin32/youpinPriceList.json';
 
 const OUTPUT_FILE = 'filteredPriceList.json';
 const LOG_FILE    = 'debug-log.txt';
