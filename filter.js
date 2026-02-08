@@ -1,6 +1,19 @@
 const fs = require('fs').promises;
 const fetch = require('node-fetch');
 
+// jesli zawiera slowo
+const BLACKLIST_PARTIAL = [
+    "Sticker",
+    "Graffiti",
+    "Sealed Graffiti",
+    "Patch"
+];
+
+const BLACKLIST_EXACT = [
+    "AK-47 | Safari Mesh (Field-Tested)", 
+    "P250 | Sand Dune (Battle-Scarred)"
+];
+
 const BUFF_CSFLOAT_THRESHOLD = 0.92;
 const BUFF_YOUPIN_THRESHOLD  = 0.92;
 const MIN_BUFF_STOCK    = 15;
@@ -76,9 +89,25 @@ async function main() {
   let checked       = 0;
   let presentInAll  = 0;
   let passedFilters = 0;
+  let blacklisted   = 0; 
 
   for (const [item, buffObj] of Object.entries(buffData)) {
     checked++;
+
+    
+    if (BLACKLIST_EXACT.includes(item)) {
+        blacklisted++;
+        continue;
+    }
+
+    const isPartialBlacklisted = BLACKLIST_PARTIAL.some(keyword => 
+        item.toLowerCase().includes(keyword.toLowerCase())
+    );
+
+    if (isPartialBlacklisted) {
+        blacklisted++;
+        continue;
+    }
 
     const { price: buffPrice, stock: buffStock } = buffObj;
 
@@ -110,6 +139,7 @@ async function main() {
   }
 
   log += `Sprawdzono itemów z Buff: ${checked}\n`;
+  log += `Odrzucono przez Blacklistę: ${blacklisted}\n`; 
   log += `Obecne na wszystkich 3 rynkach: ${presentInAll}\n`;
   log += `Spełniające wszystkie filtry: ${passedFilters}\n`;
 
