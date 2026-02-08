@@ -1,6 +1,9 @@
 const fs = require('fs').promises;
 const fetch = require('node-fetch');
 
+// 1 / 0.66 = ~1.515
+const PRICE_CONVERSION_RATE = 0.66; 
+
 // jesli zawiera slowo
 const BLACKLIST_PARTIAL = [
     "Sticker",
@@ -19,8 +22,8 @@ const BUFF_YOUPIN_THRESHOLD  = 0.92;
 const MIN_BUFF_STOCK    = 15;
 const MIN_CSFLOAT_STOCK = 10;
 
-const MIN_BUFF_PRICE = 1;     
-const MAX_BUFF_PRICE = 1000;   
+const MIN_BUFF_PRICE = 1;      
+const MAX_BUFF_PRICE = 1000;    
 
 const BUFF_URL    = 'https://jakupl.github.io/buff/buffPriceList.json';
 const CSFLOAT_URL = 'https://jakupl.github.io/csfloat/floatPriceList.json';
@@ -42,7 +45,10 @@ async function fetchJson(url) {
 
 async function main() {
   let log = `Uruchomiono: ${new Date().toISOString()}\n\n`;
-  log += `Filtry cenowe Buff: ${MIN_BUFF_PRICE} – ${MAX_BUFF_PRICE === Infinity ? 'bez górnego limitu' : MAX_BUFF_PRICE}\n\n`;
+  log += `Filtry cenowe Buff: ${MIN_BUFF_PRICE} – ${MAX_BUFF_PRICE === Infinity ? 'bez górnego limitu' : MAX_BUFF_PRICE}\n`;
+  
+  const calculatedMultiplier = 1 / PRICE_CONVERSION_RATE;
+  log += `Przelicznik użytkownika: ${PRICE_CONVERSION_RATE} -> Mnożnik cen: ${calculatedMultiplier.toFixed(4)}\n\n`;
 
   const rawBuff    = await fetchJson(BUFF_URL);
   const rawCsfloat = await fetchJson(CSFLOAT_URL);
@@ -131,8 +137,12 @@ async function main() {
         youpinPrice   >= BUFF_YOUPIN_THRESHOLD  * buffPrice
       ) {
         passedFilters++;
+        
+ 
+        const adjustedPrice = buffPrice * calculatedMultiplier;
+
         filteredItems[item] = {
-          buff_price:  buffPrice
+          buff_price: Number(adjustedPrice.toFixed(2))
         };
       }
     }
@@ -147,6 +157,7 @@ async function main() {
   await fs.writeFile(LOG_FILE, log);
 
   console.log(`Gotowe! Znaleziono ${Object.keys(filteredItems).length} itemów spełniających warunki.`);
+  console.log(`Zastosowano przelicznik: 1 / ${PRICE_CONVERSION_RATE} = * ${calculatedMultiplier.toFixed(4)}`);
 }
 
 main().catch(err => console.error('Błąd w main:', err));
