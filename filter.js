@@ -17,8 +17,8 @@ const BLACKLIST_EXACT = [
     "P250 | Sand Dune (Battle-Scarred)"
 ];
 
-const BUFF_CSFLOAT_THRESHOLD = 0.92;
-const BUFF_YOUPIN_THRESHOLD  = 0.92;
+const BUFF_CSFLOAT_THRESHOLD = 0.90;
+const BUFF_YOUPIN_THRESHOLD  = 0.90;
 const MIN_BUFF_STOCK    = 15;
 const MIN_CSFLOAT_STOCK = 10;
 
