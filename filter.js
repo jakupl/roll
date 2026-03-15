@@ -18,7 +18,6 @@ const BLACKLIST_EXACT = [
 ];
 
 const BUFF_CSFLOAT_THRESHOLD = 0.90;
-const BUFF_YOUPIN_THRESHOLD  = 0.90;
 const MIN_BUFF_STOCK    = 15;
 const MIN_CSFLOAT_STOCK = 10;
 
@@ -27,7 +26,6 @@ const MAX_BUFF_PRICE = 1000;
 
 const BUFF_URL    = 'https://jakupl.github.io/buff/buffPriceList.json';
 const CSFLOAT_URL = 'https://jakupl.github.io/csfloat/floatPriceList.json';
-const YOUPIN_URL  = 'https://jakupl.github.io/youpin32/youpinPriceList.json';
 
 const OUTPUT_FILE = 'filteredPriceList.json';
 const LOG_FILE    = 'debug-log.txt';
@@ -52,9 +50,8 @@ async function main() {
 
   const rawBuff    = await fetchJson(BUFF_URL);
   const rawCsfloat = await fetchJson(CSFLOAT_URL);
-  const rawYoupin  = await fetchJson(YOUPIN_URL);
 
-  if (!rawBuff || !rawCsfloat || !rawYoupin) {
+  if (!rawBuff || !rawCsfloat) {
     log += 'Nie udało się pobrać danych z jednego ze źródeł.\n';
     await fs.writeFile(OUTPUT_FILE, JSON.stringify({}, null, 4));
     await fs.writeFile(LOG_FILE, log);
@@ -62,7 +59,6 @@ async function main() {
   }
 
   const csfloatRawData = rawCsfloat.items || rawCsfloat;
-  const youpinRawData  = rawYoupin.items  || rawYoupin;
 
   const buffData = {};
   for (const [key, value] of Object.entries(rawBuff)) {
@@ -78,29 +74,20 @@ async function main() {
     }
   }
 
-  const youpinData = {};
-  for (const [key, value] of Object.entries(youpinRawData)) {
-    if (typeof value === 'object' && 'price' in value && 'stock' in value) {
-      youpinData[key] = { price: value.price, stock: value.stock };
-    }
-  }
-
   log += `Buff items: ${Object.keys(buffData).length}\n`;
-  log += `CSFloat items: ${Object.keys(csfloatData).length}\n`;
-  log += `Youpin items: ${Object.keys(youpinData).length}\n\n`;
+  log += `CSFloat items: ${Object.keys(csfloatData).length}\n\n`;
 
   log += `Przykładowe klucze Buff: ${JSON.stringify(Object.keys(buffData).slice(0,5))}\n\n`;
 
   const filteredItems = {};
   let checked       = 0;
-  let presentInAll  = 0;
+  let presentInBoth = 0;
   let passedFilters = 0;
   let blacklisted   = 0; 
 
   for (const [item, buffObj] of Object.entries(buffData)) {
     checked++;
 
-    
     if (BLACKLIST_EXACT.includes(item)) {
         blacklisted++;
         continue;
@@ -122,42 +109,11 @@ async function main() {
     }
 
     const csfloatObj = csfloatData[item];
-    const youpinObj  = youpinData[item];
 
-    if (csfloatObj && youpinObj) {
-      presentInAll++;
+    if (csfloatObj) {
+      presentInBoth++;
 
       const { price: csfloatPrice, stock: csfloatStock } = csfloatObj;
-      const { price: youpinPrice,  stock: youpinStock  } = youpinObj;
 
       if (
-        buffStock     >= MIN_BUFF_STOCK    &&
-        csfloatStock  >= MIN_CSFLOAT_STOCK &&
-        csfloatPrice  >= BUFF_CSFLOAT_THRESHOLD * buffPrice &&
-        youpinPrice   >= BUFF_YOUPIN_THRESHOLD  * buffPrice
-      ) {
-        passedFilters++;
-        
- 
-        const adjustedPrice = buffPrice * calculatedMultiplier;
-
-        filteredItems[item] = {
-          buff_price: Number(adjustedPrice.toFixed(2))
-        };
-      }
-    }
-  }
-
-  log += `Sprawdzono itemów z Buff: ${checked}\n`;
-  log += `Odrzucono przez Blacklistę: ${blacklisted}\n`; 
-  log += `Obecne na wszystkich 3 rynkach: ${presentInAll}\n`;
-  log += `Spełniające wszystkie filtry: ${passedFilters}\n`;
-
-  await fs.writeFile(OUTPUT_FILE, JSON.stringify(filteredItems, null, 4), 'utf-8');
-  await fs.writeFile(LOG_FILE, log);
-
-  console.log(`Gotowe! Znaleziono ${Object.keys(filteredItems).length} itemów spełniających warunki.`);
-  console.log(`Zastosowano przelicznik: 1 / ${PRICE_CONVERSION_RATE} = * ${calculatedMultiplier.toFixed(4)}`);
-}
-
-main().catch(err => console.error('Błąd w main:', err));
+        buffStock     >= MI
