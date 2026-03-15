@@ -116,4 +116,31 @@ async function main() {
       const { price: csfloatPrice, stock: csfloatStock } = csfloatObj;
 
       if (
-        buffStock     >= MI
+        buffStock     >= MIN_BUFF_STOCK    &&
+        csfloatStock  >= MIN_CSFLOAT_STOCK &&
+        csfloatPrice  >= BUFF_CSFLOAT_THRESHOLD * buffPrice
+      ) {
+        passedFilters++;
+
+        const adjustedPrice = buffPrice * calculatedMultiplier;
+
+        filteredItems[item] = {
+          buff_price: Number(adjustedPrice.toFixed(2))
+        };
+      }
+    }
+  }
+
+  log += `Sprawdzono itemów z Buff: ${checked}\n`;
+  log += `Odrzucono przez Blacklistę: ${blacklisted}\n`; 
+  log += `Obecne na obu rynkach: ${presentInBoth}\n`;
+  log += `Spełniające wszystkie filtry: ${passedFilters}\n`;
+
+  await fs.writeFile(OUTPUT_FILE, JSON.stringify(filteredItems, null, 4), 'utf-8');
+  await fs.writeFile(LOG_FILE, log);
+
+  console.log(`Gotowe! Znaleziono ${Object.keys(filteredItems).length} itemów spełniających warunki.`);
+  console.log(`Zastosowano przelicznik: 1 / ${PRICE_CONVERSION_RATE} = * ${calculatedMultiplier.toFixed(4)}`);
+}
+
+main().catch(err => console.error('Błąd w main:', err));
