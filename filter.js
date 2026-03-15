@@ -2,7 +2,7 @@ const fs = require('fs').promises;
 const fetch = require('node-fetch');
 
 // 1 / 0.66 = ~1.515
-const PRICE_CONVERSION_RATE = 0.66; 
+const PRICE_CONVERSION_RATE = 0.65; 
 
 // jesli zawiera slowo
 const BLACKLIST_PARTIAL = [
