@@ -38,6 +38,9 @@
     "USP-S | Ticket to Hell (Minimal Wear)": {
         "buff_price": 1.85
     },
+    "MP7 | Coral Paisley (Factory New)": {
+        "buff_price": 1.75
+    },
     "StatTrak™ P250 | Supernova (Minimal Wear)": {
         "buff_price": 4.17
     },
@@ -107,9 +110,6 @@
     "★ Ursus Knife": {
         "buff_price": 183.08
     },
-    "P2000 | Ivory (Minimal Wear)": {
-        "buff_price": 1.55
-    },
     "StatTrak™ AK-47 | Elite Build (Minimal Wear)": {
         "buff_price": 15.6
     },
@@ -118,9 +118,6 @@
     },
     "M4A1-S | Master Piece (Field-Tested)": {
         "buff_price": 301.29
-    },
-    "★ Nomad Knife | Damascus Steel (Minimal Wear)": {
-        "buff_price": 229.17
     },
     "Souvenir XM1014 | Elegant Vines (Field-Tested)": {
         "buff_price": 2.22
@@ -286,6 +283,9 @@
     },
     "StatTrak™ P250 | Splash (Minimal Wear)": {
         "buff_price": 53.55
+    },
+    "StatTrak™ Negev | dev_texture (Factory New)": {
+        "buff_price": 5.91
     },
     "M249 | Humidor (Factory New)": {
         "buff_price": 31.71
@@ -569,6 +569,9 @@
     "StatTrak™ XM1014 | Teclu Burner (Minimal Wear)": {
         "buff_price": 8.26
     },
+    "AWP | Phobos (Factory New)": {
+        "buff_price": 12.46
+    },
     "AK-47 | Jaguar (Field-Tested)": {
         "buff_price": 141.65
     },
@@ -707,9 +710,6 @@
     "★ Karambit | Damascus Steel (Minimal Wear)": {
         "buff_price": 1051.09
     },
-    "Rezan The Ready | Sabre": {
-        "buff_price": 35.48
-    },
     "★ Falchion Knife | Freehand (Minimal Wear)": {
         "buff_price": 153.6
     },
@@ -797,6 +797,9 @@
     "StatTrak™ Desert Eagle | Crimson Web (Factory New)": {
         "buff_price": 731.71
     },
+    "Tec-9 | Brother (Factory New)": {
+        "buff_price": 16.69
+    },
     "Glock-18 | AXIA (Well-Worn)": {
         "buff_price": 74.12
     },
@@ -872,6 +875,9 @@
     "StatTrak™ P90 | Elite Build (Factory New)": {
         "buff_price": 8.34
     },
+    "Galil AR | Amber Fade (Factory New)": {
+        "buff_price": 173.92
+    },
     "★ Talon Knife | Marble Fade (Factory New)": {
         "buff_price": 936.57
     },
@@ -916,6 +922,9 @@
     },
     "StatTrak™ M4A4 | Zirka (Minimal Wear)": {
         "buff_price": 62.17
+    },
+    "StatTrak™ AK-47 | Searing Rage (Field-Tested)": {
+        "buff_price": 17.83
     },
     "★ Stiletto Knife | Damascus Steel (Field-Tested)": {
         "buff_price": 299.05
@@ -1462,6 +1471,9 @@
     },
     "Copper Lambda Pin": {
         "buff_price": 10.49
+    },
+    "★ Moto Gloves | Polygon (Factory New)": {
+        "buff_price": 1044.71
     },
     "M249 | Emerald Poison Dart (Factory New)": {
         "buff_price": 7.32
@@ -2045,6 +2057,9 @@
     "Charm | Chicken Lil'": {
         "buff_price": 2.35
     },
+    "AUG | Momentum (Well-Worn)": {
+        "buff_price": 8.82
+    },
     "★ Butterfly Knife | Urban Masked (Minimal Wear)": {
         "buff_price": 864
     },
@@ -2068,9 +2083,6 @@
     },
     "★ StatTrak™ Kukri Knife | Crimson Web (Field-Tested)": {
         "buff_price": 184.97
-    },
-    "StatTrak™ USP-S | Cortex (Field-Tested)": {
-        "buff_price": 15.94
     },
     "UMP-45 | Warm Blooded (Factory New)": {
         "buff_price": 4.29
@@ -2185,6 +2197,9 @@
     },
     "Souvenir AK-47 | Steel Delta (Field-Tested)": {
         "buff_price": 9.58
+    },
+    "Tec-9 | Cracked Opal (Factory New)": {
+        "buff_price": 13.31
     },
     "M4A1-S | Solitude (Battle-Scarred)": {
         "buff_price": 2.22
@@ -2347,9 +2362,6 @@
     },
     "XM1014 | Copperflage (Factory New)": {
         "buff_price": 2.6
-    },
-    "Souvenir Glock-18 | Reactor (Battle-Scarred)": {
-        "buff_price": 27.23
     },
     "M4A1-S | Mecha Industries (Field-Tested)": {
         "buff_price": 173.58
@@ -2912,6 +2924,9 @@
     "AWP | Exoskeleton (Well-Worn)": {
         "buff_price": 7.52
     },
+    "SG 553 | Colony IV (Well-Worn)": {
+        "buff_price": 14.02
+    },
     "★ Gut Knife | Autotronic (Minimal Wear)": {
         "buff_price": 192
     },
@@ -3131,6 +3146,9 @@
     "★ StatTrak™ Nomad Knife | Case Hardened (Field-Tested)": {
         "buff_price": 290.23
     },
+    "StatTrak™ Five-SeveN | Monkey Business (Minimal Wear)": {
+        "buff_price": 87.05
+    },
     "★ M9 Bayonet | Freehand (Factory New)": {
         "buff_price": 721.12
     },
@@ -3319,6 +3337,9 @@
     },
     "StatTrak™ MAG-7 | SWAG-7 (Factory New)": {
         "buff_price": 11.17
+    },
+    "P250 | Visions (Factory New)": {
+        "buff_price": 35.94
     },
     "StatTrak™ MP9 | Ruby Poison Dart (Field-Tested)": {
         "buff_price": 5
@@ -3836,6 +3857,9 @@
     "Dual Berettas | Hydro Strike (Factory New)": {
         "buff_price": 17.23
     },
+    "Dual Berettas | Hydro Strike (Well-Worn)": {
+        "buff_price": 1.77
+    },
     "★ Karambit | Stained (Minimal Wear)": {
         "buff_price": 980.32
     },
@@ -4040,6 +4064,9 @@
     "AWP | The Prince (Minimal Wear)": {
         "buff_price": 4241.54
     },
+    "Negev | Power Loader (Field-Tested)": {
+        "buff_price": 2.12
+    },
     "★ Hand Wraps | Badlands (Field-Tested)": {
         "buff_price": 912.68
     },
@@ -4132,6 +4159,9 @@
     },
     "P90 | Neoqueen (Factory New)": {
         "buff_price": 3.43
+    },
+    "P90 | Deathgaze (Field-Tested)": {
+        "buff_price": 19.8
     },
     "StatTrak™ PP-Bizon | Space Cat (Factory New)": {
         "buff_price": 3.55
@@ -4364,6 +4394,9 @@
     "StatTrak™ M4A1-S | Black Lotus (Factory New)": {
         "buff_price": 78.68
     },
+    "PP-Bizon | Antique (Field-Tested)": {
+        "buff_price": 11.09
+    },
     "AK-47 | Head Shot (Battle-Scarred)": {
         "buff_price": 45.54
     },
@@ -4469,9 +4502,6 @@
     "ESL One Katowice 2015 Legends (Holo-Foil)": {
         "buff_price": 373.51
     },
-    "Desert Eagle | Firebreathing (Minimal Wear)": {
-        "buff_price": 19.85
-    },
     "StatTrak™ AK-47 | Inheritance (Field-Tested)": {
         "buff_price": 172.8
     },
@@ -4523,6 +4553,12 @@
     "StatTrak™ Galil AR | Eco (Minimal Wear)": {
         "buff_price": 237.98
     },
+    "SSG 08 | Hand Brake (Minimal Wear)": {
+        "buff_price": 2.51
+    },
+    "P90 | Blind Spot (Minimal Wear)": {
+        "buff_price": 28.57
+    },
     "Easy Peasy Pin": {
         "buff_price": 5.25
     },
@@ -4561,9 +4597,6 @@
     },
     "StatTrak™ UMP-45 | K.O. Factory (Field-Tested)": {
         "buff_price": 10.23
-    },
-    "Souvenir PP-Bizon | Chemical Green (Battle-Scarred)": {
-        "buff_price": 2.63
     },
     "SSG 08 | Dragonfire (Factory New)": {
         "buff_price": 705.94
@@ -4657,9 +4690,6 @@
     },
     "M4A4 | In Living Color (Minimal Wear)": {
         "buff_price": 99.35
-    },
-    "StatTrak™ Tec-9 | Isaac (Battle-Scarred)": {
-        "buff_price": 4.75
     },
     "Markus Delrow | FBI HRT": {
         "buff_price": 17.62
@@ -4756,9 +4786,6 @@
     },
     "M4A4 | Desolate Space (Field-Tested)": {
         "buff_price": 22.88
-    },
-    "Dual Berettas | Heist (Factory New)": {
-        "buff_price": 13.15
     },
     "AK-47 | Legion of Anubis (Field-Tested)": {
         "buff_price": 59.83
@@ -4910,6 +4937,9 @@
     "MAC-10 | Heat (Field-Tested)": {
         "buff_price": 5
     },
+    "Tec-9 | Isaac (Factory New)": {
+        "buff_price": 49.11
+    },
     "G3SG1 | Flux (Field-Tested)": {
         "buff_price": 12.46
     },
@@ -4942,9 +4972,6 @@
     },
     "★ Butterfly Knife | Safari Mesh (Field-Tested)": {
         "buff_price": 714.42
-    },
-    "SCAR-20 | Trail Blazer (Factory New)": {
-        "buff_price": 2.6
     },
     "Welcome to the Clutch Pin": {
         "buff_price": 5.25
@@ -5147,6 +5174,9 @@
     "StatTrak™ XM1014 | Black Tie (Field-Tested)": {
         "buff_price": 2.57
     },
+    "Desert Eagle | Firebreathing (Factory New)": {
+        "buff_price": 46.66
+    },
     "StatTrak™ P2000 | Wicked Sick (Minimal Wear)": {
         "buff_price": 12.71
     },
@@ -5291,6 +5321,9 @@
     "Glock-18 | Groundwater (Field-Tested)": {
         "buff_price": 43.54
     },
+    "P90 | Off World (Factory New)": {
+        "buff_price": 4
+    },
     "StatTrak™ Glock-18 | Royal Legion (Minimal Wear)": {
         "buff_price": 19.43
     },
@@ -5371,6 +5404,9 @@
     },
     "StatTrak™ Sawed-Off | Apocalypto (Field-Tested)": {
         "buff_price": 1.57
+    },
+    "Tec-9 | Jambiya (Minimal Wear)": {
+        "buff_price": 2.98
     },
     "Desert Eagle | Mulberry (Field-Tested)": {
         "buff_price": 8.17
@@ -5465,14 +5501,14 @@
     "★ Butterfly Knife | Forest DDPAT (Minimal Wear)": {
         "buff_price": 782.51
     },
-    "Desert Eagle | Fennec Fox (Factory New)": {
-        "buff_price": 1716.17
-    },
     "Desert Eagle | The Bronze (Minimal Wear)": {
         "buff_price": 5.18
     },
     "StatTrak™ AK-47 | Frontside Misty (Field-Tested)": {
         "buff_price": 65.29
+    },
+    "P250 | Kintsugi (Minimal Wear)": {
+        "buff_price": 40.63
     },
     "StatTrak™ SG 553 | Triarch (Minimal Wear)": {
         "buff_price": 3.03
@@ -5611,6 +5647,9 @@
     },
     "M4A1-S | Moss Quartz (Minimal Wear)": {
         "buff_price": 116.09
+    },
+    "Rio 2022 Overpass Souvenir Package": {
+        "buff_price": 6.03
     },
     "PP-Bizon | Embargo (Factory New)": {
         "buff_price": 77.02
@@ -5785,9 +5824,6 @@
     },
     "★ Driver Gloves | Queen Jaguar (Field-Tested)": {
         "buff_price": 107.15
-    },
-    "MP7 | Scorched (Field-Tested)": {
-        "buff_price": 14.25
     },
     "StatTrak™ Music Kit | Neck Deep, Life's Not Out To Get You": {
         "buff_price": 23.55
@@ -6016,6 +6052,9 @@
     },
     "AK-47 | Orbit Mk01 (Factory New)": {
         "buff_price": 346.05
+    },
+    "MP5-SD | Phosphor (Minimal Wear)": {
+        "buff_price": 10.28
     },
     "StatTrak™ MAC-10 | Cat Fight (Battle-Scarred)": {
         "buff_price": 1.89
@@ -6647,9 +6686,6 @@
     "MP7 | Fade (Minimal Wear)": {
         "buff_price": 15.63
     },
-    "P2000 | Grip Tape (Factory New)": {
-        "buff_price": 5.49
-    },
     "Budapest 2025 Inferno Souvenir Highlight Package": {
         "buff_price": 3.85
     },
@@ -6712,6 +6748,9 @@
     },
     "M4A4 | Tooth Fairy (Minimal Wear)": {
         "buff_price": 10.94
+    },
+    "Desert Eagle | Midnight Storm (Minimal Wear)": {
+        "buff_price": 61.37
     },
     "★ M9 Bayonet | Night (Battle-Scarred)": {
         "buff_price": 558.14
@@ -6943,9 +6982,6 @@
     },
     "Souvenir P250 | Contamination (Minimal Wear)": {
         "buff_price": 3.12
-    },
-    "M4A4 | Dark Blossom (Factory New)": {
-        "buff_price": 298.69
     },
     "StatTrak™ MAC-10 | Allure (Factory New)": {
         "buff_price": 8.02
@@ -7190,9 +7226,6 @@
     "★ Butterfly Knife | Autotronic (Field-Tested)": {
         "buff_price": 1540.25
     },
-    "MAG-7 | Heat (Minimal Wear)": {
-        "buff_price": 6.69
-    },
     "★ Specialist Gloves | Fade (Well-Worn)": {
         "buff_price": 316.6
     },
@@ -7204,9 +7237,6 @@
     },
     "Music Kit | The Verkkars & n0thing, Flashbang Dance": {
         "buff_price": 5.11
-    },
-    "P250 | Wingshot (Factory New)": {
-        "buff_price": 38.83
     },
     "StatTrak™ USP-S | Cortex (Factory New)": {
         "buff_price": 70.11
@@ -7594,9 +7624,6 @@
     },
     "AUG | Eye of Zapems (Battle-Scarred)": {
         "buff_price": 5.12
-    },
-    "R8 Revolver | Blaze (Minimal Wear)": {
-        "buff_price": 5.89
     },
     "★ Gut Knife | Rust Coat (Battle-Scarred)": {
         "buff_price": 85.95
@@ -8828,9 +8855,6 @@
     "StatTrak™ USP-S | Printstream (Battle-Scarred)": {
         "buff_price": 90.75
     },
-    "Dual Berettas | Anodized Navy (Factory New)": {
-        "buff_price": 41.31
-    },
     "★ Ursus Knife | Ultraviolet (Minimal Wear)": {
         "buff_price": 198.69
     },
@@ -9005,9 +9029,6 @@
     "Dual Berettas | Pyre (Minimal Wear)": {
         "buff_price": 28.46
     },
-    "MP9 | Nexus (Factory New)": {
-        "buff_price": 2.6
-    },
     "AUG | Sand Storm (Factory New)": {
         "buff_price": 189.54
     },
@@ -9074,6 +9095,9 @@
     "StatTrak™ Desert Eagle | Light Rail (Battle-Scarred)": {
         "buff_price": 6.23
     },
+    "StatTrak™ P2000 | Pulse (Factory New)": {
+        "buff_price": 11.17
+    },
     "StatTrak™ Nova | Rising Sun (Factory New)": {
         "buff_price": 14.8
     },
@@ -9112,9 +9136,6 @@
     },
     "StatTrak™ MP9 | Airlock (Minimal Wear)": {
         "buff_price": 25.45
-    },
-    "★ Driver Gloves | Crimson Weave (Field-Tested)": {
-        "buff_price": 3125.48
     },
     "M4A1-S | Leaded Glass (Battle-Scarred)": {
         "buff_price": 14.51
@@ -9365,9 +9386,6 @@
     "Tec-9 | Brass (Field-Tested)": {
         "buff_price": 8.48
     },
-    "MAC-10 | Malachite (Factory New)": {
-        "buff_price": 27.8
-    },
     "Dual Berettas | Melondrama (Battle-Scarred)": {
         "buff_price": 10.49
     },
@@ -9445,6 +9463,9 @@
     },
     "StatTrak™ USP-S | 27 (Factory New)": {
         "buff_price": 8.71
+    },
+    "AWP | Black Nile (Factory New)": {
+        "buff_price": 54.95
     },
     "StatTrak™ USP-S | Ticket to Hell (Battle-Scarred)": {
         "buff_price": 1.97
@@ -9614,6 +9635,9 @@
     "StatTrak™ AK-47 | Ice Coaled (Battle-Scarred)": {
         "buff_price": 18.8
     },
+    "AWP | Worm God (Minimal Wear)": {
+        "buff_price": 4.82
+    },
     "Souvenir SSG 08 | Blue Spruce (Field-Tested)": {
         "buff_price": 45.98
     },
@@ -9652,9 +9676,6 @@
     },
     "SSG 08 | Spring Twilly (Battle-Scarred)": {
         "buff_price": 2.34
-    },
-    "Galil AR | Connexion (Factory New)": {
-        "buff_price": 12.25
     },
     "AWP | Chrome Cannon (Field-Tested)": {
         "buff_price": 51.38
@@ -9845,6 +9866,9 @@
     "Tec-9 | Bamboo Forest (Factory New)": {
         "buff_price": 56.82
     },
+    "SCAR-20 | Grotto (Factory New)": {
+        "buff_price": 2.29
+    },
     "M4A1-S | Hyper Beast (Minimal Wear)": {
         "buff_price": 198.48
     },
@@ -9949,6 +9973,9 @@
     },
     "FAMAS | Prime Conspiracy (Factory New)": {
         "buff_price": 250.14
+    },
+    "StatTrak™ MAC-10 | Last Dive (Field-Tested)": {
+        "buff_price": 4.34
     },
     "AWP | Desert Hydra (Battle-Scarred)": {
         "buff_price": 2232.34
@@ -10061,6 +10088,9 @@
     "G3SG1 | Ancient Ritual (Factory New)": {
         "buff_price": 18.97
     },
+    "MP9 | Deadly Poison (Factory New)": {
+        "buff_price": 20.09
+    },
     "Souvenir Tec-9 | Brass (Well-Worn)": {
         "buff_price": 25.85
     },
@@ -10138,6 +10168,9 @@
     },
     "Glock-18 | Neo-Noir (Well-Worn)": {
         "buff_price": 56.48
+    },
+    "FAMAS | Meow 36 (Factory New)": {
+        "buff_price": 4.45
     },
     "Desert Eagle | Mulberry (Battle-Scarred)": {
         "buff_price": 4.42
@@ -10226,9 +10259,6 @@
     "MAG-7 | Prism Terrace (Factory New)": {
         "buff_price": 113.63
     },
-    "AK-47 | Breakthrough (Factory New)": {
-        "buff_price": 55.82
-    },
     "StatTrak™ Tec-9 | Snek-9 (Factory New)": {
         "buff_price": 7.28
     },
@@ -10306,6 +10336,9 @@
     },
     "Souvenir P250 | Gunsmoke (Well-Worn)": {
         "buff_price": 4.46
+    },
+    "AK-47 | Blue Laminate (Factory New)": {
+        "buff_price": 110.29
     },
     "Nova | Yorkshire (Factory New)": {
         "buff_price": 6.37
@@ -10955,9 +10988,6 @@
     "★ Moto Gloves | Eclipse (Field-Tested)": {
         "buff_price": 881.86
     },
-    "★ Moto Gloves | Smoke Out (Minimal Wear)": {
-        "buff_price": 705.49
-    },
     "StatTrak™ M4A1-S | Bright Water (Minimal Wear)": {
         "buff_price": 120.55
     },
@@ -11200,6 +11230,9 @@
     },
     "Souvenir XM1014 | Fallout Warning (Minimal Wear)": {
         "buff_price": 29.03
+    },
+    "P250 | Cyber Shell (Factory New)": {
+        "buff_price": 17.32
     },
     "P250 | Bullfrog (Factory New)": {
         "buff_price": 1.72
@@ -11482,6 +11515,9 @@
     },
     "★ Paracord Knife | Damascus Steel (Field-Tested)": {
         "buff_price": 109.4
+    },
+    "CZ75-Auto | Red Astor (Factory New)": {
+        "buff_price": 20.43
     },
     "AK-47 | Rat Rod (Field-Tested)": {
         "buff_price": 7.43
@@ -11921,6 +11957,9 @@
     "Souvenir AK-47 | Black Laminate (Field-Tested)": {
         "buff_price": 62.02
     },
+    "AK-47 | Orbit Mk01 (Battle-Scarred)": {
+        "buff_price": 57.83
+    },
     "StatTrak™ CZ75-Auto | Red Astor (Battle-Scarred)": {
         "buff_price": 1.97
     },
@@ -12200,6 +12239,9 @@
     "StatTrak™ Desert Eagle | Kumicho Dragon (Field-Tested)": {
         "buff_price": 64.74
     },
+    "P250 | Hive (Factory New)": {
+        "buff_price": 26.26
+    },
     "StatTrak™ AWP | PAW (Factory New)": {
         "buff_price": 24.11
     },
@@ -12211,9 +12253,6 @@
     },
     "StatTrak™ SSG 08 | Rapid Transit (Battle-Scarred)": {
         "buff_price": 3.98
-    },
-    "StatTrak™ M4A4 | Griffin (Field-Tested)": {
-        "buff_price": 16.28
     },
     "★ StatTrak™ Skeleton Knife | Fade (Factory New)": {
         "buff_price": 977.42
@@ -12265,6 +12304,9 @@
     },
     "Souvenir Desert Eagle | Fennec Fox (Minimal Wear)": {
         "buff_price": 452.32
+    },
+    "eSports 2013 Winter Case": {
+        "buff_price": 32.23
     },
     "Music Kit | Damjan Mravunac, The Talos Principle": {
         "buff_price": 6.25
@@ -12485,6 +12527,9 @@
     "UMP-45 | Indigo (Field-Tested)": {
         "buff_price": 3.71
     },
+    "Glock-18 | Vogue (Factory New)": {
+        "buff_price": 29.97
+    },
     "StatTrak™ Glock-18 | Vogue (Factory New)": {
         "buff_price": 39.74
     },
@@ -12547,9 +12592,6 @@
     },
     "AWP | Wildfire (Minimal Wear)": {
         "buff_price": 129.05
-    },
-    "P250 | Undertow (Factory New)": {
-        "buff_price": 156.28
     },
     "★ Paracord Knife | Crimson Web (Minimal Wear)": {
         "buff_price": 200.82
@@ -12784,6 +12826,9 @@
     },
     "StatTrak™ Dual Berettas | Hemoglobin (Factory New)": {
         "buff_price": 49.54
+    },
+    "Dual Berettas | Cobra Strike (Factory New)": {
+        "buff_price": 500.09
     },
     "★ Moto Gloves | POW! (Minimal Wear)": {
         "buff_price": 438.69
@@ -13385,6 +13430,9 @@
     "CZ75-Auto | Tigris (Battle-Scarred)": {
         "buff_price": 3.32
     },
+    "StatTrak™ MP9 | Ruby Poison Dart (Minimal Wear)": {
+        "buff_price": 7.78
+    },
     "M4A4 | Turbine (Field-Tested)": {
         "buff_price": 2.29
     },
@@ -13775,9 +13823,6 @@
     "FAMAS | Waters of Nephthys (Minimal Wear)": {
         "buff_price": 241
     },
-    "MP5-SD | Autumn Twilly (Field-Tested)": {
-        "buff_price": 17.86
-    },
     "★ Flip Knife | Lore (Minimal Wear)": {
         "buff_price": 328.18
     },
@@ -13870,9 +13915,6 @@
     },
     "★ Butterfly Knife | Crimson Web (Field-Tested)": {
         "buff_price": 1145.97
-    },
-    "XM1014 | Entombed (Minimal Wear)": {
-        "buff_price": 7.37
     },
     "CZ75-Auto | Victoria (Factory New)": {
         "buff_price": 244.98
@@ -15053,6 +15095,9 @@
     "Dual Berettas | Marina (Minimal Wear)": {
         "buff_price": 12.15
     },
+    "Galil AR | Rocket Pop (Factory New)": {
+        "buff_price": 37.51
+    },
     "Operation Vanguard Weapon Case": {
         "buff_price": 9.15
     },
@@ -15146,6 +15191,9 @@
     "AWP | Green Energy (Battle-Scarred)": {
         "buff_price": 20.2
     },
+    "★ Skeleton Knife | Ultraviolet (Well-Worn)": {
+        "buff_price": 337.09
+    },
     "M4A1-S | Night Terror (Minimal Wear)": {
         "buff_price": 1.63
     },
@@ -15175,6 +15223,9 @@
     },
     "FAMAS | Styx (Factory New)": {
         "buff_price": 361.57
+    },
+    "Galil AR | Control (Minimal Wear)": {
+        "buff_price": 2.08
     },
     "M4A4 | The Battlestar (Field-Tested)": {
         "buff_price": 47.65
@@ -15269,6 +15320,9 @@
     "Boston 2018 Minor Challengers with Flash Gaming (Holo-Foil)": {
         "buff_price": 61.02
     },
+    "MP9 | Deadly Poison (Minimal Wear)": {
+        "buff_price": 1.68
+    },
     "★ Bayonet | Bright Water (Field-Tested)": {
         "buff_price": 242.23
     },
@@ -15337,6 +15391,9 @@
     },
     "StatTrak™ UMP-45 | Delusion (Minimal Wear)": {
         "buff_price": 2.09
+    },
+    "StatTrak™ CZ75-Auto | Vendetta (Factory New)": {
+        "buff_price": 6.29
     },
     "StatTrak™ M4A4 | Choppa (Factory New)": {
         "buff_price": 8.86
@@ -15410,6 +15467,9 @@
     "Glock-18 | Vogue (Minimal Wear)": {
         "buff_price": 9.8
     },
+    "Five-SeveN | Copper Galaxy (Factory New)": {
+        "buff_price": 88.62
+    },
     "StatTrak™ Glock-18 | Weasel (Field-Tested)": {
         "buff_price": 2.34
     },
@@ -15472,9 +15532,6 @@
     },
     "★ Moto Gloves | Polygon (Battle-Scarred)": {
         "buff_price": 181.95
-    },
-    "Souvenir Nova | Wurst Hölle (Factory New)": {
-        "buff_price": 7.18
     },
     "M4A1-S | Glitched Paint (Minimal Wear)": {
         "buff_price": 10.54
@@ -15724,9 +15781,6 @@
     },
     "★ Talon Knife | Forest DDPAT (Minimal Wear)": {
         "buff_price": 384
-    },
-    "MP7 | Amberline (Minimal Wear)": {
-        "buff_price": 14.49
     },
     "★ Sport Gloves | Slingshot (Field-Tested)": {
         "buff_price": 778.72
@@ -16079,14 +16133,14 @@
     "StatTrak™ P2000 | Turf (Minimal Wear)": {
         "buff_price": 2.58
     },
+    "StatTrak™ Galil AR | Crimson Tsunami (Field-Tested)": {
+        "buff_price": 6.74
+    },
     "M4A1-S | Atomic Alloy (Well-Worn)": {
         "buff_price": 57.42
     },
     "AWP | Printstream (Well-Worn)": {
         "buff_price": 75.46
-    },
-    "M4A4 | Spider Lily (Well-Worn)": {
-        "buff_price": 9.55
     },
     "SSG 08 | Blood in the Water (Factory New)": {
         "buff_price": 535.37
