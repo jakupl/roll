@@ -7,23 +7,19 @@ const PRICE_CONVERSION_RATE = 0.65;
 
 // jesli zawiera slowo
 const BLACKLIST_PARTIAL = [
-    "Sticker",
-    "Graffiti",
-    "Sealed Graffiti",
-    "Patch"
+
 ];
 
 const BLACKLIST_EXACT = [
-    "AK-47 | Safari Mesh (Field-Tested)", 
-    "P250 | Sand Dune (Battle-Scarred)"
+
 ];
 
 const BUFF_CSFLOAT_THRESHOLD = 0.90;
 const MIN_BUFF_STOCK    = 15;
 const MIN_CSFLOAT_STOCK = 10;
 
-const MIN_BUFF_PRICE = 1;      
-const MAX_BUFF_PRICE = 4000;    
+const MIN_BUFF_PRICE = 1.00;      
+const MAX_BUFF_PRICE = 40100.00;    
 
 const BUFF_URL    = 'https://jakupl.github.io/buff/buffPriceList.json';
 const CSFLOAT_URL = 'https://jakupl.github.io/csfloat/floatPriceList.json';
