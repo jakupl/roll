@@ -19,7 +19,7 @@ const MIN_BUFF_STOCK    = 15;
 const MIN_CSFLOAT_STOCK = 10;
 
 const MIN_BUFF_PRICE = 1.00;      
-const MAX_BUFF_PRICE = 40100.00;    
+const MAX_BUFF_PRICE = 5000.00;    
 
 const BUFF_URL    = 'https://jakupl.github.io/buff/buffPriceList.json';
 const CSFLOAT_URL = 'https://jakupl.github.io/csfloat/floatPriceList.json';
