@@ -8,6 +8,8 @@ const PRICE_CONVERSION_RATE = 0.65;
 // jesli zawiera slowo
 const BLACKLIST_PARTIAL = [
 
+    "Sticker"
+
 ];
 
 const BLACKLIST_EXACT = [
