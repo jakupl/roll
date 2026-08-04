@@ -1,10 +1,11 @@
 {
   "name": "price-filter",
   "version": "1.0.0",
-  "description": "Script to filter prices and publish to GitHub Pages",
+  "description": "Filtruje ceny z BetterFlipper Partner API i publikuje na GitHub Pages",
   "main": "filter.js",
-  "dependencies": {
-    "node-fetch": "^2.6.1"
+  "dependencies": {},
+  "engines": {
+    "node": ">=18"
   },
   "scripts": {
     "start": "node filter.js"

@@ -1,6 +1,9 @@
 
+// Ceny pochodzą z BetterFlipper Partner API zamiast ze statycznych plików
+// na GitHub Pages. Node >= 18 ma wbudowany fetch, więc node-fetch nie jest
+// już potrzebny.
+
 const fs = require('fs').promises;
-const fetch = require('node-fetch');
 
 // 1 / 0.66 = ~1.515
 const PRICE_CONVERSION_RATE = 0.65; 
@@ -23,19 +26,40 @@ const MIN_CSFLOAT_STOCK = 10;
 const MIN_BUFF_PRICE = 1.00;      
 const MAX_BUFF_PRICE = 1234.00;    
 
-const BUFF_URL    = 'https://jakupl.github.io/buff/buffPriceList.json';
-const CSFLOAT_URL = 'https://jakupl.github.io/csfloat/floatPriceList.json';
+const BFP_API_BASE = process.env.BFP_API_BASE || 'https://apisystem.betterflipper.com/partner/v1';
+const BFP_API_KEY  = process.env.BFP_API_KEY || '';
 
 const OUTPUT_FILE = 'filteredPriceList.json';
 const LOG_FILE    = 'debug-log.txt';
 
-async function fetchJson(url) {
+/**
+ * Pobiera cennik jednego marketu z BetterFlippera i zwraca { nazwa: { price, stock } }.
+ *
+ * API oddaje { items: [{ name, bid, ask, count }] }. `ask` to najniższy listing —
+ * dokładnie to, co wcześniej niosło pole `price`, a `count` to dawny `stock`.
+ * Ceny są w USD, tak jak w poprzednich źródłach, więc progi filtrów zostają bez zmian.
+ *
+ * Zwraca null przy błędzie — wywołujący przerywa wtedy przebieg.
+ */
+async function fetchMarket(market) {
+  const url = `${BFP_API_BASE}/prices/${market}`;
   try {
-    const response = await fetch(url);
-    if (!response.ok) throw new Error(`HTTP ${response.status}`);
-    return await response.json();
+    const response = await fetch(url, { headers: { 'X-API-Key': BFP_API_KEY } });
+    if (!response.ok) {
+      // API zwraca powód w polu `detail` — bez niego diagnoza to zgadywanka.
+      const detail = await response.text().catch(() => '');
+      throw new Error(`HTTP ${response.status} ${detail.slice(0, 200)}`);
+    }
+
+    const raw = await response.json();
+    const out = {};
+    for (const item of raw.items || []) {
+      if (!item.name || item.ask === null || item.ask === undefined) continue;
+      out[item.name] = { price: item.ask, stock: item.count ?? 0 };
+    }
+    return out;
   } catch (error) {
-    console.error(`Błąd pobierania ${url}: ${error.message}`);
+    console.error(`Błąd pobierania ${market}: ${error.message}`);
     return null;
   }
 }
@@ -47,30 +71,27 @@ async function main() {
   const calculatedMultiplier = 1 / PRICE_CONVERSION_RATE;
   log += `Przelicznik użytkownika: ${PRICE_CONVERSION_RATE} -> Mnożnik cen: ${calculatedMultiplier.toFixed(4)}\n\n`;
 
-  const rawBuff    = await fetchJson(BUFF_URL);
-  const rawCsfloat = await fetchJson(CSFLOAT_URL);
-
-  if (!rawBuff || !rawCsfloat) {
-    log += 'Nie udało się pobrać danych z jednego ze źródeł.\n';
-    await fs.writeFile(OUTPUT_FILE, JSON.stringify({}, null, 4));
+  if (!BFP_API_KEY) {
+    log += 'Brak BFP_API_KEY — bez klucza BetterFlipper nie pobiorę cenników.\n';
     await fs.writeFile(LOG_FILE, log);
+    console.error('Brak BFP_API_KEY. Ustaw sekret w Settings → Secrets and variables → Actions.');
+    process.exitCode = 1;
     return;
   }
 
-  const csfloatRawData = rawCsfloat.items || rawCsfloat;
+  const [buffData, csfloatData] = await Promise.all([
+    fetchMarket('buff'),
+    fetchMarket('csfloat'),
+  ]);
 
-  const buffData = {};
-  for (const [key, value] of Object.entries(rawBuff)) {
-    if (key !== 'updated_at' && typeof value === 'object' && 'price' in value && 'stock' in value) {
-      buffData[key] = { price: value.price, stock: value.stock };
-    }
-  }
-
-  const csfloatData = {};
-  for (const [key, value] of Object.entries(csfloatRawData)) {
-    if (typeof value === 'object' && 'price' in value && 'stock' in value) {
-      csfloatData[key] = { price: value.price, stock: value.stock };
-    }
+  // Nadpisanie wyniku pustką skasowałoby działający cennik na Pages,
+  // więc przy błędzie zostawiamy poprzedni plik nietknięty.
+  if (!buffData || !csfloatData) {
+    log += 'Nie udało się pobrać danych z jednego ze źródeł — zostawiam poprzedni cennik.\n';
+    await fs.writeFile(LOG_FILE, log);
+    console.error('Pobieranie nieudane — filteredPriceList.json bez zmian.');
+    process.exitCode = 1;
+    return;
   }
 
   log += `Buff items: ${Object.keys(buffData).length}\n`;
