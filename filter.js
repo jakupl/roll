@@ -23,7 +23,7 @@ const BUFF_CSFLOAT_THRESHOLD = 0.95;
 const MIN_BUFF_STOCK    = 15;
 const MIN_CSFLOAT_STOCK = 10;
 
-const MIN_BUFF_PRICE = 1.00;      
+const MIN_BUFF_PRICE = 15.00;      
 const MAX_BUFF_PRICE = 1234.00;    
 
 const BFP_API_BASE = process.env.BFP_API_BASE || 'https://apisystem.betterflipper.com/partner/v1';
