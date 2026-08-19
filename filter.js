@@ -16,7 +16,7 @@ const BLACKLIST_PARTIAL = [
 ];
 
 const BLACKLIST_EXACT = [
-
+"StatTrak™ Galil AR | Orange DDPAT (Minimal Wear)"
 ];
 
 const BUFF_CSFLOAT_THRESHOLD = 0.95;
