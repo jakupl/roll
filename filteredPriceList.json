@@ -5,11 +5,14 @@
     "AK-47 | AUTOEXEC (Battle-Scarred)": {
         "buff_price": 121.32
     },
+    "AK-47 | AUTOEXEC (Field-Tested)": {
+        "buff_price": 260.55
+    },
     "AK-47 | AUTOEXEC (Minimal Wear)": {
         "buff_price": 458.6
     },
     "AK-47 | AUTOEXEC (Well-Worn)": {
-        "buff_price": 140.83
+        "buff_price": 140.14
     },
     "AK-47 | Aphrodite (Factory New)": {
         "buff_price": 403.2
@@ -24,10 +27,10 @@
         "buff_price": 239.77
     },
     "AK-47 | Aquamarine Revenge (Field-Tested)": {
-        "buff_price": 52.86
+        "buff_price": 52.98
     },
     "AK-47 | Aquamarine Revenge (Minimal Wear)": {
-        "buff_price": 84.17
+        "buff_price": 84.86
     },
     "AK-47 | Aquamarine Revenge (Well-Worn)": {
         "buff_price": 44.8
@@ -39,7 +42,7 @@
         "buff_price": 447.02
     },
     "AK-47 | Asiimov (Field-Tested)": {
-        "buff_price": 59.63
+        "buff_price": 60.55
     },
     "AK-47 | Asiimov (Well-Worn)": {
         "buff_price": 60.09
@@ -48,19 +51,22 @@
         "buff_price": 75.68
     },
     "AK-47 | B the Monster (Factory New)": {
-        "buff_price": 596.2
+        "buff_price": 593.23
     },
     "AK-47 | B the Monster (Field-Tested)": {
-        "buff_price": 134.05
+        "buff_price": 133.94
     },
     "AK-47 | B the Monster (Minimal Wear)": {
         "buff_price": 229.11
+    },
+    "AK-47 | B the Monster (Well-Worn)": {
+        "buff_price": 121.43
     },
     "AK-47 | Baroque Purple (Factory New)": {
         "buff_price": 118.78
     },
     "AK-47 | Black Laminate (Battle-Scarred)": {
-        "buff_price": 51.03
+        "buff_price": 50.92
     },
     "AK-47 | Black Laminate (Factory New)": {
         "buff_price": 447.02
@@ -75,25 +81,25 @@
         "buff_price": 235.66
     },
     "AK-47 | Bloodsport (Field-Tested)": {
-        "buff_price": 178.43
+        "buff_price": 178.66
     },
     "AK-47 | Bloodsport (Minimal Wear)": {
-        "buff_price": 193.8
+        "buff_price": 194.26
     },
     "AK-47 | Blue Laminate (Factory New)": {
-        "buff_price": 48.05
+        "buff_price": 47.82
     },
     "AK-47 | Cartel (Factory New)": {
-        "buff_price": 80.15
+        "buff_price": 79.82
     },
     "AK-47 | Cartel (Minimal Wear)": {
-        "buff_price": 28.68
+        "buff_price": 28.8
     },
     "AK-47 | Case Hardened (Battle-Scarred)": {
-        "buff_price": 261.69
+        "buff_price": 257.11
     },
     "AK-47 | Case Hardened (Factory New)": {
-        "buff_price": 584.74
+        "buff_price": 584.51
     },
     "AK-47 | Case Hardened (Field-Tested)": {
         "buff_price": 321.09
@@ -116,17 +122,14 @@
     "AK-47 | Consequence of the Jinn (Well-Worn)": {
         "buff_price": 121.55
     },
-    "AK-47 | Crane Flight (Factory New)": {
-        "buff_price": 75.46
-    },
     "AK-47 | Crane Flight (Minimal Wear)": {
-        "buff_price": 33.49
+        "buff_price": 33.6
     },
     "AK-47 | Emerald Pinstripe (Factory New)": {
-        "buff_price": 23.85
+        "buff_price": 24.31
     },
     "AK-47 | Fire Serpent (Field-Tested)": {
-        "buff_price": 1052.28
+        "buff_price": 1052.05
     },
     "AK-47 | Fire Serpent (Minimal Wear)": {
         "buff_price": 1548.14
@@ -141,16 +144,16 @@
         "buff_price": 38.98
     },
     "AK-47 | Fuel Injector (Battle-Scarred)": {
-        "buff_price": 137.72
+        "buff_price": 137.49
     },
     "AK-47 | Fuel Injector (Factory New)": {
-        "buff_price": 554.92
+        "buff_price": 568.23
     },
     "AK-47 | Fuel Injector (Field-Tested)": {
-        "buff_price": 227.52
+        "buff_price": 228.89
     },
     "AK-47 | Fuel Injector (Minimal Wear)": {
-        "buff_price": 302.75
+        "buff_price": 302.63
     },
     "AK-47 | Fuel Injector (Well-Worn)": {
         "buff_price": 164.77
@@ -162,40 +165,40 @@
         "buff_price": 81.17
     },
     "AK-47 | Green Laminate (Field-Tested)": {
-        "buff_price": 25.89
+        "buff_price": 25.23
     },
     "AK-47 | Green Laminate (Minimal Wear)": {
         "buff_price": 26.37
     },
     "AK-47 | Head Shot (Battle-Scarred)": {
-        "buff_price": 35.77
+        "buff_price": 35.54
     },
     "AK-47 | Head Shot (Factory New)": {
         "buff_price": 135.09
     },
     "AK-47 | Head Shot (Field-Tested)": {
-        "buff_price": 45.74
+        "buff_price": 46.11
     },
     "AK-47 | Head Shot (Minimal Wear)": {
         "buff_price": 72.78
+    },
+    "AK-47 | Head Shot (Well-Worn)": {
+        "buff_price": 43.92
     },
     "AK-47 | Hydroponic (Field-Tested)": {
         "buff_price": 1582.54
     },
     "AK-47 | Inheritance (Battle-Scarred)": {
-        "buff_price": 45.88
+        "buff_price": 45.8
     },
     "AK-47 | Inheritance (Factory New)": {
         "buff_price": 178.43
     },
-    "AK-47 | Inheritance (Field-Tested)": {
-        "buff_price": 54.71
-    },
     "AK-47 | Inheritance (Minimal Wear)": {
-        "buff_price": 86.68
+        "buff_price": 84.86
     },
     "AK-47 | Inheritance (Well-Worn)": {
-        "buff_price": 51.37
+        "buff_price": 51.65
     },
     "AK-47 | Jaguar (Battle-Scarred)": {
         "buff_price": 116.18
@@ -222,13 +225,13 @@
         "buff_price": 110.09
     },
     "AK-47 | Leet Museo (Factory New)": {
-        "buff_price": 802.63
+        "buff_price": 794.94
     },
     "AK-47 | Leet Museo (Field-Tested)": {
-        "buff_price": 298.35
+        "buff_price": 307.11
     },
     "AK-47 | Leet Museo (Minimal Wear)": {
-        "buff_price": 382.57
+        "buff_price": 373.85
     },
     "AK-47 | Leet Museo (Well-Worn)": {
         "buff_price": 115.6
@@ -237,55 +240,61 @@
         "buff_price": 46.32
     },
     "AK-47 | Legion of Anubis (Factory New)": {
-        "buff_price": 79.58
+        "buff_price": 79.12
     },
     "AK-47 | Legion of Anubis (Field-Tested)": {
-        "buff_price": 47.89
+        "buff_price": 47.55
     },
     "AK-47 | Legion of Anubis (Minimal Wear)": {
-        "buff_price": 50.34
+        "buff_price": 50.46
     },
     "AK-47 | Legion of Anubis (Well-Worn)": {
-        "buff_price": 46.86
+        "buff_price": 46.83
     },
     "AK-47 | Neon Revolution (Battle-Scarred)": {
-        "buff_price": 164.54
+        "buff_price": 164.43
     },
     "AK-47 | Neon Revolution (Factory New)": {
         "buff_price": 366.97
     },
     "AK-47 | Neon Revolution (Field-Tested)": {
-        "buff_price": 168.92
+        "buff_price": 169.72
     },
     "AK-47 | Neon Revolution (Minimal Wear)": {
-        "buff_price": 176.49
+        "buff_price": 176.6
     },
     "AK-47 | Neon Rider (Battle-Scarred)": {
         "buff_price": 64.09
     },
     "AK-47 | Neon Rider (Factory New)": {
-        "buff_price": 297.71
+        "buff_price": 293.57
+    },
+    "AK-47 | Neon Rider (Field-Tested)": {
+        "buff_price": 64.22
     },
     "AK-47 | Neon Rider (Minimal Wear)": {
-        "buff_price": 98.17
+        "buff_price": 98.05
     },
     "AK-47 | Nightwish (Battle-Scarred)": {
-        "buff_price": 91.63
+        "buff_price": 91.4
+    },
+    "AK-47 | Nightwish (Factory New)": {
+        "buff_price": 161.46
     },
     "AK-47 | Nightwish (Field-Tested)": {
-        "buff_price": 99.31
+        "buff_price": 99.77
     },
     "AK-47 | Nightwish (Minimal Wear)": {
-        "buff_price": 102.75
+        "buff_price": 102.63
     },
     "AK-47 | Nightwish (Well-Worn)": {
-        "buff_price": 91.91
+        "buff_price": 91.68
     },
     "AK-47 | Nouveau Rouge (Factory New)": {
         "buff_price": 90.82
     },
     "AK-47 | Nouveau Rouge (Minimal Wear)": {
-        "buff_price": 31.42
+        "buff_price": 31.31
     },
     "AK-47 | Orbit Mk01 (Battle-Scarred)": {
         "buff_price": 36.68
@@ -294,10 +303,7 @@
         "buff_price": 160.32
     },
     "AK-47 | Orbit Mk01 (Field-Tested)": {
-        "buff_price": 36.69
-    },
-    "AK-47 | Orbit Mk01 (Minimal Wear)": {
-        "buff_price": 47.25
+        "buff_price": 37.38
     },
     "AK-47 | Panthera onca (Factory New)": {
         "buff_price": 591.15
@@ -315,16 +321,16 @@
         "buff_price": 100.31
     },
     "AK-47 | Point Disarray (Minimal Wear)": {
-        "buff_price": 29.68
+        "buff_price": 29.45
     },
     "AK-47 | Rat Rod (Factory New)": {
-        "buff_price": 123.51
+        "buff_price": 121.32
     },
     "AK-47 | Red Laminate (Battle-Scarred)": {
         "buff_price": 66.95
     },
     "AK-47 | Red Laminate (Field-Tested)": {
-        "buff_price": 68.8
+        "buff_price": 68.74
     },
     "AK-47 | Red Laminate (Well-Worn)": {
         "buff_price": 68.78
@@ -333,7 +339,7 @@
         "buff_price": 35.06
     },
     "AK-47 | Redline (Field-Tested)": {
-        "buff_price": 42.43
+        "buff_price": 42.95
     },
     "AK-47 | Redline (Minimal Wear)": {
         "buff_price": 203.66
@@ -345,22 +351,22 @@
         "buff_price": 27.06
     },
     "AK-47 | Searing Rage (Factory New)": {
-        "buff_price": 31.11
+        "buff_price": 31.09
     },
     "AK-47 | The Empress (Battle-Scarred)": {
         "buff_price": 149.63
     },
     "AK-47 | The Empress (Field-Tested)": {
-        "buff_price": 150.91
+        "buff_price": 149.08
     },
     "AK-47 | The Empress (Minimal Wear)": {
-        "buff_price": 155.58
+        "buff_price": 155.45
     },
     "AK-47 | The Empress (Well-Worn)": {
         "buff_price": 147.94
     },
     "AK-47 | The Oligarch (Battle-Scarred)": {
-        "buff_price": 38.75
+        "buff_price": 38.89
     },
     "AK-47 | The Oligarch (Factory New)": {
         "buff_price": 410.86
@@ -369,10 +375,13 @@
         "buff_price": 160.09
     },
     "AK-47 | The Oligarch (Well-Worn)": {
-        "buff_price": 46.11
+        "buff_price": 46.55
     },
     "AK-47 | The Outsiders (Factory New)": {
         "buff_price": 104.92
+    },
+    "AK-47 | Vulcan (Battle-Scarred)": {
+        "buff_price": 163.43
     },
     "AK-47 | Vulcan (Factory New)": {
         "buff_price": 866.72
@@ -382,6 +391,9 @@
     },
     "AK-47 | Vulcan (Minimal Wear)": {
         "buff_price": 549.77
+    },
+    "AK-47 | Vulcan (Well-Worn)": {
+        "buff_price": 207.78
     },
     "AK-47 | Wasteland Rebel (Factory New)": {
         "buff_price": 547.68
@@ -432,10 +444,10 @@
         "buff_price": 83.55
     },
     "AUG | Midnight Lily (Factory New)": {
-        "buff_price": 457.78
+        "buff_price": 457.68
     },
     "AUG | Momentum (Factory New)": {
-        "buff_price": 57.32
+        "buff_price": 57.26
     },
     "AUG | Sand Storm (Field-Tested)": {
         "buff_price": 27.75
@@ -447,25 +459,25 @@
         "buff_price": 109.97
     },
     "AWP | Asiimov (Field-Tested)": {
-        "buff_price": 165.58
+        "buff_price": 165.37
     },
     "AWP | Asiimov (Well-Worn)": {
-        "buff_price": 130.05
+        "buff_price": 127.29
     },
     "AWP | Atheris (Factory New)": {
-        "buff_price": 61.66
+        "buff_price": 61.08
     },
     "AWP | BOOM (Field-Tested)": {
         "buff_price": 155.74
     },
     "AWP | BOOM (Minimal Wear)": {
-        "buff_price": 185.66
+        "buff_price": 185.43
     },
     "AWP | Black Box (Factory New)": {
-        "buff_price": 37.62
+        "buff_price": 36.92
     },
     "AWP | Black Nile (Factory New)": {
-        "buff_price": 37.05
+        "buff_price": 36.82
     },
     "AWP | CMYK (Battle-Scarred)": {
         "buff_price": 132.8
@@ -474,7 +486,7 @@
         "buff_price": 1066.26
     },
     "AWP | CMYK (Field-Tested)": {
-        "buff_price": 249.31
+        "buff_price": 247.48
     },
     "AWP | CMYK (Minimal Wear)": {
         "buff_price": 388.75
@@ -483,28 +495,31 @@
         "buff_price": 201.08
     },
     "AWP | Chromatic Aberration (Battle-Scarred)": {
-        "buff_price": 37.68
+        "buff_price": 37.55
     },
     "AWP | Chromatic Aberration (Factory New)": {
         "buff_price": 110.55
     },
     "AWP | Chromatic Aberration (Field-Tested)": {
-        "buff_price": 46.11
+        "buff_price": 45.86
     },
     "AWP | Chromatic Aberration (Minimal Wear)": {
-        "buff_price": 54.82
+        "buff_price": 54.71
     },
     "AWP | Chromatic Aberration (Well-Worn)": {
         "buff_price": 42.43
     },
+    "AWP | Chrome Cannon (Battle-Scarred)": {
+        "buff_price": 35.09
+    },
     "AWP | Chrome Cannon (Field-Tested)": {
-        "buff_price": 41.28
+        "buff_price": 41.46
     },
     "AWP | Chrome Cannon (Minimal Wear)": {
-        "buff_price": 52.86
+        "buff_price": 52.75
     },
     "AWP | Chrome Cannon (Well-Worn)": {
-        "buff_price": 35.23
+        "buff_price": 33.94
     },
     "AWP | Containment Breach (Factory New)": {
         "buff_price": 685.31
@@ -516,7 +531,7 @@
         "buff_price": 205.71
     },
     "AWP | Corticera (Factory New)": {
-        "buff_price": 199.97
+        "buff_price": 199.57
     },
     "AWP | Corticera (Field-Tested)": {
         "buff_price": 31.02
@@ -525,7 +540,7 @@
         "buff_price": 30.51
     },
     "AWP | Crakow! (Battle-Scarred)": {
-        "buff_price": 24.29
+        "buff_price": 24.17
     },
     "AWP | Crakow! (Factory New)": {
         "buff_price": 128.32
@@ -534,10 +549,10 @@
         "buff_price": 33.14
     },
     "AWP | Crakow! (Minimal Wear)": {
-        "buff_price": 62.38
+        "buff_price": 62.95
     },
     "AWP | Crakow! (Well-Worn)": {
-        "buff_price": 25
+        "buff_price": 25.34
     },
     "AWP | Desert Hydra (Field-Tested)": {
         "buff_price": 1579.11
@@ -549,10 +564,10 @@
         "buff_price": 144.26
     },
     "AWP | Electric Hive (Field-Tested)": {
-        "buff_price": 38.22
+        "buff_price": 36.69
     },
     "AWP | Electric Hive (Minimal Wear)": {
-        "buff_price": 40.83
+        "buff_price": 41.17
     },
     "AWP | Elite Build (Factory New)": {
         "buff_price": 119.26
@@ -561,13 +576,13 @@
         "buff_price": 25.2
     },
     "AWP | Exoskeleton (Factory New)": {
-        "buff_price": 65.14
+        "buff_price": 65.02
     },
     "AWP | Fade (Factory New)": {
         "buff_price": 1112.37
     },
     "AWP | Fever Dream (Factory New)": {
-        "buff_price": 31.65
+        "buff_price": 31.31
     },
     "AWP | Graphite (Factory New)": {
         "buff_price": 213.08
@@ -576,10 +591,7 @@
         "buff_price": 218.12
     },
     "AWP | Green Energy (Factory New)": {
-        "buff_price": 58.29
-    },
-    "AWP | Green Energy (Minimal Wear)": {
-        "buff_price": 23.17
+        "buff_price": 58.26
     },
     "AWP | Hyper Beast (Battle-Scarred)": {
         "buff_price": 41.38
@@ -588,31 +600,31 @@
         "buff_price": 233.94
     },
     "AWP | Hyper Beast (Field-Tested)": {
-        "buff_price": 45.42
+        "buff_price": 45.88
     },
     "AWP | Hyper Beast (Minimal Wear)": {
-        "buff_price": 68.12
+        "buff_price": 69.15
     },
     "AWP | Ice Coaled (Factory New)": {
-        "buff_price": 42.54
+        "buff_price": 42.77
     },
     "AWP | Lightning Strike (Factory New)": {
-        "buff_price": 697.23
+        "buff_price": 702.4
     },
     "AWP | LongDog (Battle-Scarred)": {
-        "buff_price": 56.31
+        "buff_price": 56.08
     },
     "AWP | LongDog (Factory New)": {
         "buff_price": 823.38
     },
     "AWP | LongDog (Field-Tested)": {
-        "buff_price": 116.51
+        "buff_price": 116.4
     },
     "AWP | LongDog (Minimal Wear)": {
         "buff_price": 238.29
     },
     "AWP | LongDog (Well-Worn)": {
-        "buff_price": 59.28
+        "buff_price": 59.17
     },
     "AWP | Man-o'-war (Field-Tested)": {
         "buff_price": 171.91
@@ -623,26 +635,23 @@
     "AWP | Neo-Noir (Battle-Scarred)": {
         "buff_price": 59.78
     },
-    "AWP | Neo-Noir (Factory New)": {
-        "buff_price": 76.82
-    },
     "AWP | Neo-Noir (Field-Tested)": {
-        "buff_price": 58.49
+        "buff_price": 60.55
     },
     "AWP | Neo-Noir (Minimal Wear)": {
-        "buff_price": 62.95
+        "buff_price": 64.22
     },
     "AWP | Oni Taiji (Factory New)": {
-        "buff_price": 907.78
+        "buff_price": 907.4
     },
     "AWP | Oni Taiji (Field-Tested)": {
-        "buff_price": 386.09
+        "buff_price": 385.71
     },
     "AWP | Oni Taiji (Minimal Wear)": {
         "buff_price": 513.75
     },
     "AWP | POP AWP (Factory New)": {
-        "buff_price": 71.06
+        "buff_price": 71
     },
     "AWP | Pink DDPAT (Field-Tested)": {
         "buff_price": 31.51
@@ -656,11 +665,14 @@
     "AWP | Printstream (Factory New)": {
         "buff_price": 251.08
     },
+    "AWP | Printstream (Field-Tested)": {
+        "buff_price": 66.92
+    },
     "AWP | Printstream (Minimal Wear)": {
-        "buff_price": 94.82
+        "buff_price": 94.92
     },
     "AWP | Printstream (Well-Worn)": {
-        "buff_price": 60.09
+        "buff_price": 61.09
     },
     "AWP | Queen's Gambit (Battle-Scarred)": {
         "buff_price": 49.43
@@ -669,10 +681,10 @@
         "buff_price": 315.14
     },
     "AWP | Queen's Gambit (Field-Tested)": {
-        "buff_price": 73.74
+        "buff_price": 73.62
     },
     "AWP | Queen's Gambit (Minimal Wear)": {
-        "buff_price": 145.65
+        "buff_price": 146.32
     },
     "AWP | Queen's Gambit (Well-Worn)": {
         "buff_price": 68.45
@@ -684,7 +696,7 @@
         "buff_price": 91.74
     },
     "AWP | Silk Tiger (Factory New)": {
-        "buff_price": 840.15
+        "buff_price": 840.03
     },
     "AWP | Silk Tiger (Field-Tested)": {
         "buff_price": 247.71
@@ -696,16 +708,16 @@
         "buff_price": 94.92
     },
     "AWP | Snake Camo (Minimal Wear)": {
-        "buff_price": 142.2
+        "buff_price": 142.06
     },
     "AWP | Sovereign Flame (Battle-Scarred)": {
         "buff_price": 128.22
     },
     "AWP | Sovereign Flame (Factory New)": {
-        "buff_price": 708.71
+        "buff_price": 703.09
     },
     "AWP | Sovereign Flame (Field-Tested)": {
-        "buff_price": 183.26
+        "buff_price": 182.8
     },
     "AWP | Sovereign Flame (Minimal Wear)": {
         "buff_price": 303.89
@@ -714,31 +726,28 @@
         "buff_price": 121.09
     },
     "AWP | Sun in Leo (Battle-Scarred)": {
-        "buff_price": 27.52
+        "buff_price": 27.49
     },
     "AWP | Sun in Leo (Factory New)": {
         "buff_price": 138.31
     },
     "AWP | Sun in Leo (Field-Tested)": {
-        "buff_price": 27.86
+        "buff_price": 27.75
     },
     "AWP | Sun in Leo (Minimal Wear)": {
         "buff_price": 40.6
     },
     "AWP | The End (Factory New)": {
-        "buff_price": 73.38
+        "buff_price": 77.97
     },
     "AWP | The End (Minimal Wear)": {
-        "buff_price": 27.15
+        "buff_price": 27.52
     },
     "AWP | Wildfire (Battle-Scarred)": {
-        "buff_price": 53.97
+        "buff_price": 53.95
     },
     "AWP | Wildfire (Factory New)": {
         "buff_price": 231.65
-    },
-    "AWP | Wildfire (Field-Tested)": {
-        "buff_price": 63.65
     },
     "AWP | Wildfire (Minimal Wear)": {
         "buff_price": 96.32
@@ -747,7 +756,7 @@
         "buff_price": 68.12
     },
     "Alyx Pin": {
-        "buff_price": 40.83
+        "buff_price": 40.71
     },
     "Arno The Overgrown | Guerrilla Warfare": {
         "buff_price": 23.92
@@ -756,19 +765,16 @@
         "buff_price": 24.08
     },
     "Bloody Darryl The Strapped | The Professionals": {
-        "buff_price": 44.72
-    },
-    "CS:GO Weapon Case": {
-        "buff_price": 155.28
+        "buff_price": 44.85
     },
     "CS:GO Weapon Case 2": {
-        "buff_price": 33.94
+        "buff_price": 34.86
     },
     "CZ75-Auto | Eco (Factory New)": {
         "buff_price": 25.11
     },
     "CZ75-Auto | Emerald (Factory New)": {
-        "buff_price": 55.03
+        "buff_price": 54.82
     },
     "CZ75-Auto | Syndicate (Factory New)": {
         "buff_price": 37.82
@@ -798,10 +804,7 @@
         "buff_price": 58.26
     },
     "Charm | Butane Buddy": {
-        "buff_price": 174.2
-    },
-    "Charm | Hot Howl": {
-        "buff_price": 32.11
+        "buff_price": 173.62
     },
     "Charm | Lil' Boo": {
         "buff_price": 127.98
@@ -810,16 +813,16 @@
         "buff_price": 37.31
     },
     "Chef d'Escadron Rouchard | Gendarmerie Nationale": {
-        "buff_price": 28.2
+        "buff_price": 28.22
     },
     "Chem-Haz Capitaine | Gendarmerie Nationale": {
-        "buff_price": 30.46
+        "buff_price": 29.82
     },
     "Cmdr. Davida 'Goggles' Fernandez | SEAL Frogman": {
-        "buff_price": 63.98
+        "buff_price": 63.31
     },
     "Cmdr. Frank 'Wet Sox' Baroud | SEAL Frogman": {
-        "buff_price": 62.28
+        "buff_price": 61.92
     },
     "Cmdr. Mae 'Dead Cold' Jamison | SWAT": {
         "buff_price": 24.54
@@ -828,22 +831,22 @@
         "buff_price": 39.22
     },
     "Cologne 2016 Challengers (Holo-Foil)": {
-        "buff_price": 54.92
+        "buff_price": 54.82
     },
     "Cologne 2016 Challengers (Holo/Foil)": {
-        "buff_price": 54.92
+        "buff_price": 54.82
     },
     "Crasswater The Forgotten | Guerrilla Warfare": {
         "buff_price": 30.02
     },
     "D Squadron Officer | NZSAS": {
-        "buff_price": 104.71
+        "buff_price": 104.35
     },
     "Desert Eagle | Blaze (Factory New)": {
         "buff_price": 928.88
     },
     "Desert Eagle | Cobalt Disruption (Minimal Wear)": {
-        "buff_price": 121.32
+        "buff_price": 119.26
     },
     "Desert Eagle | Code Red (Factory New)": {
         "buff_price": 249.54
@@ -852,25 +855,25 @@
         "buff_price": 64.45
     },
     "Desert Eagle | Code Red (Minimal Wear)": {
-        "buff_price": 79.82
+        "buff_price": 80.28
     },
     "Desert Eagle | Code Red (Well-Worn)": {
         "buff_price": 64.09
     },
     "Desert Eagle | Conspiracy (Factory New)": {
-        "buff_price": 33.37
+        "buff_price": 32.91
     },
     "Desert Eagle | Conspiracy (Field-Tested)": {
         "buff_price": 28.52
     },
     "Desert Eagle | Conspiracy (Minimal Wear)": {
-        "buff_price": 28.54
+        "buff_price": 28.42
     },
     "Desert Eagle | Crimson Web (Minimal Wear)": {
         "buff_price": 47.94
     },
     "Desert Eagle | Eastern Enigma (Factory New)": {
-        "buff_price": 95.98
+        "buff_price": 95.88
     },
     "Desert Eagle | Eastern Enigma (Minimal Wear)": {
         "buff_price": 43.71
@@ -882,22 +885,22 @@
         "buff_price": 699.31
     },
     "Desert Eagle | Fennec Fox (Factory New)": {
-        "buff_price": 665.12
+        "buff_price": 664.05
     },
     "Desert Eagle | Fennec Fox (Field-Tested)": {
-        "buff_price": 252.29
+        "buff_price": 250
     },
     "Desert Eagle | Golden Koi (Factory New)": {
-        "buff_price": 350.34
+        "buff_price": 350.22
     },
     "Desert Eagle | Heat Treated (Factory New)": {
-        "buff_price": 67.77
+        "buff_price": 67.66
     },
     "Desert Eagle | Heirloom (Factory New)": {
-        "buff_price": 137.62
+        "buff_price": 137.48
     },
     "Desert Eagle | Hypnotic (Factory New)": {
-        "buff_price": 225.46
+        "buff_price": 225.34
     },
     "Desert Eagle | Kumicho Dragon (Battle-Scarred)": {
         "buff_price": 24.4
@@ -907,9 +910,6 @@
     },
     "Desert Eagle | Kumicho Dragon (Field-Tested)": {
         "buff_price": 25.23
-    },
-    "Desert Eagle | Kumicho Dragon (Minimal Wear)": {
-        "buff_price": 41.28
     },
     "Desert Eagle | Midnight Storm (Factory New)": {
         "buff_price": 181.18
@@ -936,7 +936,7 @@
         "buff_price": 412.83
     },
     "Desert Eagle | Ocean Drive (Field-Tested)": {
-        "buff_price": 98.28
+        "buff_price": 98.4
     },
     "Desert Eagle | Ocean Drive (Minimal Wear)": {
         "buff_price": 108.48
@@ -951,25 +951,22 @@
         "buff_price": 137.38
     },
     "Desert Eagle | Printstream (Battle-Scarred)": {
-        "buff_price": 51.32
+        "buff_price": 51.43
     },
     "Desert Eagle | Printstream (Factory New)": {
         "buff_price": 110.78
     },
     "Desert Eagle | Printstream (Field-Tested)": {
-        "buff_price": 52.63
+        "buff_price": 52.75
     },
     "Desert Eagle | Printstream (Minimal Wear)": {
-        "buff_price": 69.62
-    },
-    "Desert Eagle | Printstream (Well-Worn)": {
-        "buff_price": 50.23
+        "buff_price": 69.26
     },
     "Desert Eagle | Starcade (Factory New)": {
-        "buff_price": 334.4
+        "buff_price": 334.28
     },
     "Desert Eagle | Starcade (Field-Tested)": {
-        "buff_price": 62.94
+        "buff_price": 62.85
     },
     "Desert Eagle | Starcade (Minimal Wear)": {
         "buff_price": 112.26
@@ -978,7 +975,7 @@
         "buff_price": 53.89
     },
     "Desert Eagle | The Bronze (Factory New)": {
-        "buff_price": 44.95
+        "buff_price": 42.43
     },
     "Dual Berettas | Cobra Strike (Field-Tested)": {
         "buff_price": 65.98
@@ -993,13 +990,13 @@
         "buff_price": 33.03
     },
     "Dual Berettas | Retribution (Well-Worn)": {
-        "buff_price": 56.57
+        "buff_price": 56.54
     },
     "Dual Berettas | Royal Consorts (Factory New)": {
-        "buff_price": 52.45
+        "buff_price": 51.83
     },
     "Dual Berettas | Twin Turbo (Factory New)": {
-        "buff_price": 26.71
+        "buff_price": 26.6
     },
     "Dust II Pin": {
         "buff_price": 42.2
@@ -1011,7 +1008,7 @@
         "buff_price": 91.69
     },
     "ESL One Cologne 2015 Challengers (Foil)": {
-        "buff_price": 58.46
+        "buff_price": 58.42
     },
     "ESL One Katowice 2015 Legends (Holo-Foil)": {
         "buff_price": 256.31
@@ -1020,28 +1017,31 @@
         "buff_price": 256.31
     },
     "Elite Trapper Solman | Guerrilla Warfare": {
-        "buff_price": 44.62
+        "buff_price": 44.8
+    },
+    "FAMAS | Afterimage (Factory New)": {
+        "buff_price": 89.06
     },
     "FAMAS | Afterimage (Field-Tested)": {
-        "buff_price": 31.52
+        "buff_price": 31.51
     },
     "FAMAS | Afterimage (Minimal Wear)": {
-        "buff_price": 33.02
+        "buff_price": 33.03
     },
     "FAMAS | Bad Trip (Battle-Scarred)": {
-        "buff_price": 60.55
+        "buff_price": 60.32
     },
     "FAMAS | Bad Trip (Factory New)": {
         "buff_price": 110.55
     },
     "FAMAS | Bad Trip (Field-Tested)": {
-        "buff_price": 66.23
+        "buff_price": 66.12
     },
     "FAMAS | Bad Trip (Minimal Wear)": {
         "buff_price": 71.45
     },
     "FAMAS | Bad Trip (Well-Worn)": {
-        "buff_price": 59.63
+        "buff_price": 59.05
     },
     "FAMAS | Commemoration (Factory New)": {
         "buff_price": 102.82
@@ -1053,7 +1053,7 @@
         "buff_price": 44.72
     },
     "FAMAS | Dark Water (Minimal Wear)": {
-        "buff_price": 32.91
+        "buff_price": 32.89
     },
     "FAMAS | Djinn (Factory New)": {
         "buff_price": 70.26
@@ -1068,7 +1068,7 @@
         "buff_price": 193.12
     },
     "FAMAS | Mecha Industries (Minimal Wear)": {
-        "buff_price": 49.08
+        "buff_price": 49.6
     },
     "FAMAS | Mecha Industries (Well-Worn)": {
         "buff_price": 45.65
@@ -1077,7 +1077,7 @@
         "buff_price": 155.51
     },
     "FAMAS | Meltdown (Field-Tested)": {
-        "buff_price": 38.58
+        "buff_price": 38.17
     },
     "FAMAS | Meltdown (Minimal Wear)": {
         "buff_price": 46.45
@@ -1086,19 +1086,19 @@
         "buff_price": 29.25
     },
     "FAMAS | Prime Conspiracy (Minimal Wear)": {
-        "buff_price": 122.31
+        "buff_price": 122.18
     },
     "FAMAS | Pulse (Factory New)": {
         "buff_price": 49.77
     },
     "FAMAS | Rapid Eye Movement (Factory New)": {
-        "buff_price": 25.46
+        "buff_price": 25.8
     },
     "FAMAS | Roll Cage (Battle-Scarred)": {
         "buff_price": 160.43
     },
     "FAMAS | Roll Cage (Factory New)": {
-        "buff_price": 212.85
+        "buff_price": 212.82
     },
     "FAMAS | Roll Cage (Field-Tested)": {
         "buff_price": 170.63
@@ -1116,16 +1116,13 @@
         "buff_price": 25.94
     },
     "FAMAS | Valence (Factory New)": {
-        "buff_price": 50.92
+        "buff_price": 50.91
     },
     "FAMAS | Waters of Nephthys (Battle-Scarred)": {
-        "buff_price": 52.09
+        "buff_price": 52
     },
     "FAMAS | Waters of Nephthys (Factory New)": {
-        "buff_price": 296.28
-    },
-    "FAMAS | Waters of Nephthys (Field-Tested)": {
-        "buff_price": 62.38
+        "buff_price": 295.86
     },
     "FAMAS | Waters of Nephthys (Minimal Wear)": {
         "buff_price": 112.26
@@ -1133,53 +1130,53 @@
     "FAMAS | ZX Spectron (Factory New)": {
         "buff_price": 45.42
     },
-    "Five-SeveN | Angry Mob (Battle-Scarred)": {
-        "buff_price": 77.86
-    },
     "Five-SeveN | Angry Mob (Factory New)": {
         "buff_price": 109.52
     },
     "Five-SeveN | Angry Mob (Field-Tested)": {
-        "buff_price": 79.12
+        "buff_price": 79.11
     },
     "Five-SeveN | Angry Mob (Minimal Wear)": {
-        "buff_price": 84.29
+        "buff_price": 84.06
     },
     "Five-SeveN | Anodized Gunmetal (Factory New)": {
         "buff_price": 27.31
     },
     "Five-SeveN | Berries And Cherries (Factory New)": {
-        "buff_price": 165.37
+        "buff_price": 165.14
     },
     "Five-SeveN | Candy Apple (Factory New)": {
-        "buff_price": 105.94
+        "buff_price": 105.89
     },
     "Five-SeveN | Case Hardened (Factory New)": {
-        "buff_price": 72
+        "buff_price": 71.98
     },
     "Five-SeveN | Copper Galaxy (Factory New)": {
-        "buff_price": 38.08
+        "buff_price": 40.14
     },
     "Five-SeveN | Crimson Blossom (Factory New)": {
-        "buff_price": 135.09
+        "buff_price": 135.06
     },
     "Five-SeveN | Fairy Tale (Battle-Scarred)": {
-        "buff_price": 31.34
+        "buff_price": 32.03
     },
     "Five-SeveN | Fairy Tale (Factory New)": {
         "buff_price": 321.09
     },
     "Five-SeveN | Fairy Tale (Field-Tested)": {
-        "buff_price": 34.49
+        "buff_price": 34.37
     },
     "Five-SeveN | Fairy Tale (Minimal Wear)": {
-        "buff_price": 70.18
+        "buff_price": 69.26
     },
     "Five-SeveN | Fowl Play (Battle-Scarred)": {
         "buff_price": 28.52
     },
+    "Five-SeveN | Fowl Play (Field-Tested)": {
+        "buff_price": 29.58
+    },
     "Five-SeveN | Fowl Play (Minimal Wear)": {
-        "buff_price": 31.28
+        "buff_price": 31.26
     },
     "Five-SeveN | Fowl Play (Well-Worn)": {
         "buff_price": 28.55
@@ -1200,7 +1197,7 @@
         "buff_price": 722.46
     },
     "Five-SeveN | Nightshade (Factory New)": {
-        "buff_price": 25.58
+        "buff_price": 25.55
     },
     "Five-SeveN | Triumvirate (Factory New)": {
         "buff_price": 24.65
@@ -1209,28 +1206,28 @@
         "buff_price": 42.54
     },
     "Galil AR | Amber Fade (Factory New)": {
-        "buff_price": 43.57
+        "buff_price": 43.45
     },
     "Galil AR | Aqua Terrace (Factory New)": {
         "buff_price": 215.69
     },
     "Galil AR | Black Sand (Factory New)": {
-        "buff_price": 26.37
+        "buff_price": 25.92
     },
     "Galil AR | Blue Titanium (Factory New)": {
-        "buff_price": 35.09
+        "buff_price": 34.88
     },
     "Galil AR | CAUTION! (Factory New)": {
-        "buff_price": 121.55
+        "buff_price": 121.45
     },
     "Galil AR | Cerberus (Field-Tested)": {
-        "buff_price": 39.58
+        "buff_price": 39.57
     },
     "Galil AR | Cerberus (Minimal Wear)": {
-        "buff_price": 94.63
+        "buff_price": 93.98
     },
     "Galil AR | Chatterbox (Battle-Scarred)": {
-        "buff_price": 174.31
+        "buff_price": 174.29
     },
     "Galil AR | Chatterbox (Field-Tested)": {
         "buff_price": 253.46
@@ -1245,7 +1242,7 @@
         "buff_price": 87.05
     },
     "Galil AR | Eco (Minimal Wear)": {
-        "buff_price": 144.49
+        "buff_price": 144.38
     },
     "Galil AR | Orange DDPAT (Minimal Wear)": {
         "buff_price": 34.4
@@ -1254,49 +1251,52 @@
         "buff_price": 282.11
     },
     "Galil AR | Phoenix Blacklight (Minimal Wear)": {
-        "buff_price": 135.32
+        "buff_price": 135.31
     },
     "Galil AR | Rainbow Spoon (Factory New)": {
         "buff_price": 45.18
     },
     "Galil AR | Rainbow Spoon (Field-Tested)": {
-        "buff_price": 33.22
+        "buff_price": 33.2
     },
     "Galil AR | Rainbow Spoon (Minimal Wear)": {
-        "buff_price": 33.94
+        "buff_price": 33.83
     },
     "Galil AR | Stone Cold (Factory New)": {
         "buff_price": 40.71
+    },
+    "Galil AR | Sugar Rush (Factory New)": {
+        "buff_price": 275.11
     },
     "Galil AR | Sugar Rush (Field-Tested)": {
         "buff_price": 69.88
     },
     "Galil AR | Sugar Rush (Minimal Wear)": {
-        "buff_price": 87.89
+        "buff_price": 90.57
     },
     "Galil AR | Vandal (Factory New)": {
-        "buff_price": 24.52
+        "buff_price": 24.29
     },
     "Getaway Sally | The Professionals": {
-        "buff_price": 104.58
+        "buff_price": 105.51
     },
     "Glock-18 | AXIA (Battle-Scarred)": {
         "buff_price": 34.43
     },
     "Glock-18 | AXIA (Factory New)": {
-        "buff_price": 76.94
+        "buff_price": 76.72
     },
     "Glock-18 | AXIA (Minimal Wear)": {
-        "buff_price": 35.2
+        "buff_price": 35.09
     },
     "Glock-18 | AXIA (Well-Worn)": {
-        "buff_price": 33.15
+        "buff_price": 33.14
     },
     "Glock-18 | Blue Fissure (Factory New)": {
-        "buff_price": 54.75
+        "buff_price": 54.52
     },
     "Glock-18 | Brass (Field-Tested)": {
-        "buff_price": 35.66
+        "buff_price": 35.55
     },
     "Glock-18 | Brass (Minimal Wear)": {
         "buff_price": 80.05
@@ -1305,7 +1305,7 @@
         "buff_price": 75.46
     },
     "Glock-18 | Bullet Queen (Factory New)": {
-        "buff_price": 186.69
+        "buff_price": 186.23
     },
     "Glock-18 | Bullet Queen (Field-Tested)": {
         "buff_price": 79.58
@@ -1323,61 +1323,61 @@
         "buff_price": 48.65
     },
     "Glock-18 | Fully Tuned (Factory New)": {
-        "buff_price": 232.8
+        "buff_price": 227.06
     },
     "Glock-18 | Fully Tuned (Field-Tested)": {
         "buff_price": 75
     },
     "Glock-18 | Fully Tuned (Minimal Wear)": {
-        "buff_price": 144.26
+        "buff_price": 144.22
     },
     "Glock-18 | Fully Tuned (Well-Worn)": {
-        "buff_price": 68.78
+        "buff_price": 68.69
     },
     "Glock-18 | Gamma Doppler (Battle-Scarred)": {
-        "buff_price": 115.2
+        "buff_price": 115.08
     },
     "Glock-18 | Gamma Doppler (Factory New)": {
-        "buff_price": 178.89
+        "buff_price": 176.6
     },
     "Glock-18 | Gamma Doppler (Field-Tested)": {
         "buff_price": 107.68
     },
     "Glock-18 | Gamma Doppler (Minimal Wear)": {
-        "buff_price": 119.94
+        "buff_price": 120.05
     },
     "Glock-18 | Gamma Doppler (Well-Worn)": {
         "buff_price": 118.98
     },
     "Glock-18 | Ghost Protocol (Field-Tested)": {
-        "buff_price": 228.89
+        "buff_price": 228.66
     },
     "Glock-18 | Ghost Protocol (Minimal Wear)": {
         "buff_price": 416.28
     },
     "Glock-18 | Gold Toof (Factory New)": {
-        "buff_price": 239.45
+        "buff_price": 238.29
     },
     "Glock-18 | Gold Toof (Minimal Wear)": {
-        "buff_price": 51.14
+        "buff_price": 51.48
     },
     "Glock-18 | Groundwater (Minimal Wear)": {
         "buff_price": 27.26
     },
     "Glock-18 | Ironwork (Factory New)": {
-        "buff_price": 69.95
+        "buff_price": 69.72
     },
     "Glock-18 | Neo-Noir (Battle-Scarred)": {
-        "buff_price": 43.12
+        "buff_price": 43.29
     },
     "Glock-18 | Neo-Noir (Factory New)": {
         "buff_price": 309.51
     },
     "Glock-18 | Neo-Noir (Minimal Wear)": {
-        "buff_price": 75.68
+        "buff_price": 76.26
     },
     "Glock-18 | Neo-Noir (Well-Worn)": {
-        "buff_price": 44.83
+        "buff_price": 44.72
     },
     "Glock-18 | Nuclear Garden (Factory New)": {
         "buff_price": 80.15
@@ -1388,11 +1388,17 @@
     "Glock-18 | Pink DDPAT (Field-Tested)": {
         "buff_price": 30.38
     },
+    "Glock-18 | Pink DDPAT (Minimal Wear)": {
+        "buff_price": 53.89
+    },
     "Glock-18 | Ramese's Reach (Factory New)": {
-        "buff_price": 118.8
+        "buff_price": 116.51
     },
     "Glock-18 | Ramese's Reach (Minimal Wear)": {
         "buff_price": 23.85
+    },
+    "Glock-18 | Reactor (Factory New)": {
+        "buff_price": 110.09
     },
     "Glock-18 | Reactor (Minimal Wear)": {
         "buff_price": 26.37
@@ -1404,13 +1410,13 @@
         "buff_price": 53.25
     },
     "Glock-18 | Shinobu (Factory New)": {
-        "buff_price": 32.34
+        "buff_price": 31.83
     },
     "Glock-18 | Snack Attack (Factory New)": {
-        "buff_price": 189.91
+        "buff_price": 189.22
     },
     "Glock-18 | Snack Attack (Minimal Wear)": {
-        "buff_price": 41.71
+        "buff_price": 41.46
     },
     "Glock-18 | Steel Disruption (Factory New)": {
         "buff_price": 61.78
@@ -1418,11 +1424,8 @@
     "Glock-18 | Twilight Galaxy (Minimal Wear)": {
         "buff_price": 358.43
     },
-    "Glock-18 | Wasteland Rebel (Factory New)": {
-        "buff_price": 185.28
-    },
     "Glock-18 | Wasteland Rebel (Field-Tested)": {
-        "buff_price": 175.42
+        "buff_price": 173.57
     },
     "Glock-18 | Wasteland Rebel (Minimal Wear)": {
         "buff_price": 174.69
@@ -1430,11 +1433,14 @@
     "Glock-18 | Water Elemental (Factory New)": {
         "buff_price": 90.82
     },
+    "Glock-18 | Water Elemental (Field-Tested)": {
+        "buff_price": 29.12
+    },
     "Glock-18 | Water Elemental (Minimal Wear)": {
-        "buff_price": 29.58
+        "buff_price": 29.25
     },
     "Glock-18 | Weasel (Factory New)": {
-        "buff_price": 46.97
+        "buff_price": 46.94
     },
     "Guardian Elite Pin": {
         "buff_price": 45.75
@@ -1443,7 +1449,7 @@
         "buff_price": 31.37
     },
     "Howl Pin": {
-        "buff_price": 64.2
+        "buff_price": 64.22
     },
     "Jungle Rebel | Elite Crew": {
         "buff_price": 29.82
@@ -1461,7 +1467,7 @@
         "buff_price": 27.28
     },
     "Lieutenant Rex Krikey | SEAL Frogman": {
-        "buff_price": 29.55
+        "buff_price": 29.71
     },
     "Little Kev | The Professionals": {
         "buff_price": 39.45
@@ -1473,25 +1479,22 @@
         "buff_price": 25.8
     },
     "Lt. Commander Ricksaw | NSWC SEAL": {
-        "buff_price": 27.75
+        "buff_price": 28.05
     },
     "M4A1-S | Atomic Alloy (Battle-Scarred)": {
         "buff_price": 36.69
-    },
-    "M4A1-S | Atomic Alloy (Factory New)": {
-        "buff_price": 241.26
     },
     "M4A1-S | Atomic Alloy (Well-Worn)": {
         "buff_price": 34.12
     },
     "M4A1-S | Basilisk (Factory New)": {
-        "buff_price": 51.72
+        "buff_price": 51.6
     },
     "M4A1-S | Blood Tiger (Factory New)": {
-        "buff_price": 28.43
+        "buff_price": 28.42
     },
     "M4A1-S | Blue Phosphor (Factory New)": {
-        "buff_price": 844.03
+        "buff_price": 845.97
     },
     "M4A1-S | Bright Water (Field-Tested)": {
         "buff_price": 52.63
@@ -1502,23 +1505,29 @@
     "M4A1-S | Chantico's Fire (Factory New)": {
         "buff_price": 373.38
     },
+    "M4A1-S | Chantico's Fire (Field-Tested)": {
+        "buff_price": 178.66
+    },
     "M4A1-S | Chantico's Fire (Minimal Wear)": {
-        "buff_price": 182.11
+        "buff_price": 182.29
     },
     "M4A1-S | Chantico's Fire (Well-Worn)": {
-        "buff_price": 178.62
+        "buff_price": 178.65
     },
     "M4A1-S | Control Panel (Factory New)": {
-        "buff_price": 218.34
+        "buff_price": 217.66
     },
     "M4A1-S | Control Panel (Field-Tested)": {
-        "buff_price": 40.83
+        "buff_price": 40.48
+    },
+    "M4A1-S | Control Panel (Minimal Wear)": {
+        "buff_price": 62.83
     },
     "M4A1-S | Cyrex (Factory New)": {
         "buff_price": 286.69
     },
     "M4A1-S | Cyrex (Field-Tested)": {
-        "buff_price": 267.89
+        "buff_price": 263.75
     },
     "M4A1-S | Cyrex (Minimal Wear)": {
         "buff_price": 272.92
@@ -1545,7 +1554,10 @@
         "buff_price": 23.74
     },
     "M4A1-S | Fatal Glitch (Factory New)": {
-        "buff_price": 149.08
+        "buff_price": 146.78
+    },
+    "M4A1-S | Fatal Glitch (Field-Tested)": {
+        "buff_price": 29.11
     },
     "M4A1-S | Fatal Glitch (Minimal Wear)": {
         "buff_price": 61.69
@@ -1554,7 +1566,7 @@
         "buff_price": 24.97
     },
     "M4A1-S | Fizzy POP (Factory New)": {
-        "buff_price": 25.46
+        "buff_price": 25
     },
     "M4A1-S | Flashback (Factory New)": {
         "buff_price": 208.6
@@ -1563,10 +1575,10 @@
         "buff_price": 68.12
     },
     "M4A1-S | Golden Coil (Factory New)": {
-        "buff_price": 385.17
+        "buff_price": 380.72
     },
     "M4A1-S | Golden Coil (Field-Tested)": {
-        "buff_price": 90.83
+        "buff_price": 91.05
     },
     "M4A1-S | Golden Coil (Minimal Wear)": {
         "buff_price": 131.65
@@ -1575,7 +1587,7 @@
         "buff_price": 74.54
     },
     "M4A1-S | Guardian (Factory New)": {
-        "buff_price": 122.58
+        "buff_price": 121.32
     },
     "M4A1-S | Guardian (Field-Tested)": {
         "buff_price": 32.57
@@ -1593,10 +1605,10 @@
         "buff_price": 433.48
     },
     "M4A1-S | Hyper Beast (Field-Tested)": {
-        "buff_price": 178.12
+        "buff_price": 180.74
     },
     "M4A1-S | Hyper Beast (Minimal Wear)": {
-        "buff_price": 185.77
+        "buff_price": 185.32
     },
     "M4A1-S | Hyper Beast (Well-Worn)": {
         "buff_price": 178.89
@@ -1617,19 +1629,19 @@
         "buff_price": 169.6
     },
     "M4A1-S | Master Piece (Minimal Wear)": {
-        "buff_price": 246.78
+        "buff_price": 246.68
     },
     "M4A1-S | Mecha Industries (Battle-Scarred)": {
-        "buff_price": 168.18
+        "buff_price": 168.08
     },
     "M4A1-S | Mecha Industries (Factory New)": {
-        "buff_price": 355.49
+        "buff_price": 355.38
     },
     "M4A1-S | Mecha Industries (Field-Tested)": {
-        "buff_price": 171.91
+        "buff_price": 171.78
     },
     "M4A1-S | Mecha Industries (Minimal Wear)": {
-        "buff_price": 175.91
+        "buff_price": 176.14
     },
     "M4A1-S | Moss Quartz (Factory New)": {
         "buff_price": 137.62
@@ -1638,64 +1650,67 @@
         "buff_price": 31.54
     },
     "M4A1-S | Moss Quartz (Minimal Wear)": {
-        "buff_price": 53.45
+        "buff_price": 53.78
     },
     "M4A1-S | Nightmare (Factory New)": {
-        "buff_price": 350.91
+        "buff_price": 362.15
+    },
+    "M4A1-S | Nightmare (Minimal Wear)": {
+        "buff_price": 32.11
     },
     "M4A1-S | Nitro (Factory New)": {
         "buff_price": 23.97
     },
     "M4A1-S | Party Animal (Factory New)": {
-        "buff_price": 40.48
+        "buff_price": 38.75
     },
     "M4A1-S | Player Two (Battle-Scarred)": {
         "buff_price": 75.57
     },
     "M4A1-S | Player Two (Factory New)": {
-        "buff_price": 220.18
+        "buff_price": 232.34
     },
     "M4A1-S | Player Two (Field-Tested)": {
-        "buff_price": 79.23
+        "buff_price": 78.89
     },
     "M4A1-S | Player Two (Minimal Wear)": {
-        "buff_price": 86.82
+        "buff_price": 86.92
     },
     "M4A1-S | Printstream (Battle-Scarred)": {
         "buff_price": 219.72
     },
     "M4A1-S | Printstream (Factory New)": {
-        "buff_price": 647.92
+        "buff_price": 647.82
     },
     "M4A1-S | Printstream (Field-Tested)": {
-        "buff_price": 274.88
+        "buff_price": 274.77
     },
     "M4A1-S | Printstream (Minimal Wear)": {
-        "buff_price": 408.14
+        "buff_price": 408.25
     },
     "M4A1-S | Vaporwave (Battle-Scarred)": {
-        "buff_price": 58.54
+        "buff_price": 58.46
     },
     "M4A1-S | Vaporwave (Factory New)": {
-        "buff_price": 233.46
+        "buff_price": 233.37
     },
     "M4A1-S | Vaporwave (Field-Tested)": {
         "buff_price": 69.72
     },
     "M4A1-S | Vaporwave (Minimal Wear)": {
-        "buff_price": 109.74
+        "buff_price": 109.49
     },
     "M4A1-S | Welcome to the Jungle (Minimal Wear)": {
         "buff_price": 1680.8
     },
     "M4A4 | Asiimov (Battle-Scarred)": {
-        "buff_price": 120.05
+        "buff_price": 122.71
     },
     "M4A4 | Asiimov (Field-Tested)": {
-        "buff_price": 312.88
+        "buff_price": 310.54
     },
     "M4A4 | Bullet Rain (Factory New)": {
-        "buff_price": 364.29
+        "buff_price": 363.92
     },
     "M4A4 | Bullet Rain (Minimal Wear)": {
         "buff_price": 120.29
@@ -1704,10 +1719,10 @@
         "buff_price": 350.45
     },
     "M4A4 | Buzz Kill (Factory New)": {
-        "buff_price": 793.57
+        "buff_price": 782.09
     },
     "M4A4 | Buzz Kill (Field-Tested)": {
-        "buff_price": 389.91
+        "buff_price": 387.15
     },
     "M4A4 | Buzz Kill (Minimal Wear)": {
         "buff_price": 458.71
@@ -1716,10 +1731,10 @@
         "buff_price": 24.54
     },
     "M4A4 | Cyber Security (Factory New)": {
-        "buff_price": 227.06
+        "buff_price": 236
     },
     "M4A4 | Cyber Security (Field-Tested)": {
-        "buff_price": 25.29
+        "buff_price": 25.23
     },
     "M4A4 | Cyber Security (Minimal Wear)": {
         "buff_price": 50.11
@@ -1736,8 +1751,8 @@
     "M4A4 | Dark Blossom (Minimal Wear)": {
         "buff_price": 30.28
     },
-    "M4A4 | Desert Storm (Factory New)": {
-        "buff_price": 102.75
+    "M4A4 | Daybreak (Factory New)": {
+        "buff_price": 1280.46
     },
     "M4A4 | Desert-Strike (Factory New)": {
         "buff_price": 126.02
@@ -1746,13 +1761,13 @@
         "buff_price": 42.89
     },
     "M4A4 | Desert-Strike (Minimal Wear)": {
-        "buff_price": 45.65
+        "buff_price": 45.85
     },
     "M4A4 | Desolate Space (Factory New)": {
         "buff_price": 127.29
     },
     "M4A4 | Desolate Space (Minimal Wear)": {
-        "buff_price": 27.14
+        "buff_price": 27.15
     },
     "M4A4 | Eye of Horus (Factory New)": {
         "buff_price": 1130.49
@@ -1761,34 +1776,34 @@
         "buff_price": 392.08
     },
     "M4A4 | Eye of Horus (Minimal Wear)": {
-        "buff_price": 618.77
+        "buff_price": 605.03
     },
     "M4A4 | Faded Zebra (Factory New)": {
         "buff_price": 83.49
     },
     "M4A4 | Falak (Factory New)": {
-        "buff_price": 203.43
+        "buff_price": 204.12
     },
     "M4A4 | Falak (Field-Tested)": {
-        "buff_price": 35.89
+        "buff_price": 36.23
     },
     "M4A4 | Falak (Minimal Wear)": {
-        "buff_price": 103.22
+        "buff_price": 102.06
     },
     "M4A4 | Full Throttle (Battle-Scarred)": {
-        "buff_price": 38.15
+        "buff_price": 38.03
     },
     "M4A4 | Full Throttle (Factory New)": {
-        "buff_price": 308.83
+        "buff_price": 308.71
     },
     "M4A4 | Full Throttle (Field-Tested)": {
         "buff_price": 60.43
     },
     "M4A4 | Full Throttle (Minimal Wear)": {
-        "buff_price": 131.65
+        "buff_price": 130.94
     },
     "M4A4 | Full Throttle (Well-Worn)": {
-        "buff_price": 46.66
+        "buff_price": 45.18
     },
     "M4A4 | Global Offensive (Factory New)": {
         "buff_price": 83.69
@@ -1797,19 +1812,19 @@
         "buff_price": 169.72
     },
     "M4A4 | Hellfire (Field-Tested)": {
-        "buff_price": 261.46
+        "buff_price": 252.29
     },
     "M4A4 | Hellfire (Minimal Wear)": {
-        "buff_price": 279.22
+        "buff_price": 276.77
     },
     "M4A4 | Hellish (Factory New)": {
         "buff_price": 193.12
     },
     "M4A4 | Hellish (Field-Tested)": {
-        "buff_price": 23.85
+        "buff_price": 23.63
     },
     "M4A4 | Hellish (Minimal Wear)": {
-        "buff_price": 51.26
+        "buff_price": 51.14
     },
     "M4A4 | In Living Color (Battle-Scarred)": {
         "buff_price": 38.98
@@ -1820,23 +1835,26 @@
     "M4A4 | In Living Color (Field-Tested)": {
         "buff_price": 48.05
     },
+    "M4A4 | In Living Color (Minimal Wear)": {
+        "buff_price": 60.66
+    },
     "M4A4 | In Living Color (Well-Worn)": {
         "buff_price": 45.74
     },
     "M4A4 | Neo-Noir (Battle-Scarred)": {
-        "buff_price": 38.17
+        "buff_price": 37.94
     },
     "M4A4 | Neo-Noir (Field-Tested)": {
-        "buff_price": 46.32
+        "buff_price": 46.22
     },
     "M4A4 | Neo-Noir (Minimal Wear)": {
-        "buff_price": 73.62
+        "buff_price": 73.05
     },
     "M4A4 | Neo-Noir (Well-Worn)": {
         "buff_price": 41.28
     },
     "M4A4 | Polysoup (Factory New)": {
-        "buff_price": 41.06
+        "buff_price": 39.58
     },
     "M4A4 | Poseidon (Minimal Wear)": {
         "buff_price": 1715.57
@@ -1848,31 +1866,28 @@
         "buff_price": 41.85
     },
     "M4A4 | Red DDPAT (Factory New)": {
-        "buff_price": 232.52
+        "buff_price": 232.51
     },
     "M4A4 | Red DDPAT (Field-Tested)": {
         "buff_price": 35.06
     },
     "M4A4 | Royal Paladin (Factory New)": {
-        "buff_price": 332.55
+        "buff_price": 329.55
     },
     "M4A4 | Royal Paladin (Field-Tested)": {
         "buff_price": 116.86
     },
     "M4A4 | Royal Paladin (Minimal Wear)": {
-        "buff_price": 121.55
+        "buff_price": 119.26
     },
     "M4A4 | Spider Lily (Factory New)": {
         "buff_price": 104.35
     },
     "M4A4 | Temukau (Battle-Scarred)": {
-        "buff_price": 36.69
+        "buff_price": 36.58
     },
     "M4A4 | Temukau (Factory New)": {
-        "buff_price": 160.43
-    },
-    "M4A4 | Temukau (Field-Tested)": {
-        "buff_price": 45.88
+        "buff_price": 160.2
     },
     "M4A4 | Temukau (Minimal Wear)": {
         "buff_price": 78.78
@@ -1881,19 +1896,19 @@
         "buff_price": 141.74
     },
     "M4A4 | The Battlestar (Field-Tested)": {
-        "buff_price": 41.49
+        "buff_price": 41.28
     },
     "M4A4 | The Battlestar (Minimal Wear)": {
-        "buff_price": 45.42
+        "buff_price": 45.4
     },
     "M4A4 | The Coalition (Battle-Scarred)": {
-        "buff_price": 247.58
+        "buff_price": 247.48
     },
     "M4A4 | The Coalition (Field-Tested)": {
-        "buff_price": 652.51
+        "buff_price": 653.66
     },
     "M4A4 | The Coalition (Minimal Wear)": {
-        "buff_price": 797.17
+        "buff_price": 797
     },
     "M4A4 | The Coalition (Well-Worn)": {
         "buff_price": 322.12
@@ -1902,13 +1917,13 @@
         "buff_price": 79.82
     },
     "M4A4 | The Emperor (Factory New)": {
-        "buff_price": 395.63
+        "buff_price": 401.37
     },
     "M4A4 | The Emperor (Field-Tested)": {
-        "buff_price": 79.35
+        "buff_price": 79.82
     },
     "M4A4 | The Emperor (Minimal Wear)": {
-        "buff_price": 103.2
+        "buff_price": 102.98
     },
     "M4A4 | Tooth Fairy (Factory New)": {
         "buff_price": 24.43
@@ -1941,7 +1956,7 @@
         "buff_price": 31.55
     },
     "M4A4 | 龍王 (Dragon King) (Factory New)": {
-        "buff_price": 88.18
+        "buff_price": 86.92
     },
     "MAC-10 | Amber Fade (Factory New)": {
         "buff_price": 44.08
@@ -1956,7 +1971,7 @@
         "buff_price": 34.25
     },
     "MAC-10 | Case Hardened (Minimal Wear)": {
-        "buff_price": 36.46
+        "buff_price": 36.35
     },
     "MAC-10 | Case Hardened (Well-Worn)": {
         "buff_price": 39.26
@@ -1965,7 +1980,7 @@
         "buff_price": 36.4
     },
     "MAC-10 | Fade (Factory New)": {
-        "buff_price": 71.06
+        "buff_price": 70.88
     },
     "MAC-10 | Gold Brick (Minimal Wear)": {
         "buff_price": 60.78
@@ -1980,13 +1995,13 @@
         "buff_price": 500.91
     },
     "MAC-10 | Neon Rider (Factory New)": {
-        "buff_price": 183.03
+        "buff_price": 185.77
     },
     "MAC-10 | Neon Rider (Field-Tested)": {
         "buff_price": 178.89
     },
     "MAC-10 | Neon Rider (Minimal Wear)": {
-        "buff_price": 176.6
+        "buff_price": 174.31
     },
     "MAC-10 | Nuclear Garden (Factory New)": {
         "buff_price": 64.22
@@ -1998,7 +2013,7 @@
         "buff_price": 66.28
     },
     "MAC-10 | Red Filigree (Factory New)": {
-        "buff_price": 154.77
+        "buff_price": 154.31
     },
     "MAC-10 | Stalker (Factory New)": {
         "buff_price": 160.55
@@ -2007,7 +2022,7 @@
         "buff_price": 68.11
     },
     "MAC-10 | Surfwood (Factory New)": {
-        "buff_price": 75.46
+        "buff_price": 75.34
     },
     "MAG-7 | Bulldozer (Minimal Wear)": {
         "buff_price": 50.23
@@ -2037,28 +2052,28 @@
         "buff_price": 43.92
     },
     "MP7 | Bloodsport (Factory New)": {
-        "buff_price": 108.22
+        "buff_price": 108.03
     },
     "MP7 | Bloodsport (Field-Tested)": {
         "buff_price": 43.58
     },
     "MP7 | Bloodsport (Minimal Wear)": {
-        "buff_price": 54.35
+        "buff_price": 54.58
     },
     "MP7 | Bloodsport (Well-Worn)": {
         "buff_price": 45.52
     },
     "MP7 | Fade (Factory New)": {
-        "buff_price": 25.6
+        "buff_price": 25
     },
     "MP7 | Nemesis (Factory New)": {
-        "buff_price": 39.45
+        "buff_price": 39.43
     },
     "MP7 | Neon Ply (Factory New)": {
         "buff_price": 36.37
     },
     "MP7 | Ocean Foam (Factory New)": {
-        "buff_price": 28.32
+        "buff_price": 28.22
     },
     "MP7 | Smoking Kills (Factory New)": {
         "buff_price": 42.2
@@ -2070,7 +2085,7 @@
         "buff_price": 51.2
     },
     "MP9 | Airlock (Factory New)": {
-        "buff_price": 41.68
+        "buff_price": 41.28
     },
     "MP9 | Bulldozer (Field-Tested)": {
         "buff_price": 153.66
@@ -2079,25 +2094,25 @@
         "buff_price": 114.68
     },
     "MP9 | Food Chain (Factory New)": {
-        "buff_price": 26.86
+        "buff_price": 26.37
     },
     "MP9 | Hot Rod (Factory New)": {
-        "buff_price": 295.17
+        "buff_price": 294.95
     },
     "MP9 | Hydra (Factory New)": {
         "buff_price": 67.17
     },
     "MP9 | Hypnotic (Factory New)": {
-        "buff_price": 26.77
+        "buff_price": 26.49
     },
     "MP9 | Latte Rush (Factory New)": {
         "buff_price": 98.51
     },
     "MP9 | Latte Rush (Minimal Wear)": {
-        "buff_price": 48.62
+        "buff_price": 49.43
     },
     "MP9 | Mount Fuji (Factory New)": {
-        "buff_price": 24.66
+        "buff_price": 24.43
     },
     "MP9 | Pandora's Box (Factory New)": {
         "buff_price": 222.48
@@ -2112,10 +2127,10 @@
         "buff_price": 91.72
     },
     "MP9 | Starlight Protector (Factory New)": {
-        "buff_price": 136.82
+        "buff_price": 135.09
     },
     "MP9 | Starlight Protector (Field-Tested)": {
-        "buff_price": 96.32
+        "buff_price": 97.71
     },
     "MP9 | Starlight Protector (Minimal Wear)": {
         "buff_price": 103.22
@@ -2124,7 +2139,7 @@
         "buff_price": 45.06
     },
     "Negev | Phoenix Stencil (Factory New)": {
-        "buff_price": 27.52
+        "buff_price": 27.29
     },
     "Negev | Phoenix Stencil (Minimal Wear)": {
         "buff_price": 26.26
@@ -2133,7 +2148,7 @@
         "buff_price": 204.11
     },
     "Nova | Hyper Beast (Factory New)": {
-        "buff_price": 36.45
+        "buff_price": 35.54
     },
     "Number K | The Professionals": {
         "buff_price": 68.98
@@ -2142,13 +2157,13 @@
         "buff_price": 45.86
     },
     "P2000 | Chainmail (Factory New)": {
-        "buff_price": 75.43
+        "buff_price": 75.32
     },
     "P2000 | Corticera (Factory New)": {
         "buff_price": 98.46
     },
     "P2000 | Corticera (Field-Tested)": {
-        "buff_price": 24.29
+        "buff_price": 23.37
     },
     "P2000 | Corticera (Minimal Wear)": {
         "buff_price": 26.82
@@ -2163,7 +2178,7 @@
         "buff_price": 25.8
     },
     "P2000 | Fire Elemental (Minimal Wear)": {
-        "buff_price": 124.12
+        "buff_price": 122.71
     },
     "P2000 | Handgun (Factory New)": {
         "buff_price": 24.2
@@ -2177,6 +2192,9 @@
     "P2000 | Ocean Foam (Factory New)": {
         "buff_price": 152.17
     },
+    "P2000 | Pathfinder (Factory New)": {
+        "buff_price": 25.23
+    },
     "P2000 | Scorpion (Factory New)": {
         "buff_price": 105.51
     },
@@ -2184,19 +2202,19 @@
         "buff_price": 46.91
     },
     "P2000 | Turf (Factory New)": {
-        "buff_price": 26.83
+        "buff_price": 26.37
     },
     "P250 | Apep's Curse (Factory New)": {
-        "buff_price": 193.26
+        "buff_price": 193.06
     },
     "P250 | Apep's Curse (Minimal Wear)": {
         "buff_price": 125.55
     },
     "P250 | Asiimov (Minimal Wear)": {
-        "buff_price": 51.6
+        "buff_price": 54.35
     },
     "P250 | Bengal Tiger (Minimal Wear)": {
-        "buff_price": 25.43
+        "buff_price": 25.38
     },
     "P250 | Cartel (Factory New)": {
         "buff_price": 59.17
@@ -2204,8 +2222,11 @@
     "P250 | Kintsugi (Factory New)": {
         "buff_price": 26.6
     },
+    "P250 | Mehndi (Factory New)": {
+        "buff_price": 52.75
+    },
     "P250 | Mint Kimono (Factory New)": {
-        "buff_price": 29.23
+        "buff_price": 27.06
     },
     "P250 | Muertos (Factory New)": {
         "buff_price": 36.46
@@ -2220,7 +2241,7 @@
         "buff_price": 178.2
     },
     "P250 | See Ya Later (Field-Tested)": {
-        "buff_price": 147.8
+        "buff_price": 147.71
     },
     "P250 | See Ya Later (Minimal Wear)": {
         "buff_price": 150.23
@@ -2241,16 +2262,16 @@
         "buff_price": 62.75
     },
     "P90 | Asiimov (Battle-Scarred)": {
-        "buff_price": 262.55
+        "buff_price": 262.52
     },
     "P90 | Asiimov (Field-Tested)": {
-        "buff_price": 263.75
+        "buff_price": 263.65
     },
     "P90 | Asiimov (Minimal Wear)": {
         "buff_price": 277.52
     },
     "P90 | Asiimov (Well-Worn)": {
-        "buff_price": 263.29
+        "buff_price": 260.66
     },
     "P90 | Baroque Red (Factory New)": {
         "buff_price": 43.58
@@ -2268,7 +2289,7 @@
         "buff_price": 124.77
     },
     "P90 | Deathgaze (Factory New)": {
-        "buff_price": 27.06
+        "buff_price": 27.18
     },
     "P90 | Leather (Factory New)": {
         "buff_price": 34.17
@@ -2277,10 +2298,10 @@
         "buff_price": 25.23
     },
     "P90 | Shallow Grave (Factory New)": {
-        "buff_price": 83
+        "buff_price": 82.8
     },
     "P90 | Shallow Grave (Field-Tested)": {
-        "buff_price": 44.49
+        "buff_price": 44.14
     },
     "P90 | Shallow Grave (Minimal Wear)": {
         "buff_price": 55.97
@@ -2295,7 +2316,7 @@
         "buff_price": 25.45
     },
     "P90 | Tiger Pit (Field-Tested)": {
-        "buff_price": 25.34
+        "buff_price": 25.23
     },
     "P90 | Tiger Pit (Minimal Wear)": {
         "buff_price": 25.37
@@ -2304,7 +2325,7 @@
         "buff_price": 185.75
     },
     "PP-Bizon | Judgement of Anubis (Field-Tested)": {
-        "buff_price": 177.86
+        "buff_price": 177.8
     },
     "PP-Bizon | Judgement of Anubis (Minimal Wear)": {
         "buff_price": 181.18
@@ -2325,25 +2346,25 @@
         "buff_price": 23.17
     },
     "Patch | Sunset Wave": {
-        "buff_price": 25.65
+        "buff_price": 25.42
     },
     "Patch | The Boss": {
         "buff_price": 29.02
     },
     "Primeiro Tenente | Brazilian 1st Battalion": {
-        "buff_price": 152.17
+        "buff_price": 151.83
     },
     "R8 Revolver | Fade (Factory New)": {
         "buff_price": 130.03
     },
     "R8 Revolver | Fade (Field-Tested)": {
-        "buff_price": 118.35
+        "buff_price": 118.12
     },
     "R8 Revolver | Fade (Minimal Wear)": {
-        "buff_price": 121.45
+        "buff_price": 121.35
     },
     "R8 Revolver | Llama Cannon (Factory New)": {
-        "buff_price": 45.75
+        "buff_price": 45.63
     },
     "SCAR-20 | Cyrex (Factory New)": {
         "buff_price": 40.92
@@ -2369,23 +2390,20 @@
     "SG 553 | Colony IV (Factory New)": {
         "buff_price": 79.12
     },
-    "SG 553 | Colony IV (Minimal Wear)": {
-        "buff_price": 23.26
-    },
     "SG 553 | Cyrex (Factory New)": {
-        "buff_price": 34.17
+        "buff_price": 34.06
     },
     "SG 553 | Hypnotic (Factory New)": {
-        "buff_price": 86.83
+        "buff_price": 86.72
     },
     "SG 553 | Integrale (Factory New)": {
         "buff_price": 93.8
     },
     "SG 553 | Integrale (Minimal Wear)": {
-        "buff_price": 27.26
+        "buff_price": 27.25
     },
     "SSG 08 | Big Iron (Factory New)": {
-        "buff_price": 49.86
+        "buff_price": 49.66
     },
     "SSG 08 | Blood in the Water (Factory New)": {
         "buff_price": 213.29
@@ -2394,10 +2412,10 @@
         "buff_price": 132.8
     },
     "SSG 08 | Bloodshot (Field-Tested)": {
-        "buff_price": 27.22
+        "buff_price": 27.25
     },
     "SSG 08 | Bloodshot (Minimal Wear)": {
-        "buff_price": 184.97
+        "buff_price": 184.86
     },
     "SSG 08 | Death Strike (Factory New)": {
         "buff_price": 455.95
@@ -2406,13 +2424,16 @@
         "buff_price": 333.71
     },
     "SSG 08 | Detour (Factory New)": {
-        "buff_price": 54.92
+        "buff_price": 55.05
     },
     "SSG 08 | Dragonfire (Factory New)": {
-        "buff_price": 524.88
+        "buff_price": 524.75
+    },
+    "SSG 08 | Dragonfire (Minimal Wear)": {
+        "buff_price": 412.83
     },
     "SSG 08 | Red Stone (Factory New)": {
-        "buff_price": 30.11
+        "buff_price": 30
     },
     "SSG 08 | Threat Detected (Minimal Wear)": {
         "buff_price": 25.46
@@ -2421,19 +2442,22 @@
         "buff_price": 88.31
     },
     "SSG 08 | Turbo Peek (Minimal Wear)": {
-        "buff_price": 35.54
+        "buff_price": 35.32
     },
     "Safecracker Voltzmann | The Professionals": {
-        "buff_price": 24.77
+        "buff_price": 25.23
     },
     "Sawed-Off | Devourer (Factory New)": {
         "buff_price": 28.66
     },
     "Sawed-Off | Kiss♥Love (Factory New)": {
-        "buff_price": 23.85
+        "buff_price": 23.8
     },
     "Sawed-Off | The Kraken (Factory New)": {
         "buff_price": 127.17
+    },
+    "Sawed-Off | The Kraken (Field-Tested)": {
+        "buff_price": 118.8
     },
     "Sawed-Off | The Kraken (Minimal Wear)": {
         "buff_price": 115.6
@@ -2445,31 +2469,28 @@
         "buff_price": 53.22
     },
     "Sergeant Bombson | SWAT": {
-        "buff_price": 29.12
+        "buff_price": 29.23
     },
     "Sir Bloody Darryl Royale | The Professionals": {
-        "buff_price": 59.86
+        "buff_price": 59.63
     },
     "Sir Bloody Loudmouth Darryl | The Professionals": {
-        "buff_price": 86.69
+        "buff_price": 87.15
     },
     "Sir Bloody Miami Darryl | The Professionals": {
-        "buff_price": 117.2
+        "buff_price": 116.51
     },
     "Sir Bloody Silent Darryl | The Professionals": {
-        "buff_price": 48.71
+        "buff_price": 48.46
     },
     "Sir Bloody Skullhead Darryl | The Professionals": {
         "buff_price": 49.88
     },
     "Special Agent Ava | FBI": {
-        "buff_price": 27.29
+        "buff_price": 27.51
     },
     "StatTrak™ AK-47 | Aquamarine Revenge (Factory New)": {
         "buff_price": 449.08
-    },
-    "StatTrak™ AK-47 | Aquamarine Revenge (Field-Tested)": {
-        "buff_price": 133.03
     },
     "StatTrak™ AK-47 | Aquamarine Revenge (Minimal Wear)": {
         "buff_price": 216.63
@@ -2481,7 +2502,7 @@
         "buff_price": 722.35
     },
     "StatTrak™ AK-47 | Asiimov (Field-Tested)": {
-        "buff_price": 91.51
+        "buff_price": 91.28
     },
     "StatTrak™ AK-47 | Asiimov (Minimal Wear)": {
         "buff_price": 164.66
@@ -2490,10 +2511,13 @@
         "buff_price": 526.48
     },
     "StatTrak™ AK-47 | Bloodsport (Field-Tested)": {
-        "buff_price": 372.58
+        "buff_price": 371.55
+    },
+    "StatTrak™ AK-47 | Bloodsport (Minimal Wear)": {
+        "buff_price": 432.78
     },
     "StatTrak™ AK-47 | Blue Laminate (Factory New)": {
-        "buff_price": 69.97
+        "buff_price": 70.05
     },
     "StatTrak™ AK-47 | Blue Laminate (Field-Tested)": {
         "buff_price": 44.72
@@ -2503,6 +2527,9 @@
     },
     "StatTrak™ AK-47 | Cartel (Factory New)": {
         "buff_price": 136.89
+    },
+    "StatTrak™ AK-47 | Cartel (Field-Tested)": {
+        "buff_price": 62.38
     },
     "StatTrak™ AK-47 | Cartel (Minimal Wear)": {
         "buff_price": 88.55
@@ -2514,7 +2541,7 @@
         "buff_price": 1353.18
     },
     "StatTrak™ AK-47 | Case Hardened (Field-Tested)": {
-        "buff_price": 733.94
+        "buff_price": 733.2
     },
     "StatTrak™ AK-47 | Case Hardened (Minimal Wear)": {
         "buff_price": 959.62
@@ -2526,19 +2553,19 @@
         "buff_price": 165.14
     },
     "StatTrak™ AK-47 | Crane Flight (Field-Tested)": {
-        "buff_price": 41.86
+        "buff_price": 41.97
     },
     "StatTrak™ AK-47 | Crane Flight (Minimal Wear)": {
-        "buff_price": 75.34
+        "buff_price": 75.23
     },
     "StatTrak™ AK-47 | Crane Flight (Well-Worn)": {
         "buff_price": 26.55
     },
     "StatTrak™ AK-47 | Frontside Misty (Field-Tested)": {
-        "buff_price": 43.54
+        "buff_price": 43.43
     },
     "StatTrak™ AK-47 | Frontside Misty (Minimal Wear)": {
-        "buff_price": 81.6
+        "buff_price": 80.52
     },
     "StatTrak™ AK-47 | Frontside Misty (Well-Worn)": {
         "buff_price": 47.37
@@ -2556,19 +2583,22 @@
         "buff_price": 33.29
     },
     "StatTrak™ AK-47 | Head Shot (Factory New)": {
-        "buff_price": 142.66
+        "buff_price": 142.54
     },
     "StatTrak™ AK-47 | Head Shot (Field-Tested)": {
-        "buff_price": 41.17
+        "buff_price": 40.8
+    },
+    "StatTrak™ AK-47 | Head Shot (Minimal Wear)": {
+        "buff_price": 64.22
     },
     "StatTrak™ AK-47 | Head Shot (Well-Worn)": {
         "buff_price": 36.31
     },
     "StatTrak™ AK-47 | Ice Coaled (Factory New)": {
-        "buff_price": 52.48
+        "buff_price": 52.06
     },
     "StatTrak™ AK-47 | Ice Coaled (Minimal Wear)": {
-        "buff_price": 25.57
+        "buff_price": 25.68
     },
     "StatTrak™ AK-47 | Inheritance (Battle-Scarred)": {
         "buff_price": 90.78
@@ -2577,13 +2607,16 @@
         "buff_price": 398.49
     },
     "StatTrak™ AK-47 | Inheritance (Field-Tested)": {
-        "buff_price": 112.57
+        "buff_price": 110.09
     },
     "StatTrak™ AK-47 | Inheritance (Minimal Wear)": {
-        "buff_price": 189.09
+        "buff_price": 188.52
     },
     "StatTrak™ AK-47 | Inheritance (Well-Worn)": {
         "buff_price": 98.62
+    },
+    "StatTrak™ AK-47 | Leet Museo (Field-Tested)": {
+        "buff_price": 153.55
     },
     "StatTrak™ AK-47 | Leet Museo (Minimal Wear)": {
         "buff_price": 227.06
@@ -2598,13 +2631,13 @@
         "buff_price": 141.74
     },
     "StatTrak™ AK-47 | Neon Revolution (Minimal Wear)": {
-        "buff_price": 163.98
+        "buff_price": 162.85
     },
     "StatTrak™ AK-47 | Neon Rider (Factory New)": {
         "buff_price": 548.62
     },
     "StatTrak™ AK-47 | Neon Rider (Field-Tested)": {
-        "buff_price": 112.85
+        "buff_price": 112.72
     },
     "StatTrak™ AK-47 | Neon Rider (Minimal Wear)": {
         "buff_price": 266.28
@@ -2613,10 +2646,10 @@
         "buff_price": 84.28
     },
     "StatTrak™ AK-47 | Nightwish (Factory New)": {
-        "buff_price": 198.02
+        "buff_price": 197.94
     },
     "StatTrak™ AK-47 | Nightwish (Field-Tested)": {
-        "buff_price": 88.98
+        "buff_price": 88.31
     },
     "StatTrak™ AK-47 | Nightwish (Minimal Wear)": {
         "buff_price": 100.66
@@ -2627,8 +2660,11 @@
     "StatTrak™ AK-47 | Orbit Mk01 (Field-Tested)": {
         "buff_price": 67.2
     },
+    "StatTrak™ AK-47 | Phantom Disruptor (Factory New)": {
+        "buff_price": 42.89
+    },
     "StatTrak™ AK-47 | Phantom Disruptor (Minimal Wear)": {
-        "buff_price": 24.77
+        "buff_price": 24.75
     },
     "StatTrak™ AK-47 | Point Disarray (Factory New)": {
         "buff_price": 128.22
@@ -2651,20 +2687,23 @@
     "StatTrak™ AK-47 | Redline (Minimal Wear)": {
         "buff_price": 451.82
     },
+    "StatTrak™ AK-47 | Redline (Well-Worn)": {
+        "buff_price": 74.71
+    },
     "StatTrak™ AK-47 | Searing Rage (Factory New)": {
-        "buff_price": 45.49
+        "buff_price": 45.05
     },
     "StatTrak™ AK-47 | Slate (Factory New)": {
         "buff_price": 63.08
     },
     "StatTrak™ AK-47 | Slate (Minimal Wear)": {
-        "buff_price": 27.75
+        "buff_price": 28.89
     },
     "StatTrak™ AK-47 | The Empress (Factory New)": {
         "buff_price": 573.38
     },
     "StatTrak™ AK-47 | The Empress (Field-Tested)": {
-        "buff_price": 159.97
+        "buff_price": 159.86
     },
     "StatTrak™ AK-47 | The Empress (Minimal Wear)": {
         "buff_price": 240.58
@@ -2673,7 +2712,7 @@
         "buff_price": 141.05
     },
     "StatTrak™ AK-47 | The Oligarch (Battle-Scarred)": {
-        "buff_price": 80.28
+        "buff_price": 80.15
     },
     "StatTrak™ AK-47 | The Oligarch (Field-Tested)": {
         "buff_price": 136.49
@@ -2684,6 +2723,9 @@
     "StatTrak™ AK-47 | The Outsiders (Factory New)": {
         "buff_price": 122.35
     },
+    "StatTrak™ AK-47 | The Outsiders (Field-Tested)": {
+        "buff_price": 23.17
+    },
     "StatTrak™ AK-47 | The Outsiders (Minimal Wear)": {
         "buff_price": 41.86
     },
@@ -2691,7 +2733,7 @@
         "buff_price": 266.05
     },
     "StatTrak™ AK-47 | Vulcan (Field-Tested)": {
-        "buff_price": 513.57
+        "buff_price": 511.92
     },
     "StatTrak™ AK-47 | Vulcan (Minimal Wear)": {
         "buff_price": 1235.75
@@ -2700,19 +2742,19 @@
         "buff_price": 159.72
     },
     "StatTrak™ AUG | Arctic Wolf (Factory New)": {
-        "buff_price": 26.37
+        "buff_price": 26.26
     },
     "StatTrak™ AUG | Bengal Tiger (Minimal Wear)": {
         "buff_price": 54.92
     },
     "StatTrak™ AUG | Chameleon (Factory New)": {
-        "buff_price": 130.15
+        "buff_price": 129.92
     },
     "StatTrak™ AUG | Chameleon (Field-Tested)": {
         "buff_price": 113.52
     },
     "StatTrak™ AUG | Momentum (Minimal Wear)": {
-        "buff_price": 27.06
+        "buff_price": 26.95
     },
     "StatTrak™ AUG | Syd Mead (Factory New)": {
         "buff_price": 33.94
@@ -2727,7 +2769,7 @@
         "buff_price": 235.77
     },
     "StatTrak™ AWP | Atheris (Minimal Wear)": {
-        "buff_price": 23.15
+        "buff_price": 23.4
     },
     "StatTrak™ AWP | BOOM (Field-Tested)": {
         "buff_price": 270.52
@@ -2736,13 +2778,13 @@
         "buff_price": 33.26
     },
     "StatTrak™ AWP | Chromatic Aberration (Field-Tested)": {
-        "buff_price": 34.4
+        "buff_price": 34.37
     },
     "StatTrak™ AWP | Chrome Cannon (Factory New)": {
-        "buff_price": 227.06
+        "buff_price": 228.05
     },
     "StatTrak™ AWP | Chrome Cannon (Minimal Wear)": {
-        "buff_price": 87.15
+        "buff_price": 83.71
     },
     "StatTrak™ AWP | Chrome Cannon (Well-Worn)": {
         "buff_price": 43.71
@@ -2753,26 +2795,29 @@
     "StatTrak™ AWP | Containment Breach (Field-Tested)": {
         "buff_price": 233.78
     },
+    "StatTrak™ AWP | Corticera (Minimal Wear)": {
+        "buff_price": 63.88
+    },
     "StatTrak™ AWP | Duality (Factory New)": {
         "buff_price": 28.63
     },
     "StatTrak™ AWP | Electric Hive (Factory New)": {
-        "buff_price": 132.09
+        "buff_price": 131.86
     },
     "StatTrak™ AWP | Electric Hive (Minimal Wear)": {
         "buff_price": 98.17
     },
     "StatTrak™ AWP | Elite Build (Battle-Scarred)": {
-        "buff_price": 33.57
+        "buff_price": 33.45
     },
     "StatTrak™ AWP | Elite Build (Minimal Wear)": {
-        "buff_price": 59.17
+        "buff_price": 59.06
     },
     "StatTrak™ AWP | Exoskeleton (Factory New)": {
         "buff_price": 43.23
     },
     "StatTrak™ AWP | Fever Dream (Field-Tested)": {
-        "buff_price": 31.89
+        "buff_price": 31.75
     },
     "StatTrak™ AWP | Graphite (Factory New)": {
         "buff_price": 473.85
@@ -2787,16 +2832,13 @@
         "buff_price": 175.2
     },
     "StatTrak™ AWP | Ice Coaled (Minimal Wear)": {
-        "buff_price": 43.63
+        "buff_price": 43.51
     },
     "StatTrak™ AWP | Man-o'-war (Minimal Wear)": {
         "buff_price": 172.94
     },
     "StatTrak™ AWP | Mortis (Factory New)": {
-        "buff_price": 25.2
-    },
-    "StatTrak™ AWP | Neo-Noir (Factory New)": {
-        "buff_price": 130.51
+        "buff_price": 25
     },
     "StatTrak™ AWP | Neo-Noir (Field-Tested)": {
         "buff_price": 77.98
@@ -2820,13 +2862,13 @@
         "buff_price": 52.4
     },
     "StatTrak™ AWP | Queen's Gambit (Factory New)": {
-        "buff_price": 447.25
+        "buff_price": 447.12
     },
     "StatTrak™ AWP | Queen's Gambit (Field-Tested)": {
-        "buff_price": 90.6
+        "buff_price": 90.37
     },
     "StatTrak™ AWP | Queen's Gambit (Minimal Wear)": {
-        "buff_price": 174.31
+        "buff_price": 175.69
     },
     "StatTrak™ AWP | Queen's Gambit (Well-Worn)": {
         "buff_price": 64.91
@@ -2850,7 +2892,7 @@
         "buff_price": 133.6
     },
     "StatTrak™ CZ75-Auto | Xiangliu (Factory New)": {
-        "buff_price": 44.85
+        "buff_price": 44.83
     },
     "StatTrak™ CZ75-Auto | Yellow Jacket (Factory New)": {
         "buff_price": 70.72
@@ -2862,19 +2904,19 @@
         "buff_price": 212.15
     },
     "StatTrak™ Desert Eagle | Code Red (Field-Tested)": {
-        "buff_price": 91.12
+        "buff_price": 91.02
     },
     "StatTrak™ Desert Eagle | Code Red (Minimal Wear)": {
         "buff_price": 150.91
     },
     "StatTrak™ Desert Eagle | Conspiracy (Factory New)": {
-        "buff_price": 43.8
+        "buff_price": 43.57
     },
     "StatTrak™ Desert Eagle | Conspiracy (Field-Tested)": {
         "buff_price": 29.35
     },
     "StatTrak™ Desert Eagle | Conspiracy (Minimal Wear)": {
-        "buff_price": 29.23
+        "buff_price": 28.78
     },
     "StatTrak™ Desert Eagle | Crimson Web (Field-Tested)": {
         "buff_price": 27.95
@@ -2912,6 +2954,9 @@
     "StatTrak™ Desert Eagle | Printstream (Factory New)": {
         "buff_price": 236.12
     },
+    "StatTrak™ Desert Eagle | Printstream (Field-Tested)": {
+        "buff_price": 93
+    },
     "StatTrak™ Dual Berettas | Cobra Strike (Factory New)": {
         "buff_price": 233.2
     },
@@ -2922,7 +2967,7 @@
         "buff_price": 36.58
     },
     "StatTrak™ Dual Berettas | Melondrama (Factory New)": {
-        "buff_price": 26.89
+        "buff_price": 26.86
     },
     "StatTrak™ FAMAS | Bad Trip (Factory New)": {
         "buff_price": 125.22
@@ -2943,19 +2988,16 @@
         "buff_price": 55.05
     },
     "StatTrak™ FAMAS | Mecha Industries (Factory New)": {
-        "buff_price": 65.25
+        "buff_price": 65.14
     },
     "StatTrak™ FAMAS | Mecha Industries (Field-Tested)": {
-        "buff_price": 27.65
-    },
-    "StatTrak™ FAMAS | Mecha Industries (Minimal Wear)": {
-        "buff_price": 39.97
+        "buff_price": 27.42
     },
     "StatTrak™ FAMAS | Pulse (Factory New)": {
         "buff_price": 27.29
     },
     "StatTrak™ FAMAS | Rapid Eye Movement (Factory New)": {
-        "buff_price": 26.23
+        "buff_price": 26.11
     },
     "StatTrak™ FAMAS | Roll Cage (Factory New)": {
         "buff_price": 272.68
@@ -2976,16 +3018,16 @@
         "buff_price": 40.43
     },
     "StatTrak™ Five-SeveN | Angry Mob (Factory New)": {
-        "buff_price": 118.14
+        "buff_price": 118.06
     },
     "StatTrak™ Five-SeveN | Angry Mob (Field-Tested)": {
         "buff_price": 79.58
     },
     "StatTrak™ Five-SeveN | Angry Mob (Minimal Wear)": {
-        "buff_price": 83.37
+        "buff_price": 82.57
     },
     "StatTrak™ Five-SeveN | Case Hardened (Factory New)": {
-        "buff_price": 124.66
+        "buff_price": 124.54
     },
     "StatTrak™ Five-SeveN | Case Hardened (Field-Tested)": {
         "buff_price": 32.68
@@ -2994,7 +3036,7 @@
         "buff_price": 56.98
     },
     "StatTrak™ Five-SeveN | Case Hardened (Well-Worn)": {
-        "buff_price": 30.74
+        "buff_price": 30.51
     },
     "StatTrak™ Five-SeveN | Fairy Tale (Field-Tested)": {
         "buff_price": 59.63
@@ -3006,10 +3048,10 @@
         "buff_price": 154.82
     },
     "StatTrak™ Galil AR | Chromatic Aberration (Factory New)": {
-        "buff_price": 54.35
+        "buff_price": 54.25
     },
     "StatTrak™ Galil AR | Eco (Field-Tested)": {
-        "buff_price": 29.52
+        "buff_price": 29.34
     },
     "StatTrak™ Galil AR | Eco (Minimal Wear)": {
         "buff_price": 210.55
@@ -3018,13 +3060,13 @@
         "buff_price": 29.78
     },
     "StatTrak™ Galil AR | Stone Cold (Factory New)": {
-        "buff_price": 45.86
+        "buff_price": 45.18
     },
     "StatTrak™ Glock-18 | Bullet Queen (Factory New)": {
         "buff_price": 247.48
     },
     "StatTrak™ Glock-18 | Bullet Queen (Minimal Wear)": {
-        "buff_price": 97.48
+        "buff_price": 97.92
     },
     "StatTrak™ Glock-18 | Dragon Tattoo (Factory New)": {
         "buff_price": 344.03
@@ -3033,19 +3075,16 @@
         "buff_price": 54.82
     },
     "StatTrak™ Glock-18 | Fully Tuned (Factory New)": {
-        "buff_price": 341.28
+        "buff_price": 343.57
     },
     "StatTrak™ Glock-18 | Fully Tuned (Field-Tested)": {
         "buff_price": 79.22
     },
     "StatTrak™ Glock-18 | Fully Tuned (Minimal Wear)": {
-        "buff_price": 152.92
-    },
-    "StatTrak™ Glock-18 | Fully Tuned (Well-Worn)": {
-        "buff_price": 59.4
+        "buff_price": 154.23
     },
     "StatTrak™ Glock-18 | Gold Toof (Field-Tested)": {
-        "buff_price": 56.65
+        "buff_price": 56.58
     },
     "StatTrak™ Glock-18 | Mirror Mosaic (Factory New)": {
         "buff_price": 82.57
@@ -3060,13 +3099,13 @@
         "buff_price": 131.88
     },
     "StatTrak™ Glock-18 | Royal Legion (Factory New)": {
-        "buff_price": 53.14
+        "buff_price": 52.66
     },
     "StatTrak™ Glock-18 | Shinobu (Factory New)": {
         "buff_price": 66.83
     },
     "StatTrak™ Glock-18 | Shinobu (Minimal Wear)": {
-        "buff_price": 23.94
+        "buff_price": 24.06
     },
     "StatTrak™ Glock-18 | Snack Attack (Factory New)": {
         "buff_price": 157.34
@@ -3087,16 +3126,16 @@
         "buff_price": 142.2
     },
     "StatTrak™ Glock-18 | Water Elemental (Factory New)": {
-        "buff_price": 86.58
+        "buff_price": 89.49
     },
     "StatTrak™ Glock-18 | Water Elemental (Field-Tested)": {
-        "buff_price": 29.58
+        "buff_price": 29.54
     },
     "StatTrak™ Glock-18 | Water Elemental (Minimal Wear)": {
         "buff_price": 47.78
     },
     "StatTrak™ M4A1-S | Atomic Alloy (Field-Tested)": {
-        "buff_price": 52.52
+        "buff_price": 52.17
     },
     "StatTrak™ M4A1-S | Atomic Alloy (Minimal Wear)": {
         "buff_price": 112.05
@@ -3105,16 +3144,16 @@
         "buff_price": 66.51
     },
     "StatTrak™ M4A1-S | Basilisk (Field-Tested)": {
-        "buff_price": 29.8
+        "buff_price": 29.58
     },
     "StatTrak™ M4A1-S | Basilisk (Minimal Wear)": {
         "buff_price": 39.71
     },
     "StatTrak™ M4A1-S | Black Lotus (Factory New)": {
-        "buff_price": 47.09
+        "buff_price": 46.98
     },
     "StatTrak™ M4A1-S | Black Lotus (Minimal Wear)": {
-        "buff_price": 26.83
+        "buff_price": 26.6
     },
     "StatTrak™ M4A1-S | Blood Tiger (Factory New)": {
         "buff_price": 24.54
@@ -3129,13 +3168,13 @@
         "buff_price": 91.74
     },
     "StatTrak™ M4A1-S | Chantico's Fire (Field-Tested)": {
-        "buff_price": 160.08
+        "buff_price": 159.4
     },
     "StatTrak™ M4A1-S | Chantico's Fire (Minimal Wear)": {
         "buff_price": 206.42
     },
     "StatTrak™ M4A1-S | Cyrex (Factory New)": {
-        "buff_price": 321.08
+        "buff_price": 321.05
     },
     "StatTrak™ M4A1-S | Cyrex (Field-Tested)": {
         "buff_price": 247.71
@@ -3144,13 +3183,13 @@
         "buff_price": 194.72
     },
     "StatTrak™ M4A1-S | Decimator (Battle-Scarred)": {
-        "buff_price": 35.06
+        "buff_price": 34.38
     },
     "StatTrak™ M4A1-S | Decimator (Factory New)": {
         "buff_price": 114.68
     },
     "StatTrak™ M4A1-S | Decimator (Field-Tested)": {
-        "buff_price": 36.23
+        "buff_price": 37.34
     },
     "StatTrak™ M4A1-S | Electrum (Factory New)": {
         "buff_price": 24.08
@@ -3162,22 +3201,22 @@
         "buff_price": 153.17
     },
     "StatTrak™ M4A1-S | Guardian (Field-Tested)": {
-        "buff_price": 80.37
+        "buff_price": 80.23
     },
     "StatTrak™ M4A1-S | Guardian (Minimal Wear)": {
         "buff_price": 106.54
     },
     "StatTrak™ M4A1-S | Hyper Beast (Factory New)": {
-        "buff_price": 638.2
+        "buff_price": 638.02
     },
     "StatTrak™ M4A1-S | Hyper Beast (Field-Tested)": {
         "buff_price": 174.15
     },
     "StatTrak™ M4A1-S | Leaded Glass (Factory New)": {
-        "buff_price": 55.71
+        "buff_price": 54.98
     },
     "StatTrak™ M4A1-S | Liquidation (Factory New)": {
-        "buff_price": 43.54
+        "buff_price": 43.42
     },
     "StatTrak™ M4A1-S | Mecha Industries (Factory New)": {
         "buff_price": 327.49
@@ -3186,13 +3225,13 @@
         "buff_price": 143.89
     },
     "StatTrak™ M4A1-S | Nightmare (Battle-Scarred)": {
-        "buff_price": 32.57
+        "buff_price": 30.75
     },
     "StatTrak™ M4A1-S | Nightmare (Field-Tested)": {
         "buff_price": 32.49
     },
     "StatTrak™ M4A1-S | Nightmare (Minimal Wear)": {
-        "buff_price": 73.4
+        "buff_price": 73.28
     },
     "StatTrak™ M4A1-S | Player Two (Factory New)": {
         "buff_price": 308.25
@@ -3225,7 +3264,7 @@
         "buff_price": 283.42
     },
     "StatTrak™ M4A4 | Buzz Kill (Field-Tested)": {
-        "buff_price": 139.57
+        "buff_price": 139.45
     },
     "StatTrak™ M4A4 | Cyber Security (Minimal Wear)": {
         "buff_price": 84.86
@@ -3237,7 +3276,7 @@
         "buff_price": 37.57
     },
     "StatTrak™ M4A4 | Desolate Space (Factory New)": {
-        "buff_price": 176.6
+        "buff_price": 176.14
     },
     "StatTrak™ M4A4 | Desolate Space (Field-Tested)": {
         "buff_price": 37.11
@@ -3246,7 +3285,7 @@
         "buff_price": 65.55
     },
     "StatTrak™ M4A4 | Evil Daimyo (Factory New)": {
-        "buff_price": 28.71
+        "buff_price": 29.58
     },
     "StatTrak™ M4A4 | Full Throttle (Battle-Scarred)": {
         "buff_price": 71.65
@@ -3263,14 +3302,14 @@
     "StatTrak™ M4A4 | Hellfire (Factory New)": {
         "buff_price": 339.45
     },
-    "StatTrak™ M4A4 | In Living Color (Field-Tested)": {
-        "buff_price": 43.58
-    },
     "StatTrak™ M4A4 | In Living Color (Minimal Wear)": {
         "buff_price": 80.95
     },
     "StatTrak™ M4A4 | Neo-Noir (Factory New)": {
-        "buff_price": 215.02
+        "buff_price": 215.06
+    },
+    "StatTrak™ M4A4 | Neo-Noir (Field-Tested)": {
+        "buff_price": 51.58
     },
     "StatTrak™ M4A4 | Neo-Noir (Minimal Wear)": {
         "buff_price": 94.03
@@ -3285,13 +3324,13 @@
         "buff_price": 283.14
     },
     "StatTrak™ M4A4 | Temukau (Minimal Wear)": {
-        "buff_price": 117.65
+        "buff_price": 117.62
     },
     "StatTrak™ M4A4 | The Battlestar (Factory New)": {
         "buff_price": 143.23
     },
     "StatTrak™ M4A4 | The Battlestar (Field-Tested)": {
-        "buff_price": 50.46
+        "buff_price": 50.43
     },
     "StatTrak™ M4A4 | The Battlestar (Minimal Wear)": {
         "buff_price": 73.17
@@ -3303,7 +3342,7 @@
         "buff_price": 204.02
     },
     "StatTrak™ M4A4 | Turbine (Factory New)": {
-        "buff_price": 28.09
+        "buff_price": 27.98
     },
     "StatTrak™ M4A4 | X-Ray (Factory New)": {
         "buff_price": 222.02
@@ -3315,10 +3354,10 @@
         "buff_price": 149.08
     },
     "StatTrak™ M4A4 | Zirka (Field-Tested)": {
-        "buff_price": 47.66
+        "buff_price": 47.54
     },
     "StatTrak™ M4A4 | 龍王 (Dragon King) (Factory New)": {
-        "buff_price": 137.45
+        "buff_price": 137.32
     },
     "StatTrak™ M4A4 | 龍王 (Dragon King) (Field-Tested)": {
         "buff_price": 42.02
@@ -3335,9 +3374,6 @@
     "StatTrak™ MAC-10 | Heat (Factory New)": {
         "buff_price": 30.74
     },
-    "StatTrak™ MAC-10 | Neon Rider (Factory New)": {
-        "buff_price": 194.72
-    },
     "StatTrak™ MAC-10 | Neon Rider (Minimal Wear)": {
         "buff_price": 164.91
     },
@@ -3345,13 +3381,13 @@
         "buff_price": 59.29
     },
     "StatTrak™ MP5-SD | Agent (Factory New)": {
-        "buff_price": 24.69
+        "buff_price": 24.8
     },
     "StatTrak™ MP5-SD | Phosphor (Factory New)": {
-        "buff_price": 37.68
+        "buff_price": 37.55
     },
     "StatTrak™ MP7 | Abyssal Apparition (Factory New)": {
-        "buff_price": 23.37
+        "buff_price": 23.35
     },
     "StatTrak™ MP7 | Bloodsport (Battle-Scarred)": {
         "buff_price": 29.12
@@ -3372,7 +3408,7 @@
         "buff_price": 107.8
     },
     "StatTrak™ MP7 | Smoking Kills (Minimal Wear)": {
-        "buff_price": 41.94
+        "buff_price": 41.83
     },
     "StatTrak™ MP9 | Airlock (Factory New)": {
         "buff_price": 52.23
@@ -3390,7 +3426,7 @@
         "buff_price": 40.51
     },
     "StatTrak™ MP9 | Mount Fuji (Factory New)": {
-        "buff_price": 43.57
+        "buff_price": 43.46
     },
     "StatTrak™ MP9 | Mount Fuji (Minimal Wear)": {
         "buff_price": 25.98
@@ -3399,22 +3435,22 @@
         "buff_price": 82.57
     },
     "StatTrak™ MP9 | Starlight Protector (Factory New)": {
-        "buff_price": 137.49
+        "buff_price": 136.46
     },
     "StatTrak™ MP9 | Starlight Protector (Field-Tested)": {
         "buff_price": 86.69
     },
     "StatTrak™ MP9 | Starlight Protector (Minimal Wear)": {
-        "buff_price": 94.03
+        "buff_price": 95.98
     },
     "StatTrak™ Music Kit | Austin Wintory, The Devil Went Clubbing in Georgia": {
-        "buff_price": 34.4
+        "buff_price": 34.06
     },
     "StatTrak™ Music Kit | Dren, Gunman Taco Truck": {
-        "buff_price": 32.89
+        "buff_price": 33.03
     },
     "StatTrak™ Music Kit | Killer Mike, MICHAEL": {
-        "buff_price": 30.85
+        "buff_price": 30.72
     },
     "StatTrak™ Music Kit | Knock2, dashstar*": {
         "buff_price": 29.82
@@ -3423,7 +3459,7 @@
         "buff_price": 37.94
     },
     "StatTrak™ Negev | Power Loader (Factory New)": {
-        "buff_price": 42.15
+        "buff_price": 42.86
     },
     "StatTrak™ Nova | Antique (Factory New)": {
         "buff_price": 23.4
@@ -3432,10 +3468,10 @@
         "buff_price": 29.17
     },
     "StatTrak™ Nova | Hyper Beast (Field-Tested)": {
-        "buff_price": 34.51
+        "buff_price": 34.4
     },
     "StatTrak™ P2000 | Corticera (Minimal Wear)": {
-        "buff_price": 47.38
+        "buff_price": 47.34
     },
     "StatTrak™ P2000 | Imperial Dragon (Factory New)": {
         "buff_price": 36.89
@@ -3444,7 +3480,7 @@
         "buff_price": 344.03
     },
     "StatTrak™ P2000 | Wicked Sick (Factory New)": {
-        "buff_price": 27.29
+        "buff_price": 27.25
     },
     "StatTrak™ P250 | Asiimov (Minimal Wear)": {
         "buff_price": 106.65
@@ -3456,16 +3492,16 @@
         "buff_price": 23.62
     },
     "StatTrak™ P250 | Cartel (Minimal Wear)": {
-        "buff_price": 44.26
+        "buff_price": 44.09
     },
     "StatTrak™ P250 | Epicenter (Factory New)": {
         "buff_price": 50.23
     },
     "StatTrak™ P250 | Epicenter (Minimal Wear)": {
-        "buff_price": 24.6
+        "buff_price": 23.97
     },
     "StatTrak™ P250 | Kintsugi (Factory New)": {
-        "buff_price": 44.22
+        "buff_price": 44.11
     },
     "StatTrak™ P250 | Mehndi (Factory New)": {
         "buff_price": 111.82
@@ -3477,22 +3513,22 @@
         "buff_price": 50
     },
     "StatTrak™ P250 | Muertos (Minimal Wear)": {
-        "buff_price": 27.63
+        "buff_price": 27.52
     },
     "StatTrak™ P250 | See Ya Later (Factory New)": {
         "buff_price": 180.95
     },
     "StatTrak™ P250 | See Ya Later (Field-Tested)": {
-        "buff_price": 135.32
+        "buff_price": 135.54
     },
     "StatTrak™ P250 | See Ya Later (Minimal Wear)": {
-        "buff_price": 137.49
+        "buff_price": 136.46
     },
     "StatTrak™ P250 | Undertow (Minimal Wear)": {
         "buff_price": 62.95
     },
     "StatTrak™ P90 | Asiimov (Field-Tested)": {
-        "buff_price": 250
+        "buff_price": 249.74
     },
     "StatTrak™ P90 | Asiimov (Minimal Wear)": {
         "buff_price": 297.68
@@ -3510,7 +3546,7 @@
         "buff_price": 173.98
     },
     "StatTrak™ R8 Revolver | Crimson Web (Factory New)": {
-        "buff_price": 35.58
+        "buff_price": 35.48
     },
     "StatTrak™ R8 Revolver | Fade (Field-Tested)": {
         "buff_price": 114.34
@@ -3525,7 +3561,7 @@
         "buff_price": 29.69
     },
     "StatTrak™ SCAR-20 | Cardiac (Minimal Wear)": {
-        "buff_price": 27.52
+        "buff_price": 27.42
     },
     "StatTrak™ SCAR-20 | Cyrex (Factory New)": {
         "buff_price": 126.12
@@ -3543,16 +3579,16 @@
         "buff_price": 31.37
     },
     "StatTrak™ SSG 08 | Big Iron (Minimal Wear)": {
-        "buff_price": 56.98
+        "buff_price": 56.92
     },
     "StatTrak™ SSG 08 | Blood in the Water (Factory New)": {
         "buff_price": 795.68
     },
     "StatTrak™ SSG 08 | Bloodshot (Field-Tested)": {
-        "buff_price": 52.63
+        "buff_price": 52.51
     },
     "StatTrak™ SSG 08 | Death's Head (Factory New)": {
-        "buff_price": 47.72
+        "buff_price": 47.63
     },
     "StatTrak™ SSG 08 | Dragonfire (Factory New)": {
         "buff_price": 252.17
@@ -3564,19 +3600,19 @@
         "buff_price": 178.78
     },
     "StatTrak™ SSG 08 | Ghost Crusader (Factory New)": {
-        "buff_price": 25.8
+        "buff_price": 25.69
     },
     "StatTrak™ SSG 08 | Parallax (Factory New)": {
         "buff_price": 26.37
     },
     "StatTrak™ SSG 08 | Rapid Transit (Factory New)": {
-        "buff_price": 28.65
+        "buff_price": 28.29
     },
     "StatTrak™ SSG 08 | Turbo Peek (Factory New)": {
         "buff_price": 130.74
     },
     "StatTrak™ SSG 08 | Turbo Peek (Field-Tested)": {
-        "buff_price": 39.43
+        "buff_price": 39.22
     },
     "StatTrak™ SSG 08 | Turbo Peek (Minimal Wear)": {
         "buff_price": 73.17
@@ -3587,26 +3623,26 @@
     "StatTrak™ Sawed-Off | Kiss♥Love (Factory New)": {
         "buff_price": 36.54
     },
-    "StatTrak™ Sawed-Off | Wasteland Princess (Factory New)": {
-        "buff_price": 43
-    },
     "StatTrak™ Tec-9 | Avalanche (Factory New)": {
         "buff_price": 32.11
     },
     "StatTrak™ Tec-9 | Decimator (Field-Tested)": {
-        "buff_price": 50.29
+        "buff_price": 50.23
     },
     "StatTrak™ Tec-9 | Decimator (Minimal Wear)": {
-        "buff_price": 125.8
+        "buff_price": 125.78
+    },
+    "StatTrak™ Tec-9 | Fuel Injector (Factory New)": {
+        "buff_price": 95.54
     },
     "StatTrak™ Tec-9 | Fuel Injector (Minimal Wear)": {
-        "buff_price": 33.65
+        "buff_price": 33.31
     },
     "StatTrak™ Tec-9 | Isaac (Factory New)": {
         "buff_price": 45.74
     },
     "StatTrak™ Tec-9 | Titanium Bit (Factory New)": {
-        "buff_price": 26.31
+        "buff_price": 26.22
     },
     "StatTrak™ UMP-45 | K.O. Factory (Factory New)": {
         "buff_price": 34.4
@@ -3630,16 +3666,13 @@
         "buff_price": 52.82
     },
     "StatTrak™ USP-S | Jawbreaker (Factory New)": {
-        "buff_price": 61.23
+        "buff_price": 61.22
     },
     "StatTrak™ USP-S | Kill Confirmed (Field-Tested)": {
         "buff_price": 295.85
     },
     "StatTrak™ USP-S | Kill Confirmed (Minimal Wear)": {
-        "buff_price": 469.48
-    },
-    "StatTrak™ USP-S | Kill Confirmed (Well-Worn)": {
-        "buff_price": 220.15
+        "buff_price": 469.37
     },
     "StatTrak™ USP-S | Lead Conduit (Factory New)": {
         "buff_price": 32.11
@@ -3651,13 +3684,13 @@
         "buff_price": 94.03
     },
     "StatTrak™ USP-S | Neo-Noir (Factory New)": {
-        "buff_price": 227.75
+        "buff_price": 227.63
     },
     "StatTrak™ USP-S | Neo-Noir (Field-Tested)": {
         "buff_price": 136.46
     },
     "StatTrak™ USP-S | Neo-Noir (Minimal Wear)": {
-        "buff_price": 160.54
+        "buff_price": 160.55
     },
     "StatTrak™ USP-S | Overgrowth (Field-Tested)": {
         "buff_price": 45.86
@@ -3678,7 +3711,7 @@
         "buff_price": 23.4
     },
     "StatTrak™ USP-S | Stainless (Field-Tested)": {
-        "buff_price": 30.63
+        "buff_price": 30.51
     },
     "StatTrak™ USP-S | Stainless (Minimal Wear)": {
         "buff_price": 56.63
@@ -3687,7 +3720,7 @@
         "buff_price": 32
     },
     "StatTrak™ USP-S | The Traitor (Battle-Scarred)": {
-        "buff_price": 52.68
+        "buff_price": 59.63
     },
     "StatTrak™ USP-S | The Traitor (Minimal Wear)": {
         "buff_price": 118.92
@@ -3705,16 +3738,19 @@
         "buff_price": 35.71
     },
     "StatTrak™ XM1014 | XOXO (Factory New)": {
-        "buff_price": 37.62
+        "buff_price": 37.72
     },
     "StatTrak™ Zeus x27 | Olympus (Factory New)": {
-        "buff_price": 26.15
+        "buff_price": 26.03
+    },
+    "Street Soldier | Phoenix": {
+        "buff_price": 23.51
     },
     "Tec-9 | Avalanche (Factory New)": {
         "buff_price": 23.85
     },
     "Tec-9 | Bamboo Forest (Factory New)": {
-        "buff_price": 51.37
+        "buff_price": 50.91
     },
     "Tec-9 | Cut Out (Factory New)": {
         "buff_price": 35.06
@@ -3729,7 +3765,7 @@
         "buff_price": 70.29
     },
     "Tec-9 | Hades (Factory New)": {
-        "buff_price": 45.48
+        "buff_price": 45.37
     },
     "Tec-9 | Isaac (Factory New)": {
         "buff_price": 38.8
@@ -3737,32 +3773,35 @@
     "Tec-9 | Mummy's Rot (Factory New)": {
         "buff_price": 24.88
     },
+    "Tec-9 | Nuclear Threat (Field-Tested)": {
+        "buff_price": 80.05
+    },
     "Tec-9 | Orange Murano (Factory New)": {
         "buff_price": 25.11
     },
     "Tec-9 | Ossified (Factory New)": {
-        "buff_price": 31.62
+        "buff_price": 31.38
     },
     "Tec-9 | Phoenix Chalk (Factory New)": {
-        "buff_price": 27.11
+        "buff_price": 27.09
     },
     "Tec-9 | Remote Control (Factory New)": {
-        "buff_price": 49.77
+        "buff_price": 49.15
     },
     "Tec-9 | Rust Leaf (Factory New)": {
         "buff_price": 28.6
     },
     "Tec-9 | Safety Net (Factory New)": {
-        "buff_price": 27.42
+        "buff_price": 27.52
     },
     "Tec-9 | Titanium Bit (Factory New)": {
-        "buff_price": 118.4
+        "buff_price": 118.28
     },
     "Tec-9 | Toxic (Factory New)": {
-        "buff_price": 52.75
+        "buff_price": 52.69
     },
     "Tec-9 | Whiteout (Factory New)": {
-        "buff_price": 328.23
+        "buff_price": 330.45
     },
     "Tec-9 | Whiteout (Minimal Wear)": {
         "buff_price": 23.83
@@ -3771,10 +3810,10 @@
         "buff_price": 35.75
     },
     "Trapper | Guerrilla Warfare": {
-        "buff_price": 42.43
+        "buff_price": 42.89
     },
     "UMP-45 | Blaze (Factory New)": {
-        "buff_price": 31.31
+        "buff_price": 31.18
     },
     "UMP-45 | Fade (Factory New)": {
         "buff_price": 272.94
@@ -3795,10 +3834,10 @@
         "buff_price": 36.69
     },
     "USP-S | Black Lotus (Factory New)": {
-        "buff_price": 47.94
+        "buff_price": 47.82
     },
     "USP-S | Blood Tiger (Factory New)": {
-        "buff_price": 27.71
+        "buff_price": 27.6
     },
     "USP-S | Caiman (Factory New)": {
         "buff_price": 123.85
@@ -3807,37 +3846,37 @@
         "buff_price": 35.02
     },
     "USP-S | Cortex (Factory New)": {
-        "buff_price": 52.38
+        "buff_price": 52.28
     },
     "USP-S | Cyrex (Factory New)": {
-        "buff_price": 76.83
+        "buff_price": 76.82
     },
     "USP-S | Dark Water (Field-Tested)": {
-        "buff_price": 98.6
+        "buff_price": 98.49
     },
     "USP-S | Dark Water (Minimal Wear)": {
-        "buff_price": 125.69
+        "buff_price": 125.46
     },
     "USP-S | Kill Confirmed (Battle-Scarred)": {
-        "buff_price": 80.51
+        "buff_price": 80.38
     },
     "USP-S | Kill Confirmed (Factory New)": {
-        "buff_price": 384.28
+        "buff_price": 378.43
     },
     "USP-S | Kill Confirmed (Field-Tested)": {
-        "buff_price": 99.49
+        "buff_price": 99.2
     },
     "USP-S | Kill Confirmed (Minimal Wear)": {
-        "buff_price": 149.08
+        "buff_price": 148.97
     },
     "USP-S | Kill Confirmed (Well-Worn)": {
         "buff_price": 83.74
     },
     "USP-S | Lead Conduit (Factory New)": {
-        "buff_price": 27.06
+        "buff_price": 26.95
     },
     "USP-S | Monster Mashup (Battle-Scarred)": {
-        "buff_price": 31.88
+        "buff_price": 29.77
     },
     "USP-S | Monster Mashup (Factory New)": {
         "buff_price": 130.74
@@ -3852,22 +3891,25 @@
         "buff_price": 160.09
     },
     "USP-S | Neo-Noir (Field-Tested)": {
-        "buff_price": 153.09
+        "buff_price": 152.52
     },
     "USP-S | Neo-Noir (Minimal Wear)": {
-        "buff_price": 152.4
+        "buff_price": 152.29
     },
     "USP-S | Orange Anolis (Factory New)": {
-        "buff_price": 140.94
+        "buff_price": 138.75
     },
     "USP-S | Orange Anolis (Field-Tested)": {
         "buff_price": 31.83
+    },
+    "USP-S | Orange Anolis (Minimal Wear)": {
+        "buff_price": 33.03
     },
     "USP-S | Orion (Factory New)": {
         "buff_price": 174.31
     },
     "USP-S | Orion (Minimal Wear)": {
-        "buff_price": 76.78
+        "buff_price": 76.35
     },
     "USP-S | Overgrowth (Factory New)": {
         "buff_price": 112.62
@@ -3879,37 +3921,34 @@
         "buff_price": 36.12
     },
     "USP-S | Para Green (Factory New)": {
-        "buff_price": 87.85
+        "buff_price": 87.77
     },
     "USP-S | Printstream (Battle-Scarred)": {
         "buff_price": 45.88
     },
     "USP-S | Printstream (Factory New)": {
-        "buff_price": 154.58
+        "buff_price": 154.69
     },
     "USP-S | Printstream (Field-Tested)": {
-        "buff_price": 56.54
+        "buff_price": 56.42
     },
     "USP-S | Printstream (Minimal Wear)": {
-        "buff_price": 90.37
+        "buff_price": 90.23
     },
     "USP-S | Printstream (Well-Worn)": {
-        "buff_price": 52.52
+        "buff_price": 51.83
     },
     "USP-S | Purple DDPAT (Factory New)": {
-        "buff_price": 59.52
-    },
-    "USP-S | Road Rash (Battle-Scarred)": {
-        "buff_price": 38.98
+        "buff_price": 59.17
     },
     "USP-S | Road Rash (Factory New)": {
-        "buff_price": 242.11
+        "buff_price": 239.68
     },
     "USP-S | Road Rash (Field-Tested)": {
-        "buff_price": 45.37
+        "buff_price": 44.95
     },
     "USP-S | Road Rash (Minimal Wear)": {
-        "buff_price": 76.43
+        "buff_price": 76.38
     },
     "USP-S | Road Rash (Well-Worn)": {
         "buff_price": 36.69
@@ -3918,16 +3957,16 @@
         "buff_price": 171.55
     },
     "USP-S | Spiral Glitch (Factory New)": {
-        "buff_price": 118.11
+        "buff_price": 116.74
     },
     "USP-S | Spiral Glitch (Field-Tested)": {
-        "buff_price": 29.35
+        "buff_price": 29.12
     },
     "USP-S | Spiral Glitch (Minimal Wear)": {
-        "buff_price": 57.8
+        "buff_price": 57.68
     },
     "USP-S | Stainless (Factory New)": {
-        "buff_price": 82.06
+        "buff_price": 82
     },
     "USP-S | Target Acquired (Factory New)": {
         "buff_price": 561.92
@@ -3936,13 +3975,13 @@
         "buff_price": 334.86
     },
     "USP-S | The Traitor (Battle-Scarred)": {
-        "buff_price": 46.78
+        "buff_price": 45.88
     },
     "USP-S | The Traitor (Factory New)": {
-        "buff_price": 159.92
+        "buff_price": 158.26
     },
     "USP-S | The Traitor (Field-Tested)": {
-        "buff_price": 50.46
+        "buff_price": 51.03
     },
     "USP-S | The Traitor (Minimal Wear)": {
         "buff_price": 75.11
@@ -3951,28 +3990,28 @@
         "buff_price": 722.46
     },
     "USP-S | Whiteout (Field-Tested)": {
-        "buff_price": 77.45
+        "buff_price": 75.69
     },
     "USP-S | Whiteout (Minimal Wear)": {
-        "buff_price": 148.74
-    },
-    "USP-S | Whiteout (Well-Worn)": {
-        "buff_price": 60.75
+        "buff_price": 148.51
     },
     "Valeria Phoenix Pin": {
-        "buff_price": 70.72
+        "buff_price": 70.85
     },
     "Vypa Sista of the Revolution | Guerrilla Warfare": {
-        "buff_price": 61.46
+        "buff_price": 61.69
     },
     "XM1014 | Ancient Lore (Factory New)": {
         "buff_price": 47.94
     },
     "XM1014 | Banana Leaf (Factory New)": {
-        "buff_price": 26.72
+        "buff_price": 26.71
+    },
+    "XM1014 | Bone Machine (Factory New)": {
+        "buff_price": 24.83
     },
     "XM1014 | Elegant Vines (Factory New)": {
-        "buff_price": 49.05
+        "buff_price": 48.17
     },
     "XM1014 | Incinegator (Minimal Wear)": {
         "buff_price": 58.83
@@ -3981,10 +4020,10 @@
         "buff_price": 32.55
     },
     "Zeus x27 | Dragon Snore (Minimal Wear)": {
-        "buff_price": 28.31
+        "buff_price": 28.29
     },
     "★ Bayonet": {
-        "buff_price": 341.74
+        "buff_price": 341.28
     },
     "★ Bayonet | Autotronic (Field-Tested)": {
         "buff_price": 382.57
@@ -3996,19 +4035,19 @@
         "buff_price": 229.35
     },
     "★ Bayonet | Black Laminate (Field-Tested)": {
-        "buff_price": 232.57
+        "buff_price": 233.03
     },
     "★ Bayonet | Black Laminate (Minimal Wear)": {
         "buff_price": 263.52
     },
     "★ Bayonet | Black Laminate (Well-Worn)": {
-        "buff_price": 229.02
+        "buff_price": 227.06
     },
     "★ Bayonet | Blue Steel (Field-Tested)": {
         "buff_price": 295.51
     },
     "★ Bayonet | Blue Steel (Minimal Wear)": {
-        "buff_price": 378.43
+        "buff_price": 378.32
     },
     "★ Bayonet | Boreal Forest (Field-Tested)": {
         "buff_price": 182.11
@@ -4020,10 +4059,10 @@
         "buff_price": 273.97
     },
     "★ Bayonet | Bright Water (Field-Tested)": {
-        "buff_price": 209.74
+        "buff_price": 208.71
     },
     "★ Bayonet | Bright Water (Minimal Wear)": {
-        "buff_price": 240.6
+        "buff_price": 239.91
     },
     "★ Bayonet | Case Hardened (Battle-Scarred)": {
         "buff_price": 320.43
@@ -4047,13 +4086,13 @@
         "buff_price": 467.86
     },
     "★ Bayonet | Damascus Steel (Factory New)": {
-        "buff_price": 287.85
+        "buff_price": 293.57
     },
     "★ Bayonet | Damascus Steel (Field-Tested)": {
         "buff_price": 238.52
     },
     "★ Bayonet | Damascus Steel (Minimal Wear)": {
-        "buff_price": 252.29
+        "buff_price": 252.17
     },
     "★ Bayonet | Doppler (Factory New)": {
         "buff_price": 573.38
@@ -4062,7 +4101,7 @@
         "buff_price": 515.94
     },
     "★ Bayonet | Forest DDPAT (Field-Tested)": {
-        "buff_price": 177.98
+        "buff_price": 177.86
     },
     "★ Bayonet | Forest DDPAT (Minimal Wear)": {
         "buff_price": 221.22
@@ -4071,13 +4110,13 @@
         "buff_price": 276.14
     },
     "★ Bayonet | Freehand (Field-Tested)": {
-        "buff_price": 224.77
+        "buff_price": 224.65
     },
     "★ Bayonet | Freehand (Minimal Wear)": {
-        "buff_price": 252.17
+        "buff_price": 252.06
     },
     "★ Bayonet | Gamma Doppler (Factory New)": {
-        "buff_price": 711
+        "buff_price": 714.43
     },
     "★ Bayonet | Gamma Doppler (Minimal Wear)": {
         "buff_price": 1009.15
@@ -4089,7 +4128,7 @@
         "buff_price": 332.34
     },
     "★ Bayonet | Lore (Minimal Wear)": {
-        "buff_price": 464.68
+        "buff_price": 463.75
     },
     "★ Bayonet | Marble Fade (Factory New)": {
         "buff_price": 499.77
@@ -4101,7 +4140,7 @@
         "buff_price": 190.37
     },
     "★ Bayonet | Rust Coat (Battle-Scarred)": {
-        "buff_price": 189.34
+        "buff_price": 190.37
     },
     "★ Bayonet | Safari Mesh (Field-Tested)": {
         "buff_price": 178.89
@@ -4110,19 +4149,19 @@
         "buff_price": 187.49
     },
     "★ Bayonet | Scorched (Field-Tested)": {
-        "buff_price": 182.34
+        "buff_price": 182.22
     },
     "★ Bayonet | Slaughter (Factory New)": {
         "buff_price": 550.45
     },
     "★ Bayonet | Slaughter (Minimal Wear)": {
-        "buff_price": 445.05
+        "buff_price": 444.82
     },
     "★ Bayonet | Stained (Field-Tested)": {
-        "buff_price": 214.68
+        "buff_price": 214.55
     },
     "★ Bayonet | Stained (Minimal Wear)": {
-        "buff_price": 243.11
+        "buff_price": 242.88
     },
     "★ Bayonet | Tiger Tooth (Factory New)": {
         "buff_price": 409.28
@@ -4131,13 +4170,13 @@
         "buff_price": 188.05
     },
     "★ Bayonet | Ultraviolet (Field-Tested)": {
-        "buff_price": 194.95
+        "buff_price": 194.03
     },
     "★ Bayonet | Ultraviolet (Minimal Wear)": {
         "buff_price": 301.82
     },
     "★ Bayonet | Urban Masked (Field-Tested)": {
-        "buff_price": 186
+        "buff_price": 185.66
     },
     "★ Bloodhound Gloves | Bronzed (Field-Tested)": {
         "buff_price": 376.49
@@ -4146,7 +4185,7 @@
         "buff_price": 167.43
     },
     "★ Bloodhound Gloves | Charred (Minimal Wear)": {
-        "buff_price": 417.31
+        "buff_price": 416.28
     },
     "★ Bloodhound Gloves | Guerrilla (Field-Tested)": {
         "buff_price": 311.58
@@ -4158,46 +4197,52 @@
         "buff_price": 298.15
     },
     "★ Bowie Knife": {
-        "buff_price": 129.25
+        "buff_price": 129.12
     },
     "★ Bowie Knife | Autotronic (Battle-Scarred)": {
-        "buff_price": 111.69
+        "buff_price": 111.68
     },
     "★ Bowie Knife | Autotronic (Factory New)": {
         "buff_price": 217.43
     },
     "★ Bowie Knife | Autotronic (Field-Tested)": {
-        "buff_price": 114.68
+        "buff_price": 114.22
+    },
+    "★ Bowie Knife | Autotronic (Minimal Wear)": {
+        "buff_price": 141.63
     },
     "★ Bowie Knife | Black Laminate (Battle-Scarred)": {
         "buff_price": 71.55
     },
     "★ Bowie Knife | Black Laminate (Field-Tested)": {
-        "buff_price": 72.57
+        "buff_price": 72.25
     },
     "★ Bowie Knife | Black Laminate (Minimal Wear)": {
         "buff_price": 80.28
     },
     "★ Bowie Knife | Black Laminate (Well-Worn)": {
-        "buff_price": 69.95
+        "buff_price": 69.83
     },
     "★ Bowie Knife | Boreal Forest (Field-Tested)": {
         "buff_price": 74.43
     },
     "★ Bowie Knife | Bright Water (Factory New)": {
-        "buff_price": 83.71
+        "buff_price": 83.26
     },
     "★ Bowie Knife | Bright Water (Field-Tested)": {
-        "buff_price": 73.85
+        "buff_price": 73.74
     },
     "★ Bowie Knife | Bright Water (Minimal Wear)": {
-        "buff_price": 79.58
+        "buff_price": 77.98
     },
     "★ Bowie Knife | Case Hardened (Field-Tested)": {
         "buff_price": 178.65
     },
     "★ Bowie Knife | Crimson Web (Field-Tested)": {
         "buff_price": 149.08
+    },
+    "★ Bowie Knife | Crimson Web (Minimal Wear)": {
+        "buff_price": 302.29
     },
     "★ Bowie Knife | Damascus Steel (Factory New)": {
         "buff_price": 137.62
@@ -4224,13 +4269,13 @@
         "buff_price": 96.22
     },
     "★ Bowie Knife | Gamma Doppler (Factory New)": {
-        "buff_price": 273.62
+        "buff_price": 272.94
     },
     "★ Bowie Knife | Lore (Battle-Scarred)": {
         "buff_price": 105.83
     },
     "★ Bowie Knife | Lore (Field-Tested)": {
-        "buff_price": 114.65
+        "buff_price": 114.49
     },
     "★ Bowie Knife | Lore (Minimal Wear)": {
         "buff_price": 153.66
@@ -4248,16 +4293,16 @@
         "buff_price": 103.09
     },
     "★ Bowie Knife | Tiger Tooth (Factory New)": {
-        "buff_price": 176.95
+        "buff_price": 176.83
     },
     "★ Bowie Knife | Ultraviolet (Field-Tested)": {
         "buff_price": 85.98
     },
     "★ Bowie Knife | Ultraviolet (Minimal Wear)": {
-        "buff_price": 116.74
+        "buff_price": 116.63
     },
     "★ Broken Fang Gloves | Jade (Battle-Scarred)": {
-        "buff_price": 97.48
+        "buff_price": 97.35
     },
     "★ Broken Fang Gloves | Jade (Field-Tested)": {
         "buff_price": 99.66
@@ -4269,7 +4314,10 @@
         "buff_price": 63.65
     },
     "★ Broken Fang Gloves | Needle Point (Minimal Wear)": {
-        "buff_price": 90.6
+        "buff_price": 90.48
+    },
+    "★ Broken Fang Gloves | Unhinged (Battle-Scarred)": {
+        "buff_price": 75.65
     },
     "★ Broken Fang Gloves | Unhinged (Field-Tested)": {
         "buff_price": 76.69
@@ -4281,25 +4329,25 @@
         "buff_price": 66.51
     },
     "★ Broken Fang Gloves | Yellow-banded (Field-Tested)": {
-        "buff_price": 67.32
+        "buff_price": 67.43
     },
     "★ Broken Fang Gloves | Yellow-banded (Minimal Wear)": {
         "buff_price": 111.91
     },
     "★ Butterfly Knife": {
-        "buff_price": 1884.14
+        "buff_price": 1889.08
     },
     "★ Butterfly Knife | Autotronic (Battle-Scarred)": {
-        "buff_price": 1033.82
+        "buff_price": 1032.09
     },
     "★ Butterfly Knife | Autotronic (Field-Tested)": {
-        "buff_price": 1283.12
+        "buff_price": 1272.8
     },
     "★ Butterfly Knife | Autotronic (Minimal Wear)": {
-        "buff_price": 1564.2
+        "buff_price": 1558
     },
     "★ Butterfly Knife | Autotronic (Well-Worn)": {
-        "buff_price": 1169.71
+        "buff_price": 1169.48
     },
     "★ Butterfly Knife | Black Laminate (Battle-Scarred)": {
         "buff_price": 866.95
@@ -4314,7 +4362,7 @@
         "buff_price": 1012.6
     },
     "★ Butterfly Knife | Black Laminate (Well-Worn)": {
-        "buff_price": 906.4
+        "buff_price": 905.95
     },
     "★ Butterfly Knife | Blue Steel (Battle-Scarred)": {
         "buff_price": 1088.26
@@ -4323,7 +4371,7 @@
         "buff_price": 1174.29
     },
     "★ Butterfly Knife | Blue Steel (Minimal Wear)": {
-        "buff_price": 1256.86
+        "buff_price": 1261.45
     },
     "★ Butterfly Knife | Blue Steel (Well-Worn)": {
         "buff_price": 1098.15
@@ -4332,7 +4380,7 @@
         "buff_price": 649.08
     },
     "★ Butterfly Knife | Boreal Forest (Field-Tested)": {
-        "buff_price": 668.23
+        "buff_price": 668.11
     },
     "★ Butterfly Knife | Boreal Forest (Minimal Wear)": {
         "buff_price": 733.35
@@ -4347,10 +4395,10 @@
         "buff_price": 928.88
     },
     "★ Butterfly Knife | Bright Water (Field-Tested)": {
-        "buff_price": 787.37
+        "buff_price": 787.94
     },
     "★ Butterfly Knife | Bright Water (Minimal Wear)": {
-        "buff_price": 850.91
+        "buff_price": 848.62
     },
     "★ Butterfly Knife | Bright Water (Well-Worn)": {
         "buff_price": 772.92
@@ -4359,19 +4407,19 @@
         "buff_price": 940.02
     },
     "★ Butterfly Knife | Case Hardened (Field-Tested)": {
-        "buff_price": 1064.09
+        "buff_price": 1063.51
     },
     "★ Butterfly Knife | Case Hardened (Minimal Wear)": {
         "buff_price": 1291.26
     },
     "★ Butterfly Knife | Case Hardened (Well-Worn)": {
-        "buff_price": 1008.12
+        "buff_price": 1008.02
     },
     "★ Butterfly Knife | Crimson Web (Battle-Scarred)": {
         "buff_price": 852.49
     },
     "★ Butterfly Knife | Crimson Web (Field-Tested)": {
-        "buff_price": 1008.02
+        "buff_price": 1008.58
     },
     "★ Butterfly Knife | Crimson Web (Minimal Wear)": {
         "buff_price": 1564.2
@@ -4386,7 +4434,7 @@
         "buff_price": 1054.57
     },
     "★ Butterfly Knife | Damascus Steel (Minimal Wear)": {
-        "buff_price": 1120.63
+        "buff_price": 1120.51
     },
     "★ Butterfly Knife | Damascus Steel (Well-Worn)": {
         "buff_price": 1036.68
@@ -4395,10 +4443,10 @@
         "buff_price": 649.98
     },
     "★ Butterfly Knife | Forest DDPAT (Field-Tested)": {
-        "buff_price": 659.4
+        "buff_price": 659.17
     },
     "★ Butterfly Knife | Forest DDPAT (Minimal Wear)": {
-        "buff_price": 698.38
+        "buff_price": 698.26
     },
     "★ Butterfly Knife | Forest DDPAT (Well-Worn)": {
         "buff_price": 653.31
@@ -4407,7 +4455,7 @@
         "buff_price": 837.14
     },
     "★ Butterfly Knife | Freehand (Field-Tested)": {
-        "buff_price": 879
+        "buff_price": 878.77
     },
     "★ Butterfly Knife | Freehand (Minimal Wear)": {
         "buff_price": 944.94
@@ -4422,7 +4470,7 @@
         "buff_price": 940.35
     },
     "★ Butterfly Knife | Lore (Minimal Wear)": {
-        "buff_price": 1430.14
+        "buff_price": 1430.02
     },
     "★ Butterfly Knife | Lore (Well-Worn)": {
         "buff_price": 837.14
@@ -4431,7 +4479,7 @@
         "buff_price": 733.22
     },
     "★ Butterfly Knife | Night (Field-Tested)": {
-        "buff_price": 793.57
+        "buff_price": 793.45
     },
     "★ Butterfly Knife | Night (Minimal Wear)": {
         "buff_price": 954.11
@@ -4440,16 +4488,13 @@
         "buff_price": 756.86
     },
     "★ Butterfly Knife | Rust Coat (Battle-Scarred)": {
-        "buff_price": 807.35
-    },
-    "★ Butterfly Knife | Safari Mesh (Battle-Scarred)": {
-        "buff_price": 654.8
+        "buff_price": 807.09
     },
     "★ Butterfly Knife | Safari Mesh (Field-Tested)": {
         "buff_price": 649.08
     },
     "★ Butterfly Knife | Safari Mesh (Minimal Wear)": {
-        "buff_price": 669.71
+        "buff_price": 665.12
     },
     "★ Butterfly Knife | Safari Mesh (Well-Worn)": {
         "buff_price": 653.31
@@ -4461,7 +4506,7 @@
         "buff_price": 764.43
     },
     "★ Butterfly Knife | Slaughter (Field-Tested)": {
-        "buff_price": 1788.97
+        "buff_price": 1784.14
     },
     "★ Butterfly Knife | Slaughter (Minimal Wear)": {
         "buff_price": 1846.31
@@ -4476,13 +4521,13 @@
         "buff_price": 878.43
     },
     "★ Butterfly Knife | Stained (Minimal Wear)": {
-        "buff_price": 958.71
+        "buff_price": 958.58
     },
     "★ Butterfly Knife | Stained (Well-Worn)": {
-        "buff_price": 816.51
+        "buff_price": 823.38
     },
     "★ Butterfly Knife | Tiger Tooth (Factory New)": {
-        "buff_price": 1671.98
+        "buff_price": 1674.29
     },
     "★ Butterfly Knife | Ultraviolet (Battle-Scarred)": {
         "buff_price": 715.17
@@ -4497,7 +4542,7 @@
         "buff_price": 823.58
     },
     "★ Butterfly Knife | Urban Masked (Battle-Scarred)": {
-        "buff_price": 668.09
+        "buff_price": 667.4
     },
     "★ Butterfly Knife | Urban Masked (Field-Tested)": {
         "buff_price": 676.6
@@ -4506,7 +4551,7 @@
         "buff_price": 779.57
     },
     "★ Classic Knife": {
-        "buff_price": 270.17
+        "buff_price": 270.52
     },
     "★ Classic Knife | Blue Steel (Battle-Scarred)": {
         "buff_price": 160.55
@@ -4518,16 +4563,16 @@
         "buff_price": 162.38
     },
     "★ Classic Knife | Boreal Forest (Field-Tested)": {
-        "buff_price": 92.52
+        "buff_price": 92.2
     },
     "★ Classic Knife | Case Hardened (Battle-Scarred)": {
-        "buff_price": 163.52
+        "buff_price": 163.42
     },
     "★ Classic Knife | Case Hardened (Field-Tested)": {
         "buff_price": 183.48
     },
     "★ Classic Knife | Case Hardened (Minimal Wear)": {
-        "buff_price": 247.71
+        "buff_price": 246.55
     },
     "★ Classic Knife | Case Hardened (Well-Worn)": {
         "buff_price": 171.91
@@ -4548,10 +4593,10 @@
         "buff_price": 415.94
     },
     "★ Classic Knife | Forest DDPAT (Field-Tested)": {
-        "buff_price": 93.8
+        "buff_price": 92.89
     },
     "★ Classic Knife | Forest DDPAT (Minimal Wear)": {
-        "buff_price": 119.26
+        "buff_price": 119.15
     },
     "★ Classic Knife | Night Stripe (Field-Tested)": {
         "buff_price": 152.52
@@ -4563,7 +4608,7 @@
         "buff_price": 158.26
     },
     "★ Classic Knife | Safari Mesh (Field-Tested)": {
-        "buff_price": 91.74
+        "buff_price": 91.63
     },
     "★ Classic Knife | Safari Mesh (Minimal Wear)": {
         "buff_price": 110.09
@@ -4578,7 +4623,7 @@
         "buff_price": 130.74
     },
     "★ Classic Knife | Slaughter (Factory New)": {
-        "buff_price": 300.72
+        "buff_price": 300.37
     },
     "★ Classic Knife | Slaughter (Field-Tested)": {
         "buff_price": 265.11
@@ -4587,7 +4632,7 @@
         "buff_price": 263.18
     },
     "★ Classic Knife | Stained (Field-Tested)": {
-        "buff_price": 141.05
+        "buff_price": 146.54
     },
     "★ Classic Knife | Urban Masked (Field-Tested)": {
         "buff_price": 119.15
@@ -4596,13 +4641,13 @@
         "buff_price": 149.08
     },
     "★ Driver Gloves | Black Tie (Battle-Scarred)": {
-        "buff_price": 138.97
+        "buff_price": 138.85
     },
     "★ Driver Gloves | Black Tie (Factory New)": {
-        "buff_price": 1849.86
+        "buff_price": 1839.42
     },
     "★ Driver Gloves | Black Tie (Field-Tested)": {
-        "buff_price": 188.52
+        "buff_price": 188.42
     },
     "★ Driver Gloves | Black Tie (Well-Worn)": {
         "buff_price": 162.37
@@ -4611,10 +4656,10 @@
         "buff_price": 190.37
     },
     "★ Driver Gloves | Brocade Crane (Field-Tested)": {
-        "buff_price": 237.82
+        "buff_price": 236.23
     },
     "★ Driver Gloves | Brocade Crane (Minimal Wear)": {
-        "buff_price": 552.63
+        "buff_price": 552.29
     },
     "★ Driver Gloves | Brocade Flowers (Field-Tested)": {
         "buff_price": 202.98
@@ -4629,7 +4674,7 @@
         "buff_price": 431.65
     },
     "★ Driver Gloves | Dragon Fists (Battle-Scarred)": {
-        "buff_price": 117.54
+        "buff_price": 117.65
     },
     "★ Driver Gloves | Dragon Fists (Field-Tested)": {
         "buff_price": 142.09
@@ -4638,58 +4683,64 @@
         "buff_price": 300.23
     },
     "★ Driver Gloves | Garden (Battle-Scarred)": {
-        "buff_price": 210.89
+        "buff_price": 209.86
     },
     "★ Driver Gloves | Garden (Field-Tested)": {
-        "buff_price": 290.71
+        "buff_price": 290.35
     },
     "★ Driver Gloves | Garden (Minimal Wear)": {
-        "buff_price": 682.32
+        "buff_price": 683.25
     },
     "★ Driver Gloves | Hand Sweaters (Battle-Scarred)": {
         "buff_price": 133.94
     },
     "★ Driver Gloves | Hand Sweaters (Field-Tested)": {
-        "buff_price": 153.52
+        "buff_price": 153.55
     },
     "★ Driver Gloves | Hand Sweaters (Minimal Wear)": {
-        "buff_price": 341.05
+        "buff_price": 343.11
     },
     "★ Driver Gloves | Imperial Plaid (Battle-Scarred)": {
         "buff_price": 163.98
     },
     "★ Driver Gloves | Imperial Plaid (Field-Tested)": {
-        "buff_price": 223.17
+        "buff_price": 222.48
     },
     "★ Driver Gloves | Imperial Plaid (Minimal Wear)": {
-        "buff_price": 431.08
+        "buff_price": 426.6
     },
     "★ Driver Gloves | Imperial Plaid (Well-Worn)": {
         "buff_price": 200.91
     },
     "★ Driver Gloves | King Snake (Battle-Scarred)": {
-        "buff_price": 151.37
+        "buff_price": 151.26
     },
     "★ Driver Gloves | King Snake (Field-Tested)": {
-        "buff_price": 205.28
+        "buff_price": 205.15
     },
     "★ Driver Gloves | King Snake (Minimal Wear)": {
-        "buff_price": 708.57
+        "buff_price": 708.8
     },
     "★ Driver Gloves | King Snake (Well-Worn)": {
         "buff_price": 162.85
     },
     "★ Driver Gloves | Lunar Weave (Field-Tested)": {
-        "buff_price": 1348.6
+        "buff_price": 1307.32
+    },
+    "★ Driver Gloves | Lunar Weave (Minimal Wear)": {
+        "buff_price": 1353.18
     },
     "★ Driver Gloves | Overtake (Battle-Scarred)": {
-        "buff_price": 64.18
+        "buff_price": 64.14
     },
     "★ Driver Gloves | Overtake (Field-Tested)": {
-        "buff_price": 65.6
+        "buff_price": 65.57
     },
     "★ Driver Gloves | Overtake (Minimal Wear)": {
-        "buff_price": 123.85
+        "buff_price": 121.55
+    },
+    "★ Driver Gloves | Overtake (Well-Worn)": {
+        "buff_price": 64.11
     },
     "★ Driver Gloves | Plum Quill (Field-Tested)": {
         "buff_price": 147.71
@@ -4698,13 +4749,13 @@
         "buff_price": 241.74
     },
     "★ Driver Gloves | Queen Jaguar (Field-Tested)": {
-        "buff_price": 68.69
+        "buff_price": 68.57
     },
     "★ Driver Gloves | Queen Jaguar (Minimal Wear)": {
-        "buff_price": 163.98
+        "buff_price": 163.65
     },
     "★ Driver Gloves | Racing Green (Battle-Scarred)": {
-        "buff_price": 47.02
+        "buff_price": 46.91
     },
     "★ Driver Gloves | Racing Green (Field-Tested)": {
         "buff_price": 44.92
@@ -4716,7 +4767,7 @@
         "buff_price": 46.89
     },
     "★ Driver Gloves | Rezan the Red (Battle-Scarred)": {
-        "buff_price": 84.85
+        "buff_price": 84.72
     },
     "★ Driver Gloves | Rezan the Red (Field-Tested)": {
         "buff_price": 86.78
@@ -4728,7 +4779,7 @@
         "buff_price": 100.23
     },
     "★ Driver Gloves | Seigaiha (Field-Tested)": {
-        "buff_price": 116.51
+        "buff_price": 116.97
     },
     "★ Driver Gloves | Seigaiha (Minimal Wear)": {
         "buff_price": 229.12
@@ -4749,19 +4800,19 @@
         "buff_price": 669.6
     },
     "★ Falchion Knife": {
-        "buff_price": 160.55
+        "buff_price": 160.32
     },
     "★ Falchion Knife | Autotronic (Factory New)": {
         "buff_price": 238.42
     },
     "★ Falchion Knife | Autotronic (Field-Tested)": {
-        "buff_price": 140.83
+        "buff_price": 137.62
     },
     "★ Falchion Knife | Autotronic (Minimal Wear)": {
         "buff_price": 169.72
     },
     "★ Falchion Knife | Black Laminate (Battle-Scarred)": {
-        "buff_price": 87.48
+        "buff_price": 87.37
     },
     "★ Falchion Knife | Black Laminate (Factory New)": {
         "buff_price": 155.74
@@ -4779,7 +4830,7 @@
         "buff_price": 114.68
     },
     "★ Falchion Knife | Bright Water (Field-Tested)": {
-        "buff_price": 89.34
+        "buff_price": 89.45
     },
     "★ Falchion Knife | Case Hardened (Well-Worn)": {
         "buff_price": 217.32
@@ -4790,38 +4841,32 @@
     "★ Falchion Knife | Damascus Steel (Factory New)": {
         "buff_price": 160.52
     },
-    "★ Falchion Knife | Damascus Steel (Field-Tested)": {
-        "buff_price": 125.92
-    },
     "★ Falchion Knife | Damascus Steel (Minimal Wear)": {
-        "buff_price": 133.03
+        "buff_price": 132.91
     },
     "★ Falchion Knife | Doppler (Factory New)": {
         "buff_price": 396.66
     },
-    "★ Falchion Knife | Fade (Factory New)": {
-        "buff_price": 295.86
-    },
     "★ Falchion Knife | Forest DDPAT (Field-Tested)": {
-        "buff_price": 85.71
+        "buff_price": 84.86
     },
     "★ Falchion Knife | Freehand (Factory New)": {
         "buff_price": 142.09
     },
     "★ Falchion Knife | Freehand (Field-Tested)": {
-        "buff_price": 103.22
+        "buff_price": 102.98
     },
     "★ Falchion Knife | Freehand (Minimal Wear)": {
         "buff_price": 116.97
     },
     "★ Falchion Knife | Gamma Doppler (Factory New)": {
-        "buff_price": 300.11
+        "buff_price": 298.15
     },
     "★ Falchion Knife | Lore (Factory New)": {
         "buff_price": 206.31
     },
     "★ Falchion Knife | Lore (Field-Tested)": {
-        "buff_price": 136.35
+        "buff_price": 135.2
     },
     "★ Falchion Knife | Lore (Minimal Wear)": {
         "buff_price": 167.43
@@ -4839,19 +4884,19 @@
         "buff_price": 108.94
     },
     "★ Falchion Knife | Tiger Tooth (Factory New)": {
-        "buff_price": 195.98
+        "buff_price": 195.86
     },
     "★ Falchion Knife | Ultraviolet (Field-Tested)": {
-        "buff_price": 100.11
+        "buff_price": 100
     },
     "★ Falchion Knife | Ultraviolet (Minimal Wear)": {
         "buff_price": 162.85
     },
     "★ Falchion Knife | Urban Masked (Field-Tested)": {
-        "buff_price": 94.03
+        "buff_price": 93.92
     },
     "★ Flip Knife": {
-        "buff_price": 265.82
+        "buff_price": 270.42
     },
     "★ Flip Knife | Autotronic (Field-Tested)": {
         "buff_price": 251.83
@@ -4866,25 +4911,25 @@
         "buff_price": 196.09
     },
     "★ Flip Knife | Black Laminate (Minimal Wear)": {
-        "buff_price": 200.68
+        "buff_price": 200.57
     },
     "★ Flip Knife | Blue Steel (Field-Tested)": {
         "buff_price": 228.2
     },
     "★ Flip Knife | Boreal Forest (Field-Tested)": {
-        "buff_price": 169.15
+        "buff_price": 167.43
     },
     "★ Flip Knife | Bright Water (Factory New)": {
-        "buff_price": 201.83
+        "buff_price": 205.95
     },
     "★ Flip Knife | Bright Water (Field-Tested)": {
-        "buff_price": 185.32
+        "buff_price": 184.63
     },
     "★ Flip Knife | Bright Water (Minimal Wear)": {
-        "buff_price": 191.14
+        "buff_price": 190.82
     },
     "★ Flip Knife | Case Hardened (Battle-Scarred)": {
-        "buff_price": 219.48
+        "buff_price": 217.86
     },
     "★ Flip Knife | Case Hardened (Field-Tested)": {
         "buff_price": 230.48
@@ -4892,26 +4937,23 @@
     "★ Flip Knife | Case Hardened (Well-Worn)": {
         "buff_price": 222.68
     },
-    "★ Flip Knife | Crimson Web (Field-Tested)": {
-        "buff_price": 269.69
-    },
     "★ Flip Knife | Crimson Web (Minimal Wear)": {
         "buff_price": 398.95
     },
     "★ Flip Knife | Damascus Steel (Factory New)": {
-        "buff_price": 207.54
+        "buff_price": 207.31
     },
     "★ Flip Knife | Damascus Steel (Field-Tested)": {
-        "buff_price": 191.51
+        "buff_price": 190.37
     },
     "★ Flip Knife | Damascus Steel (Minimal Wear)": {
-        "buff_price": 197.02
+        "buff_price": 196.09
     },
     "★ Flip Knife | Doppler (Factory New)": {
         "buff_price": 454
     },
     "★ Flip Knife | Fade (Factory New)": {
-        "buff_price": 458.48
+        "buff_price": 456.18
     },
     "★ Flip Knife | Forest DDPAT (Field-Tested)": {
         "buff_price": 169.49
@@ -4923,7 +4965,7 @@
         "buff_price": 188.08
     },
     "★ Flip Knife | Freehand (Minimal Wear)": {
-        "buff_price": 196.97
+        "buff_price": 197.02
     },
     "★ Flip Knife | Gamma Doppler (Minimal Wear)": {
         "buff_price": 642.18
@@ -4932,7 +4974,7 @@
         "buff_price": 389.91
     },
     "★ Flip Knife | Lore (Field-Tested)": {
-        "buff_price": 229.35
+        "buff_price": 229.25
     },
     "★ Flip Knife | Lore (Minimal Wear)": {
         "buff_price": 292.43
@@ -4962,28 +5004,28 @@
         "buff_price": 383.02
     },
     "★ Flip Knife | Tiger Tooth (Factory New)": {
-        "buff_price": 297.58
+        "buff_price": 297.71
     },
     "★ Flip Knife | Ultraviolet (Field-Tested)": {
-        "buff_price": 194.95
+        "buff_price": 193.8
     },
     "★ Flip Knife | Ultraviolet (Minimal Wear)": {
         "buff_price": 230.37
     },
     "★ Flip Knife | Urban Masked (Field-Tested)": {
-        "buff_price": 176.6
+        "buff_price": 176.43
     },
     "★ Gut Knife": {
         "buff_price": 86.82
     },
     "★ Gut Knife | Autotronic (Field-Tested)": {
-        "buff_price": 134.17
+        "buff_price": 133.03
     },
     "★ Gut Knife | Autotronic (Minimal Wear)": {
         "buff_price": 168.78
     },
     "★ Gut Knife | Black Laminate (Field-Tested)": {
-        "buff_price": 73.14
+        "buff_price": 75.34
     },
     "★ Gut Knife | Black Laminate (Minimal Wear)": {
         "buff_price": 91.51
@@ -5001,28 +5043,28 @@
         "buff_price": 75.2
     },
     "★ Gut Knife | Bright Water (Minimal Wear)": {
-        "buff_price": 79.8
+        "buff_price": 79.57
     },
     "★ Gut Knife | Crimson Web (Field-Tested)": {
         "buff_price": 102.06
     },
     "★ Gut Knife | Crimson Web (Minimal Wear)": {
-        "buff_price": 149.06
+        "buff_price": 149.08
     },
     "★ Gut Knife | Damascus Steel (Field-Tested)": {
-        "buff_price": 76.58
+        "buff_price": 76.14
     },
     "★ Gut Knife | Doppler (Factory New)": {
-        "buff_price": 178.09
+        "buff_price": 172.02
     },
     "★ Gut Knife | Doppler (Minimal Wear)": {
-        "buff_price": 212.05
+        "buff_price": 211.83
     },
     "★ Gut Knife | Fade (Factory New)": {
         "buff_price": 182.57
     },
     "★ Gut Knife | Gamma Doppler (Factory New)": {
-        "buff_price": 222.45
+        "buff_price": 221.77
     },
     "★ Gut Knife | Lore (Factory New)": {
         "buff_price": 189.66
@@ -5034,7 +5076,7 @@
         "buff_price": 148.97
     },
     "★ Gut Knife | Marble Fade (Factory New)": {
-        "buff_price": 162.38
+        "buff_price": 165.14
     },
     "★ Gut Knife | Night (Field-Tested)": {
         "buff_price": 76.85
@@ -5043,7 +5085,7 @@
         "buff_price": 66.28
     },
     "★ Gut Knife | Safari Mesh (Field-Tested)": {
-        "buff_price": 66.51
+        "buff_price": 64.89
     },
     "★ Gut Knife | Scorched (Field-Tested)": {
         "buff_price": 68.8
@@ -5058,43 +5100,43 @@
         "buff_price": 76.12
     },
     "★ Gut Knife | Tiger Tooth (Factory New)": {
-        "buff_price": 137.49
+        "buff_price": 135.32
     },
     "★ Gut Knife | Ultraviolet (Field-Tested)": {
-        "buff_price": 74.54
+        "buff_price": 74.31
     },
     "★ Hand Wraps | Arboreal (Battle-Scarred)": {
-        "buff_price": 59.63
+        "buff_price": 59.52
     },
     "★ Hand Wraps | Arboreal (Factory New)": {
         "buff_price": 271.54
     },
     "★ Hand Wraps | Arboreal (Field-Tested)": {
-        "buff_price": 62.62
+        "buff_price": 62.58
     },
     "★ Hand Wraps | Arboreal (Minimal Wear)": {
         "buff_price": 116.74
     },
     "★ Hand Wraps | Arboreal (Well-Worn)": {
-        "buff_price": 59.63
+        "buff_price": 61.92
     },
     "★ Hand Wraps | Badlands (Field-Tested)": {
         "buff_price": 611.46
     },
     "★ Hand Wraps | Badlands (Minimal Wear)": {
-        "buff_price": 676.6
+        "buff_price": 674.31
     },
     "★ Hand Wraps | CAUTION! (Battle-Scarred)": {
         "buff_price": 148.38
     },
     "★ Hand Wraps | CAUTION! (Field-Tested)": {
-        "buff_price": 185.77
+        "buff_price": 184.63
     },
     "★ Hand Wraps | CAUTION! (Minimal Wear)": {
-        "buff_price": 295.42
+        "buff_price": 295.18
     },
     "★ Hand Wraps | CAUTION! (Well-Worn)": {
-        "buff_price": 165.14
+        "buff_price": 163.98
     },
     "★ Hand Wraps | Cobalt Skulls (Battle-Scarred)": {
         "buff_price": 248.97
@@ -5103,28 +5145,28 @@
         "buff_price": 298.05
     },
     "★ Hand Wraps | Cobalt Skulls (Minimal Wear)": {
-        "buff_price": 582.45
+        "buff_price": 580.26
     },
     "★ Hand Wraps | Cobalt Skulls (Well-Worn)": {
         "buff_price": 266.05
     },
     "★ Hand Wraps | Constrictor (Battle-Scarred)": {
-        "buff_price": 67.66
+        "buff_price": 66.28
     },
     "★ Hand Wraps | Constrictor (Field-Tested)": {
-        "buff_price": 67.77
+        "buff_price": 67.63
     },
     "★ Hand Wraps | Constrictor (Minimal Wear)": {
         "buff_price": 155.85
     },
     "★ Hand Wraps | Constrictor (Well-Worn)": {
-        "buff_price": 68.8
+        "buff_price": 68.57
     },
     "★ Hand Wraps | Desert Shamagh (Battle-Scarred)": {
-        "buff_price": 60.55
+        "buff_price": 60.75
     },
     "★ Hand Wraps | Desert Shamagh (Field-Tested)": {
-        "buff_price": 60.55
+        "buff_price": 60.32
     },
     "★ Hand Wraps | Desert Shamagh (Minimal Wear)": {
         "buff_price": 98.72
@@ -5133,10 +5175,10 @@
         "buff_price": 67.86
     },
     "★ Hand Wraps | Duct Tape (Field-Tested)": {
-        "buff_price": 68.35
+        "buff_price": 67.89
     },
     "★ Hand Wraps | Duct Tape (Minimal Wear)": {
-        "buff_price": 104.35
+        "buff_price": 104.25
     },
     "★ Hand Wraps | Duct Tape (Well-Worn)": {
         "buff_price": 68.57
@@ -5145,7 +5187,7 @@
         "buff_price": 62.46
     },
     "★ Hand Wraps | Giraffe (Minimal Wear)": {
-        "buff_price": 118.12
+        "buff_price": 118.11
     },
     "★ Hand Wraps | Giraffe (Well-Worn)": {
         "buff_price": 63.88
@@ -5166,49 +5208,52 @@
         "buff_price": 159.52
     },
     "★ Hand Wraps | Overprint (Minimal Wear)": {
-        "buff_price": 212.72
+        "buff_price": 211
     },
     "★ Hand Wraps | Overprint (Well-Worn)": {
         "buff_price": 141.97
     },
     "★ Hand Wraps | Slaughter (Field-Tested)": {
-        "buff_price": 866.28
+        "buff_price": 840.82
     },
     "★ Hand Wraps | Slaughter (Minimal Wear)": {
         "buff_price": 944.94
     },
     "★ Hand Wraps | Spruce DDPAT (Field-Tested)": {
-        "buff_price": 573.38
+        "buff_price": 551.02
     },
     "★ Hand Wraps | Spruce DDPAT (Minimal Wear)": {
-        "buff_price": 668.63
+        "buff_price": 631.92
     },
     "★ Huntsman Knife": {
         "buff_price": 185.77
     },
     "★ Huntsman Knife | Autotronic (Battle-Scarred)": {
-        "buff_price": 135.32
+        "buff_price": 137.49
     },
     "★ Huntsman Knife | Autotronic (Field-Tested)": {
-        "buff_price": 153.22
+        "buff_price": 153.2
     },
     "★ Huntsman Knife | Black Laminate (Battle-Scarred)": {
-        "buff_price": 88.97
+        "buff_price": 88.85
     },
     "★ Huntsman Knife | Black Laminate (Factory New)": {
         "buff_price": 161.58
     },
     "★ Huntsman Knife | Black Laminate (Field-Tested)": {
-        "buff_price": 90.37
+        "buff_price": 91.51
     },
     "★ Huntsman Knife | Black Laminate (Minimal Wear)": {
-        "buff_price": 100.91
+        "buff_price": 98.62
     },
     "★ Huntsman Knife | Black Laminate (Well-Worn)": {
-        "buff_price": 89.43
+        "buff_price": 91.17
     },
     "★ Huntsman Knife | Bright Water (Factory New)": {
         "buff_price": 100.46
+    },
+    "★ Huntsman Knife | Bright Water (Field-Tested)": {
+        "buff_price": 82.57
     },
     "★ Huntsman Knife | Bright Water (Minimal Wear)": {
         "buff_price": 91.05
@@ -5232,28 +5277,31 @@
         "buff_price": 400.91
     },
     "★ Huntsman Knife | Fade (Factory New)": {
-        "buff_price": 347.58
+        "buff_price": 347.12
     },
     "★ Huntsman Knife | Freehand (Factory New)": {
-        "buff_price": 121.86
+        "buff_price": 121.63
     },
     "★ Huntsman Knife | Freehand (Field-Tested)": {
-        "buff_price": 91.74
+        "buff_price": 91.51
+    },
+    "★ Huntsman Knife | Freehand (Minimal Wear)": {
+        "buff_price": 108.94
     },
     "★ Huntsman Knife | Gamma Doppler (Factory New)": {
-        "buff_price": 301.37
+        "buff_price": 302.74
     },
     "★ Huntsman Knife | Lore (Factory New)": {
         "buff_price": 199.54
     },
     "★ Huntsman Knife | Lore (Field-Tested)": {
-        "buff_price": 131.74
+        "buff_price": 131.63
     },
     "★ Huntsman Knife | Lore (Minimal Wear)": {
-        "buff_price": 163.98
+        "buff_price": 163.88
     },
     "★ Huntsman Knife | Marble Fade (Factory New)": {
-        "buff_price": 249.77
+        "buff_price": 249.65
     },
     "★ Huntsman Knife | Night (Field-Tested)": {
         "buff_price": 103.22
@@ -5262,7 +5310,7 @@
         "buff_price": 73.4
     },
     "★ Huntsman Knife | Scorched (Field-Tested)": {
-        "buff_price": 90.37
+        "buff_price": 90.25
     },
     "★ Huntsman Knife | Tiger Tooth (Factory New)": {
         "buff_price": 206.42
@@ -5271,19 +5319,19 @@
         "buff_price": 90.14
     },
     "★ Hydra Gloves | Case Hardened (Field-Tested)": {
-        "buff_price": 83.71
+        "buff_price": 83.49
     },
     "★ Hydra Gloves | Case Hardened (Minimal Wear)": {
-        "buff_price": 136.22
+        "buff_price": 136.11
     },
     "★ Hydra Gloves | Case Hardened (Well-Worn)": {
-        "buff_price": 96.08
+        "buff_price": 93.57
     },
     "★ Hydra Gloves | Emerald (Battle-Scarred)": {
         "buff_price": 52.4
     },
     "★ Hydra Gloves | Emerald (Field-Tested)": {
-        "buff_price": 53.32
+        "buff_price": 53.45
     },
     "★ Hydra Gloves | Emerald (Minimal Wear)": {
         "buff_price": 69.48
@@ -5295,7 +5343,7 @@
         "buff_price": 183.26
     },
     "★ Hydra Gloves | Mangrove (Field-Tested)": {
-        "buff_price": 44.15
+        "buff_price": 44.26
     },
     "★ Hydra Gloves | Mangrove (Minimal Wear)": {
         "buff_price": 51.72
@@ -5304,40 +5352,40 @@
         "buff_price": 45.52
     },
     "★ Hydra Gloves | Rattler (Battle-Scarred)": {
-        "buff_price": 44.49
+        "buff_price": 44.38
     },
     "★ Hydra Gloves | Rattler (Field-Tested)": {
-        "buff_price": 44.62
+        "buff_price": 44.6
     },
     "★ Hydra Gloves | Rattler (Minimal Wear)": {
-        "buff_price": 54.58
+        "buff_price": 53.08
     },
     "★ Karambit": {
-        "buff_price": 1528.88
+        "buff_price": 1502.28
     },
     "★ Karambit | Autotronic (Battle-Scarred)": {
         "buff_price": 1052.74
     },
     "★ Karambit | Autotronic (Field-Tested)": {
-        "buff_price": 1358.92
+        "buff_price": 1353.18
     },
     "★ Karambit | Autotronic (Minimal Wear)": {
         "buff_price": 1683.46
     },
     "★ Karambit | Black Laminate (Battle-Scarred)": {
-        "buff_price": 905.95
+        "buff_price": 915.12
     },
     "★ Karambit | Black Laminate (Factory New)": {
         "buff_price": 1577.95
     },
     "★ Karambit | Black Laminate (Field-Tested)": {
-        "buff_price": 1040.12
+        "buff_price": 1042.42
     },
     "★ Karambit | Black Laminate (Minimal Wear)": {
-        "buff_price": 1116.26
+        "buff_price": 1121.08
     },
     "★ Karambit | Black Laminate (Well-Worn)": {
-        "buff_price": 941.49
+        "buff_price": 941.38
     },
     "★ Karambit | Blue Steel (Battle-Scarred)": {
         "buff_price": 1008.69
@@ -5349,13 +5397,13 @@
         "buff_price": 1212.83
     },
     "★ Karambit | Blue Steel (Well-Worn)": {
-        "buff_price": 1046.52
+        "buff_price": 1046.4
     },
     "★ Karambit | Boreal Forest (Field-Tested)": {
-        "buff_price": 603.09
+        "buff_price": 600.91
     },
     "★ Karambit | Bright Water (Factory New)": {
-        "buff_price": 847.35
+        "buff_price": 847.23
     },
     "★ Karambit | Bright Water (Field-Tested)": {
         "buff_price": 704.46
@@ -5376,10 +5424,10 @@
         "buff_price": 1031.63
     },
     "★ Karambit | Crimson Web (Battle-Scarred)": {
-        "buff_price": 825.34
+        "buff_price": 825.11
     },
     "★ Karambit | Crimson Web (Field-Tested)": {
-        "buff_price": 949.52
+        "buff_price": 940.12
     },
     "★ Karambit | Crimson Web (Minimal Wear)": {
         "buff_price": 1513.51
@@ -5391,19 +5439,22 @@
         "buff_price": 900.91
     },
     "★ Karambit | Damascus Steel (Minimal Wear)": {
-        "buff_price": 933.82
+        "buff_price": 943.68
     },
     "★ Karambit | Forest DDPAT (Battle-Scarred)": {
         "buff_price": 577.97
     },
+    "★ Karambit | Forest DDPAT (Field-Tested)": {
+        "buff_price": 601.25
+    },
     "★ Karambit | Forest DDPAT (Minimal Wear)": {
-        "buff_price": 678.31
+        "buff_price": 676.37
     },
     "★ Karambit | Freehand (Factory New)": {
-        "buff_price": 866.72
+        "buff_price": 866.85
     },
     "★ Karambit | Freehand (Field-Tested)": {
-        "buff_price": 761.11
+        "buff_price": 761
     },
     "★ Karambit | Freehand (Minimal Wear)": {
         "buff_price": 798.15
@@ -5412,7 +5463,7 @@
         "buff_price": 1809.14
     },
     "★ Karambit | Lore (Field-Tested)": {
-        "buff_price": 866.85
+        "buff_price": 866.72
     },
     "★ Karambit | Lore (Minimal Wear)": {
         "buff_price": 1267.75
@@ -5427,7 +5478,7 @@
         "buff_price": 960.31
     },
     "★ Karambit | Rust Coat (Battle-Scarred)": {
-        "buff_price": 703.66
+        "buff_price": 702.97
     },
     "★ Karambit | Scorched (Field-Tested)": {
         "buff_price": 633.48
@@ -5439,7 +5490,7 @@
         "buff_price": 1715.57
     },
     "★ Karambit | Slaughter (Minimal Wear)": {
-        "buff_price": 1375.66
+        "buff_price": 1389.89
     },
     "★ Karambit | Stained (Battle-Scarred)": {
         "buff_price": 756.86
@@ -5451,19 +5502,19 @@
         "buff_price": 921.89
     },
     "★ Karambit | Stained (Well-Worn)": {
-        "buff_price": 764.78
+        "buff_price": 756.75
     },
     "★ Karambit | Tiger Tooth (Factory New)": {
-        "buff_price": 1318.45
+        "buff_price": 1318.22
     },
     "★ Karambit | Ultraviolet (Field-Tested)": {
-        "buff_price": 738.52
+        "buff_price": 733.94
     },
     "★ Karambit | Urban Masked (Field-Tested)": {
         "buff_price": 619.14
     },
     "★ Karambit | Urban Masked (Minimal Wear)": {
-        "buff_price": 706.29
+        "buff_price": 706.18
     },
     "★ Karambit | Urban Masked (Well-Worn)": {
         "buff_price": 609.03
@@ -5472,28 +5523,28 @@
         "buff_price": 138.18
     },
     "★ Kukri Knife | Blue Steel (Battle-Scarred)": {
-        "buff_price": 102.06
+        "buff_price": 103.22
     },
     "★ Kukri Knife | Blue Steel (Factory New)": {
         "buff_price": 194.95
     },
     "★ Kukri Knife | Blue Steel (Field-Tested)": {
-        "buff_price": 109.86
+        "buff_price": 111.23
     },
     "★ Kukri Knife | Blue Steel (Well-Worn)": {
-        "buff_price": 102.52
+        "buff_price": 102.29
     },
     "★ Kukri Knife | Boreal Forest (Battle-Scarred)": {
-        "buff_price": 61.58
+        "buff_price": 60.78
     },
     "★ Kukri Knife | Boreal Forest (Field-Tested)": {
-        "buff_price": 61.92
+        "buff_price": 62.38
     },
     "★ Kukri Knife | Boreal Forest (Minimal Wear)": {
         "buff_price": 71.09
     },
     "★ Kukri Knife | Boreal Forest (Well-Worn)": {
-        "buff_price": 63.08
+        "buff_price": 61.92
     },
     "★ Kukri Knife | Case Hardened (Battle-Scarred)": {
         "buff_price": 118.97
@@ -5502,7 +5553,7 @@
         "buff_price": 164.66
     },
     "★ Kukri Knife | Case Hardened (Well-Worn)": {
-        "buff_price": 120.26
+        "buff_price": 120.15
     },
     "★ Kukri Knife | Crimson Web (Battle-Scarred)": {
         "buff_price": 103.22
@@ -5511,22 +5562,19 @@
         "buff_price": 121.08
     },
     "★ Kukri Knife | Crimson Web (Minimal Wear)": {
-        "buff_price": 160.55
+        "buff_price": 160.09
     },
     "★ Kukri Knife | Crimson Web (Well-Worn)": {
-        "buff_price": 116.83
+        "buff_price": 112.38
     },
     "★ Kukri Knife | Fade (Factory New)": {
-        "buff_price": 250
+        "buff_price": 249.54
     },
     "★ Kukri Knife | Fade (Minimal Wear)": {
-        "buff_price": 274.89
+        "buff_price": 274.75
     },
     "★ Kukri Knife | Forest DDPAT (Battle-Scarred)": {
         "buff_price": 62.38
-    },
-    "★ Kukri Knife | Forest DDPAT (Field-Tested)": {
-        "buff_price": 63.54
     },
     "★ Kukri Knife | Forest DDPAT (Minimal Wear)": {
         "buff_price": 71.77
@@ -5538,46 +5586,46 @@
         "buff_price": 67.54
     },
     "★ Kukri Knife | Night Stripe (Field-Tested)": {
-        "buff_price": 68.66
+        "buff_price": 68.12
     },
     "★ Kukri Knife | Night Stripe (Minimal Wear)": {
         "buff_price": 94.03
     },
     "★ Kukri Knife | Safari Mesh (Battle-Scarred)": {
-        "buff_price": 63.88
+        "buff_price": 63.42
     },
     "★ Kukri Knife | Safari Mesh (Field-Tested)": {
         "buff_price": 60.06
     },
     "★ Kukri Knife | Safari Mesh (Minimal Wear)": {
-        "buff_price": 66.28
+        "buff_price": 66.17
     },
     "★ Kukri Knife | Safari Mesh (Well-Worn)": {
         "buff_price": 61.02
     },
     "★ Kukri Knife | Scorched (Battle-Scarred)": {
-        "buff_price": 67.8
+        "buff_price": 67.66
     },
     "★ Kukri Knife | Scorched (Field-Tested)": {
-        "buff_price": 65.37
+        "buff_price": 65.25
     },
     "★ Kukri Knife | Scorched (Minimal Wear)": {
         "buff_price": 85.78
     },
     "★ Kukri Knife | Slaughter (Factory New)": {
-        "buff_price": 201.83
+        "buff_price": 201.37
     },
     "★ Kukri Knife | Slaughter (Field-Tested)": {
-        "buff_price": 174.06
+        "buff_price": 174.29
     },
     "★ Kukri Knife | Slaughter (Minimal Wear)": {
-        "buff_price": 178.89
+        "buff_price": 179.48
     },
     "★ Kukri Knife | Stained (Battle-Scarred)": {
-        "buff_price": 84.75
+        "buff_price": 84.86
     },
     "★ Kukri Knife | Stained (Field-Tested)": {
-        "buff_price": 88.28
+        "buff_price": 88.52
     },
     "★ Kukri Knife | Stained (Minimal Wear)": {
         "buff_price": 98.4
@@ -5589,13 +5637,13 @@
         "buff_price": 67.54
     },
     "★ Kukri Knife | Urban Masked (Field-Tested)": {
-        "buff_price": 68.69
+        "buff_price": 64.22
     },
     "★ Kukri Knife | Urban Masked (Minimal Wear)": {
-        "buff_price": 92.09
+        "buff_price": 91.63
     },
     "★ M9 Bayonet": {
-        "buff_price": 1122.89
+        "buff_price": 1123.02
     },
     "★ M9 Bayonet | Autotronic (Battle-Scarred)": {
         "buff_price": 870.06
@@ -5604,10 +5652,10 @@
         "buff_price": 1742.97
     },
     "★ M9 Bayonet | Autotronic (Field-Tested)": {
-        "buff_price": 998.83
+        "buff_price": 998.72
     },
     "★ M9 Bayonet | Autotronic (Minimal Wear)": {
-        "buff_price": 1192.65
+        "buff_price": 1199.06
     },
     "★ M9 Bayonet | Black Laminate (Battle-Scarred)": {
         "buff_price": 664.89
@@ -5619,7 +5667,7 @@
         "buff_price": 727.05
     },
     "★ M9 Bayonet | Black Laminate (Minimal Wear)": {
-        "buff_price": 768.34
+        "buff_price": 768.22
     },
     "★ M9 Bayonet | Black Laminate (Well-Worn)": {
         "buff_price": 672
@@ -5637,13 +5685,13 @@
         "buff_price": 708.25
     },
     "★ M9 Bayonet | Boreal Forest (Field-Tested)": {
-        "buff_price": 416.83
+        "buff_price": 415.91
     },
     "★ M9 Bayonet | Bright Water (Factory New)": {
         "buff_price": 600.91
     },
     "★ M9 Bayonet | Bright Water (Field-Tested)": {
-        "buff_price": 501.14
+        "buff_price": 499.98
     },
     "★ M9 Bayonet | Bright Water (Minimal Wear)": {
         "buff_price": 550.34
@@ -5655,7 +5703,7 @@
         "buff_price": 733.94
     },
     "★ M9 Bayonet | Case Hardened (Minimal Wear)": {
-        "buff_price": 867.22
+        "buff_price": 867.18
     },
     "★ M9 Bayonet | Case Hardened (Well-Worn)": {
         "buff_price": 680.48
@@ -5670,25 +5718,22 @@
         "buff_price": 1284.38
     },
     "★ M9 Bayonet | Damascus Steel (Factory New)": {
-        "buff_price": 717.88
+        "buff_price": 720.17
     },
     "★ M9 Bayonet | Damascus Steel (Field-Tested)": {
-        "buff_price": 633.02
+        "buff_price": 634.17
     },
     "★ M9 Bayonet | Damascus Steel (Minimal Wear)": {
         "buff_price": 655.95
     },
     "★ M9 Bayonet | Doppler (Factory New)": {
-        "buff_price": 1402.51
-    },
-    "★ M9 Bayonet | Doppler (Minimal Wear)": {
-        "buff_price": 1433.46
+        "buff_price": 1407.77
     },
     "★ M9 Bayonet | Fade (Factory New)": {
         "buff_price": 1387.6
     },
     "★ M9 Bayonet | Forest DDPAT (Field-Tested)": {
-        "buff_price": 423.38
+        "buff_price": 422.02
     },
     "★ M9 Bayonet | Freehand (Factory New)": {
         "buff_price": 636.46
@@ -5697,22 +5742,22 @@
         "buff_price": 534.4
     },
     "★ M9 Bayonet | Freehand (Minimal Wear)": {
-        "buff_price": 594.46
+        "buff_price": 594.23
     },
     "★ M9 Bayonet | Gamma Doppler (Factory New)": {
-        "buff_price": 1800.43
+        "buff_price": 1823.25
     },
     "★ M9 Bayonet | Lore (Battle-Scarred)": {
         "buff_price": 558.69
     },
     "★ M9 Bayonet | Lore (Factory New)": {
-        "buff_price": 1754.32
+        "buff_price": 1754.22
     },
     "★ M9 Bayonet | Lore (Field-Tested)": {
-        "buff_price": 685.77
+        "buff_price": 697.23
     },
     "★ M9 Bayonet | Lore (Minimal Wear)": {
-        "buff_price": 1158.23
+        "buff_price": 1158.02
     },
     "★ M9 Bayonet | Lore (Well-Worn)": {
         "buff_price": 628.42
@@ -5727,19 +5772,19 @@
         "buff_price": 493.11
     },
     "★ M9 Bayonet | Night (Minimal Wear)": {
-        "buff_price": 651.34
+        "buff_price": 649.05
     },
     "★ M9 Bayonet | Rust Coat (Battle-Scarred)": {
-        "buff_price": 508.02
+        "buff_price": 507.91
     },
     "★ M9 Bayonet | Safari Mesh (Field-Tested)": {
         "buff_price": 412.38
     },
     "★ M9 Bayonet | Scorched (Battle-Scarred)": {
-        "buff_price": 456.17
+        "buff_price": 455.77
     },
     "★ M9 Bayonet | Scorched (Field-Tested)": {
-        "buff_price": 439.22
+        "buff_price": 437.95
     },
     "★ M9 Bayonet | Scorched (Minimal Wear)": {
         "buff_price": 499.98
@@ -5756,47 +5801,44 @@
     "★ M9 Bayonet | Stained (Field-Tested)": {
         "buff_price": 591.74
     },
-    "★ M9 Bayonet | Stained (Minimal Wear)": {
-        "buff_price": 607.78
-    },
     "★ M9 Bayonet | Stained (Well-Worn)": {
         "buff_price": 561.69
     },
     "★ M9 Bayonet | Tiger Tooth (Factory New)": {
-        "buff_price": 960.54
+        "buff_price": 963.29
     },
     "★ M9 Bayonet | Ultraviolet (Field-Tested)": {
         "buff_price": 525.34
     },
     "★ M9 Bayonet | Ultraviolet (Minimal Wear)": {
-        "buff_price": 697.23
+        "buff_price": 696.09
     },
     "★ M9 Bayonet | Urban Masked (Battle-Scarred)": {
-        "buff_price": 481.52
+        "buff_price": 481.29
     },
     "★ M9 Bayonet | Urban Masked (Field-Tested)": {
-        "buff_price": 447.25
+        "buff_price": 447.02
     },
     "★ M9 Bayonet | Urban Masked (Minimal Wear)": {
-        "buff_price": 526.83
+        "buff_price": 522.92
     },
     "★ Moto Gloves | 3rd Commando Company (Battle-Scarred)": {
         "buff_price": 57.34
     },
     "★ Moto Gloves | 3rd Commando Company (Field-Tested)": {
-        "buff_price": 58.26
+        "buff_price": 58.14
     },
     "★ Moto Gloves | 3rd Commando Company (Minimal Wear)": {
         "buff_price": 92.89
     },
     "★ Moto Gloves | 3rd Commando Company (Well-Worn)": {
-        "buff_price": 58.6
+        "buff_price": 58.49
     },
     "★ Moto Gloves | Blood Pressure (Battle-Scarred)": {
-        "buff_price": 116.28
+        "buff_price": 116.97
     },
     "★ Moto Gloves | Blood Pressure (Field-Tested)": {
-        "buff_price": 177.75
+        "buff_price": 176.6
     },
     "★ Moto Gloves | Blood Pressure (Minimal Wear)": {
         "buff_price": 302.63
@@ -5823,16 +5865,19 @@
         "buff_price": 894.25
     },
     "★ Moto Gloves | Eclipse (Minimal Wear)": {
-        "buff_price": 919.71
+        "buff_price": 917.42
     },
     "★ Moto Gloves | Finish Line (Battle-Scarred)": {
-        "buff_price": 74.43
+        "buff_price": 76.83
     },
     "★ Moto Gloves | Finish Line (Field-Tested)": {
-        "buff_price": 127.06
+        "buff_price": 126.95
     },
     "★ Moto Gloves | Finish Line (Minimal Wear)": {
         "buff_price": 228.89
+    },
+    "★ Moto Gloves | Finish Line (Well-Worn)": {
+        "buff_price": 107.8
     },
     "★ Moto Gloves | POW! (Battle-Scarred)": {
         "buff_price": 72.14
@@ -5841,25 +5886,25 @@
         "buff_price": 889.89
     },
     "★ Moto Gloves | POW! (Field-Tested)": {
-        "buff_price": 128.43
+        "buff_price": 128.32
     },
     "★ Moto Gloves | POW! (Minimal Wear)": {
-        "buff_price": 238.29
+        "buff_price": 238.08
     },
     "★ Moto Gloves | POW! (Well-Worn)": {
-        "buff_price": 94.95
+        "buff_price": 94.83
     },
     "★ Moto Gloves | Polygon (Battle-Scarred)": {
-        "buff_price": 116.05
+        "buff_price": 115.83
     },
     "★ Moto Gloves | Polygon (Factory New)": {
         "buff_price": 836.8
     },
     "★ Moto Gloves | Polygon (Field-Tested)": {
-        "buff_price": 163.52
+        "buff_price": 163.08
     },
     "★ Moto Gloves | Polygon (Minimal Wear)": {
-        "buff_price": 266.05
+        "buff_price": 263.75
     },
     "★ Moto Gloves | Polygon (Well-Worn)": {
         "buff_price": 152.75
@@ -5883,10 +5928,10 @@
         "buff_price": 1536.68
     },
     "★ Moto Gloves | Transport (Battle-Scarred)": {
-        "buff_price": 54.35
+        "buff_price": 54.25
     },
     "★ Moto Gloves | Transport (Field-Tested)": {
-        "buff_price": 53.14
+        "buff_price": 53.62
     },
     "★ Moto Gloves | Transport (Minimal Wear)": {
         "buff_price": 80.05
@@ -5898,7 +5943,7 @@
         "buff_price": 75.46
     },
     "★ Moto Gloves | Turtle (Field-Tested)": {
-        "buff_price": 88.17
+        "buff_price": 88.31
     },
     "★ Moto Gloves | Turtle (Minimal Wear)": {
         "buff_price": 177.86
@@ -5910,10 +5955,13 @@
         "buff_price": 58.14
     },
     "★ Navaja Knife | Blue Steel (Minimal Wear)": {
-        "buff_price": 83.49
+        "buff_price": 83.37
     },
     "★ Navaja Knife | Boreal Forest (Field-Tested)": {
         "buff_price": 57.45
+    },
+    "★ Navaja Knife | Boreal Forest (Minimal Wear)": {
+        "buff_price": 61.92
     },
     "★ Navaja Knife | Case Hardened (Battle-Scarred)": {
         "buff_price": 98.38
@@ -5943,13 +5991,13 @@
         "buff_price": 69.95
     },
     "★ Navaja Knife | Doppler (Factory New)": {
-        "buff_price": 168.45
+        "buff_price": 168.34
     },
     "★ Navaja Knife | Doppler (Minimal Wear)": {
         "buff_price": 263.75
     },
     "★ Navaja Knife | Fade (Factory New)": {
-        "buff_price": 148.62
+        "buff_price": 148.51
     },
     "★ Navaja Knife | Forest DDPAT (Field-Tested)": {
         "buff_price": 56.86
@@ -5958,16 +6006,16 @@
         "buff_price": 63.85
     },
     "★ Navaja Knife | Marble Fade (Factory New)": {
-        "buff_price": 123.51
+        "buff_price": 122.58
     },
     "★ Navaja Knife | Night Stripe (Field-Tested)": {
-        "buff_price": 59.85
+        "buff_price": 60.42
     },
     "★ Navaja Knife | Rust Coat (Battle-Scarred)": {
-        "buff_price": 57.34
+        "buff_price": 57.57
     },
     "★ Navaja Knife | Safari Mesh (Field-Tested)": {
-        "buff_price": 55.03
+        "buff_price": 56.17
     },
     "★ Navaja Knife | Slaughter (Minimal Wear)": {
         "buff_price": 116.97
@@ -5976,7 +6024,7 @@
         "buff_price": 71.09
     },
     "★ Navaja Knife | Tiger Tooth (Factory New)": {
-        "buff_price": 93.92
+        "buff_price": 93.8
     },
     "★ Navaja Knife | Ultraviolet (Field-Tested)": {
         "buff_price": 62.85
@@ -5988,7 +6036,7 @@
         "buff_price": 63.98
     },
     "★ Nomad Knife": {
-        "buff_price": 196.55
+        "buff_price": 194.72
     },
     "★ Nomad Knife | Blue Steel (Field-Tested)": {
         "buff_price": 198.75
@@ -5997,7 +6045,7 @@
         "buff_price": 190.37
     },
     "★ Nomad Knife | Boreal Forest (Field-Tested)": {
-        "buff_price": 110.09
+        "buff_price": 111.12
     },
     "★ Nomad Knife | Case Hardened (Battle-Scarred)": {
         "buff_price": 208.25
@@ -6006,7 +6054,7 @@
         "buff_price": 503.89
     },
     "★ Nomad Knife | Case Hardened (Field-Tested)": {
-        "buff_price": 227.72
+        "buff_price": 227.49
     },
     "★ Nomad Knife | Case Hardened (Minimal Wear)": {
         "buff_price": 276.83
@@ -6014,41 +6062,41 @@
     "★ Nomad Knife | Case Hardened (Well-Worn)": {
         "buff_price": 214.32
     },
-    "★ Nomad Knife | Crimson Web (Battle-Scarred)": {
-        "buff_price": 207.09
-    },
     "★ Nomad Knife | Crimson Web (Field-Tested)": {
         "buff_price": 217.31
     },
     "★ Nomad Knife | Crimson Web (Minimal Wear)": {
-        "buff_price": 298.05
+        "buff_price": 298.15
     },
     "★ Nomad Knife | Crimson Web (Well-Worn)": {
         "buff_price": 216.03
     },
     "★ Nomad Knife | Damascus Steel (Factory New)": {
-        "buff_price": 216.28
+        "buff_price": 216.37
     },
     "★ Nomad Knife | Damascus Steel (Field-Tested)": {
         "buff_price": 181.18
     },
     "★ Nomad Knife | Damascus Steel (Minimal Wear)": {
-        "buff_price": 194.72
+        "buff_price": 194.95
     },
     "★ Nomad Knife | Doppler (Factory New)": {
         "buff_price": 526.37
     },
     "★ Nomad Knife | Fade (Factory New)": {
-        "buff_price": 424.31
+        "buff_price": 424.18
     },
     "★ Nomad Knife | Forest DDPAT (Field-Tested)": {
-        "buff_price": 105.51
+        "buff_price": 106.65
     },
     "★ Nomad Knife | Marble Fade (Factory New)": {
-        "buff_price": 340.58
+        "buff_price": 337.03
+    },
+    "★ Nomad Knife | Night Stripe (Field-Tested)": {
+        "buff_price": 135.2
     },
     "★ Nomad Knife | Rust Coat (Battle-Scarred)": {
-        "buff_price": 138.42
+        "buff_price": 138.18
     },
     "★ Nomad Knife | Scorched (Field-Tested)": {
         "buff_price": 121.08
@@ -6069,7 +6117,7 @@
         "buff_price": 174.29
     },
     "★ Nomad Knife | Tiger Tooth (Factory New)": {
-        "buff_price": 277.52
+        "buff_price": 276.37
     },
     "★ Nomad Knife | Ultraviolet (Battle-Scarred)": {
         "buff_price": 157.8
@@ -6090,13 +6138,13 @@
         "buff_price": 165.6
     },
     "★ Paracord Knife": {
-        "buff_price": 72.94
+        "buff_price": 72.14
     },
     "★ Paracord Knife | Blue Steel (Battle-Scarred)": {
         "buff_price": 97.35
     },
     "★ Paracord Knife | Blue Steel (Field-Tested)": {
-        "buff_price": 100.43
+        "buff_price": 98.62
     },
     "★ Paracord Knife | Blue Steel (Well-Worn)": {
         "buff_price": 98.38
@@ -6104,20 +6152,23 @@
     "★ Paracord Knife | Boreal Forest (Field-Tested)": {
         "buff_price": 64.22
     },
+    "★ Paracord Knife | Boreal Forest (Minimal Wear)": {
+        "buff_price": 80.28
+    },
     "★ Paracord Knife | Case Hardened (Battle-Scarred)": {
-        "buff_price": 129
+        "buff_price": 128.89
     },
     "★ Paracord Knife | Case Hardened (Factory New)": {
         "buff_price": 320.48
     },
     "★ Paracord Knife | Case Hardened (Field-Tested)": {
-        "buff_price": 133.03
+        "buff_price": 133.71
     },
     "★ Paracord Knife | Case Hardened (Minimal Wear)": {
         "buff_price": 152.75
     },
     "★ Paracord Knife | Case Hardened (Well-Worn)": {
-        "buff_price": 126.03
+        "buff_price": 125.92
     },
     "★ Paracord Knife | Crimson Web (Field-Tested)": {
         "buff_price": 126.6
@@ -6132,7 +6183,7 @@
         "buff_price": 80.28
     },
     "★ Paracord Knife | Damascus Steel (Minimal Wear)": {
-        "buff_price": 88.98
+        "buff_price": 88.88
     },
     "★ Paracord Knife | Doppler (Factory New)": {
         "buff_price": 283.94
@@ -6150,10 +6201,10 @@
         "buff_price": 182.22
     },
     "★ Paracord Knife | Night Stripe (Field-Tested)": {
-        "buff_price": 70.75
+        "buff_price": 70.65
     },
     "★ Paracord Knife | Rust Coat (Battle-Scarred)": {
-        "buff_price": 60.55
+        "buff_price": 61.02
     },
     "★ Paracord Knife | Safari Mesh (Battle-Scarred)": {
         "buff_price": 63.08
@@ -6162,13 +6213,13 @@
         "buff_price": 59.63
     },
     "★ Paracord Knife | Safari Mesh (Minimal Wear)": {
-        "buff_price": 65.23
+        "buff_price": 66.06
     },
     "★ Paracord Knife | Scorched (Field-Tested)": {
         "buff_price": 64.91
     },
     "★ Paracord Knife | Scorched (Minimal Wear)": {
-        "buff_price": 73.4
+        "buff_price": 73.37
     },
     "★ Paracord Knife | Scorched (Well-Worn)": {
         "buff_price": 71.78
@@ -6179,9 +6230,6 @@
     "★ Paracord Knife | Slaughter (Minimal Wear)": {
         "buff_price": 169.18
     },
-    "★ Paracord Knife | Stained (Factory New)": {
-        "buff_price": 136.48
-    },
     "★ Paracord Knife | Stained (Field-Tested)": {
         "buff_price": 77.29
     },
@@ -6189,16 +6237,16 @@
         "buff_price": 82.66
     },
     "★ Paracord Knife | Tiger Tooth (Factory New)": {
-        "buff_price": 153.66
+        "buff_price": 153.6
     },
     "★ Paracord Knife | Ultraviolet (Field-Tested)": {
-        "buff_price": 87.15
+        "buff_price": 88.65
     },
     "★ Paracord Knife | Ultraviolet (Minimal Wear)": {
-        "buff_price": 136.23
+        "buff_price": 135.32
     },
     "★ Paracord Knife | Urban Masked (Battle-Scarred)": {
-        "buff_price": 73.28
+        "buff_price": 68.8
     },
     "★ Paracord Knife | Urban Masked (Field-Tested)": {
         "buff_price": 70.85
@@ -6228,25 +6276,25 @@
         "buff_price": 100.8
     },
     "★ Shadow Daggers | Black Laminate (Field-Tested)": {
-        "buff_price": 56.85
+        "buff_price": 56.69
     },
     "★ Shadow Daggers | Black Laminate (Minimal Wear)": {
-        "buff_price": 60.29
+        "buff_price": 57.34
     },
     "★ Shadow Daggers | Black Laminate (Well-Worn)": {
         "buff_price": 56.18
     },
     "★ Shadow Daggers | Bright Water (Factory New)": {
-        "buff_price": 60.78
+        "buff_price": 60.66
     },
     "★ Shadow Daggers | Bright Water (Field-Tested)": {
-        "buff_price": 55.85
+        "buff_price": 56.42
     },
     "★ Shadow Daggers | Bright Water (Minimal Wear)": {
-        "buff_price": 57.8
+        "buff_price": 57.68
     },
     "★ Shadow Daggers | Crimson Web (Field-Tested)": {
-        "buff_price": 93.31
+        "buff_price": 91.74
     },
     "★ Shadow Daggers | Crimson Web (Minimal Wear)": {
         "buff_price": 149.08
@@ -6255,7 +6303,7 @@
         "buff_price": 91.74
     },
     "★ Shadow Daggers | Damascus Steel (Field-Tested)": {
-        "buff_price": 67.52
+        "buff_price": 66.51
     },
     "★ Shadow Daggers | Damascus Steel (Minimal Wear)": {
         "buff_price": 72.25
@@ -6270,13 +6318,13 @@
         "buff_price": 76.83
     },
     "★ Shadow Daggers | Freehand (Field-Tested)": {
-        "buff_price": 64.22
+        "buff_price": 68.57
     },
     "★ Shadow Daggers | Freehand (Minimal Wear)": {
         "buff_price": 68.8
     },
     "★ Shadow Daggers | Gamma Doppler (Factory New)": {
-        "buff_price": 151.03
+        "buff_price": 150.23
     },
     "★ Shadow Daggers | Gamma Doppler (Minimal Wear)": {
         "buff_price": 194.95
@@ -6285,19 +6333,16 @@
         "buff_price": 71.28
     },
     "★ Shadow Daggers | Lore (Field-Tested)": {
-        "buff_price": 72.02
-    },
-    "★ Shadow Daggers | Lore (Minimal Wear)": {
-        "buff_price": 88.08
+        "buff_price": 72.48
     },
     "★ Shadow Daggers | Lore (Well-Worn)": {
-        "buff_price": 72.58
+        "buff_price": 72.25
     },
     "★ Shadow Daggers | Marble Fade (Factory New)": {
-        "buff_price": 132.32
+        "buff_price": 130.71
     },
     "★ Shadow Daggers | Rust Coat (Battle-Scarred)": {
-        "buff_price": 59.63
+        "buff_price": 57.32
     },
     "★ Shadow Daggers | Tiger Tooth (Factory New)": {
         "buff_price": 110.32
@@ -6306,25 +6351,25 @@
         "buff_price": 66.51
     },
     "★ Skeleton Knife": {
-        "buff_price": 355.05
+        "buff_price": 357.34
     },
     "★ Skeleton Knife | Blue Steel (Battle-Scarred)": {
-        "buff_price": 302.49
+        "buff_price": 302.26
     },
     "★ Skeleton Knife | Blue Steel (Factory New)": {
         "buff_price": 568.8
     },
     "★ Skeleton Knife | Blue Steel (Field-Tested)": {
-        "buff_price": 320.62
+        "buff_price": 316.51
     },
     "★ Skeleton Knife | Blue Steel (Minimal Wear)": {
-        "buff_price": 362.26
+        "buff_price": 360.09
     },
     "★ Skeleton Knife | Blue Steel (Well-Worn)": {
-        "buff_price": 295.86
+        "buff_price": 297.02
     },
     "★ Skeleton Knife | Boreal Forest (Field-Tested)": {
-        "buff_price": 174.22
+        "buff_price": 174.31
     },
     "★ Skeleton Knife | Boreal Forest (Minimal Wear)": {
         "buff_price": 180.28
@@ -6342,22 +6387,22 @@
         "buff_price": 461
     },
     "★ Skeleton Knife | Case Hardened (Well-Worn)": {
-        "buff_price": 311.8
+        "buff_price": 311.55
     },
     "★ Skeleton Knife | Crimson Web (Battle-Scarred)": {
         "buff_price": 341.74
     },
     "★ Skeleton Knife | Crimson Web (Field-Tested)": {
-        "buff_price": 419.26
+        "buff_price": 419.03
     },
     "★ Skeleton Knife | Crimson Web (Minimal Wear)": {
-        "buff_price": 548.15
+        "buff_price": 550.22
     },
     "★ Skeleton Knife | Crimson Web (Well-Worn)": {
         "buff_price": 400.66
     },
     "★ Skeleton Knife | Damascus Steel (Field-Tested)": {
-        "buff_price": 279.82
+        "buff_price": 279.69
     },
     "★ Skeleton Knife | Damascus Steel (Minimal Wear)": {
         "buff_price": 311.92
@@ -6366,31 +6411,34 @@
         "buff_price": 891.72
     },
     "★ Skeleton Knife | Fade (Factory New)": {
-        "buff_price": 778.89
+        "buff_price": 779.8
     },
     "★ Skeleton Knife | Fade (Minimal Wear)": {
         "buff_price": 845.86
     },
     "★ Skeleton Knife | Forest DDPAT (Field-Tested)": {
-        "buff_price": 176.6
+        "buff_price": 178.78
     },
     "★ Skeleton Knife | Forest DDPAT (Minimal Wear)": {
         "buff_price": 186.35
+    },
+    "★ Skeleton Knife | Marble Fade (Factory New)": {
+        "buff_price": 568.11
     },
     "★ Skeleton Knife | Night Stripe (Battle-Scarred)": {
         "buff_price": 203.55
     },
     "★ Skeleton Knife | Night Stripe (Field-Tested)": {
-        "buff_price": 208.71
+        "buff_price": 208.48
     },
     "★ Skeleton Knife | Night Stripe (Minimal Wear)": {
         "buff_price": 235.09
     },
     "★ Skeleton Knife | Rust Coat (Battle-Scarred)": {
-        "buff_price": 196.09
+        "buff_price": 194.95
     },
     "★ Skeleton Knife | Safari Mesh (Field-Tested)": {
-        "buff_price": 172.94
+        "buff_price": 172.86
     },
     "★ Skeleton Knife | Safari Mesh (Minimal Wear)": {
         "buff_price": 179.92
@@ -6408,7 +6456,7 @@
         "buff_price": 619.14
     },
     "★ Skeleton Knife | Slaughter (Field-Tested)": {
-        "buff_price": 545.86
+        "buff_price": 545.75
     },
     "★ Skeleton Knife | Slaughter (Minimal Wear)": {
         "buff_price": 555.94
@@ -6420,37 +6468,37 @@
         "buff_price": 263.52
     },
     "★ Skeleton Knife | Stained (Minimal Wear)": {
-        "buff_price": 286.69
+        "buff_price": 296.32
     },
     "★ Skeleton Knife | Stained (Well-Worn)": {
-        "buff_price": 247.71
+        "buff_price": 247.25
     },
     "★ Skeleton Knife | Tiger Tooth (Factory New)": {
-        "buff_price": 465.48
+        "buff_price": 466.74
     },
     "★ Skeleton Knife | Ultraviolet (Battle-Scarred)": {
         "buff_price": 238.52
     },
     "★ Skeleton Knife | Ultraviolet (Field-Tested)": {
-        "buff_price": 277.29
+        "buff_price": 276.83
     },
     "★ Skeleton Knife | Ultraviolet (Minimal Wear)": {
-        "buff_price": 332.54
+        "buff_price": 331.63
     },
     "★ Skeleton Knife | Ultraviolet (Well-Worn)": {
         "buff_price": 267.89
     },
     "★ Skeleton Knife | Urban Masked (Battle-Scarred)": {
-        "buff_price": 184.38
+        "buff_price": 184.63
     },
     "★ Skeleton Knife | Urban Masked (Field-Tested)": {
         "buff_price": 196.09
     },
     "★ Skeleton Knife | Urban Masked (Minimal Wear)": {
-        "buff_price": 226.58
+        "buff_price": 226.35
     },
     "★ Specialist Gloves | Big Swell (Battle-Scarred)": {
-        "buff_price": 210.54
+        "buff_price": 210.52
     },
     "★ Specialist Gloves | Big Swell (Field-Tested)": {
         "buff_price": 260.32
@@ -6468,28 +6516,28 @@
         "buff_price": 371.22
     },
     "★ Specialist Gloves | Blackbook (Minimal Wear)": {
-        "buff_price": 722.35
+        "buff_price": 738.75
     },
     "★ Specialist Gloves | Blackbook (Well-Worn)": {
-        "buff_price": 325.57
+        "buff_price": 323.38
     },
     "★ Specialist Gloves | Buckshot (Battle-Scarred)": {
-        "buff_price": 63.65
+        "buff_price": 62.62
     },
     "★ Specialist Gloves | Buckshot (Factory New)": {
         "buff_price": 359.17
     },
     "★ Specialist Gloves | Buckshot (Field-Tested)": {
-        "buff_price": 64.68
+        "buff_price": 63.97
     },
     "★ Specialist Gloves | Buckshot (Minimal Wear)": {
-        "buff_price": 105.05
+        "buff_price": 104.82
     },
     "★ Specialist Gloves | Buckshot (Well-Worn)": {
-        "buff_price": 62.05
+        "buff_price": 61.92
     },
     "★ Specialist Gloves | Chocolate Chesterfield (Battle-Scarred)": {
-        "buff_price": 110.78
+        "buff_price": 110.66
     },
     "★ Specialist Gloves | Chocolate Chesterfield (Field-Tested)": {
         "buff_price": 125.8
@@ -6501,7 +6549,7 @@
         "buff_price": 441.51
     },
     "★ Specialist Gloves | Cloud Chaser (Field-Tested)": {
-        "buff_price": 628.32
+        "buff_price": 626.14
     },
     "★ Specialist Gloves | Cloud Chaser (Minimal Wear)": {
         "buff_price": 1151.35
@@ -6515,14 +6563,8 @@
     "★ Specialist Gloves | Crimson Web (Battle-Scarred)": {
         "buff_price": 142.09
     },
-    "★ Specialist Gloves | Crimson Web (Field-Tested)": {
-        "buff_price": 190.37
-    },
     "★ Specialist Gloves | Crimson Web (Minimal Wear)": {
-        "buff_price": 427.74
-    },
-    "★ Specialist Gloves | Crimson Web (Well-Worn)": {
-        "buff_price": 168.02
+        "buff_price": 428.89
     },
     "★ Specialist Gloves | Emerald Web (Battle-Scarred)": {
         "buff_price": 514.88
@@ -6543,22 +6585,22 @@
         "buff_price": 129.58
     },
     "★ Specialist Gloves | Field Agent (Field-Tested)": {
-        "buff_price": 178.89
+        "buff_price": 179.35
     },
     "★ Specialist Gloves | Field Agent (Minimal Wear)": {
         "buff_price": 426.6
     },
     "★ Specialist Gloves | Field Agent (Well-Worn)": {
-        "buff_price": 152.75
+        "buff_price": 153.22
     },
     "★ Specialist Gloves | Forest DDPAT (Minimal Wear)": {
-        "buff_price": 538.98
+        "buff_price": 538.86
     },
     "★ Specialist Gloves | Foundation (Field-Tested)": {
         "buff_price": 1702.26
     },
     "★ Specialist Gloves | Foundation (Minimal Wear)": {
-        "buff_price": 1696.14
+        "buff_price": 1686.94
     },
     "★ Specialist Gloves | Foundation (Well-Worn)": {
         "buff_price": 338.23
@@ -6567,7 +6609,7 @@
         "buff_price": 263.75
     },
     "★ Specialist Gloves | Lime Polycam (Field-Tested)": {
-        "buff_price": 369.26
+        "buff_price": 368.11
     },
     "★ Specialist Gloves | Lime Polycam (Minimal Wear)": {
         "buff_price": 837.14
@@ -6582,40 +6624,43 @@
         "buff_price": 163.75
     },
     "★ Specialist Gloves | Lt. Commander (Minimal Wear)": {
-        "buff_price": 277.52
+        "buff_price": 280.95
     },
     "★ Specialist Gloves | Marble Fade (Field-Tested)": {
-        "buff_price": 198.28
+        "buff_price": 197.94
     },
     "★ Specialist Gloves | Marble Fade (Minimal Wear)": {
-        "buff_price": 535.08
+        "buff_price": 534.17
+    },
+    "★ Specialist Gloves | Marble Fade (Well-Worn)": {
+        "buff_price": 176.82
     },
     "★ Specialist Gloves | Mogul (Battle-Scarred)": {
-        "buff_price": 125.23
+        "buff_price": 126.14
+    },
+    "★ Specialist Gloves | Mogul (Factory New)": {
+        "buff_price": 818.8
     },
     "★ Specialist Gloves | Mogul (Field-Tested)": {
-        "buff_price": 155.15
+        "buff_price": 155.05
     },
     "★ Specialist Gloves | Mogul (Minimal Wear)": {
-        "buff_price": 216.05
+        "buff_price": 215.94
     },
     "★ Specialist Gloves | Mogul (Well-Worn)": {
-        "buff_price": 137.49
+        "buff_price": 137.62
     },
     "★ Specialist Gloves | Pillow Punchers (Field-Tested)": {
-        "buff_price": 573.38
+        "buff_price": 568.8
     },
     "★ Specialist Gloves | Pillow Punchers (Minimal Wear)": {
         "buff_price": 1880.71
     },
     "★ Specialist Gloves | Sunburst (Battle-Scarred)": {
-        "buff_price": 187.29
+        "buff_price": 187.38
     },
     "★ Specialist Gloves | Sunburst (Field-Tested)": {
-        "buff_price": 235.09
-    },
-    "★ Specialist Gloves | Sunburst (Minimal Wear)": {
-        "buff_price": 516.05
+        "buff_price": 236.23
     },
     "★ Specialist Gloves | Sunburst (Well-Worn)": {
         "buff_price": 220.18
@@ -6624,37 +6669,40 @@
         "buff_price": 144.38
     },
     "★ Specialist Gloves | Tiger Strike (Field-Tested)": {
-        "buff_price": 240.71
+        "buff_price": 238.52
     },
     "★ Specialist Gloves | Tiger Strike (Minimal Wear)": {
         "buff_price": 524.77
     },
     "★ Specialist Gloves | Tiger Strike (Well-Worn)": {
-        "buff_price": 183.26
+        "buff_price": 184.17
+    },
+    "★ Sport Gloves | Amphibious (Battle-Scarred)": {
+        "buff_price": 317.08
     },
     "★ Sport Gloves | Amphibious (Field-Tested)": {
-        "buff_price": 451.71
+        "buff_price": 451.83
     },
     "★ Sport Gloves | Amphibious (Minimal Wear)": {
-        "buff_price": 974.75
+        "buff_price": 974.65
     },
     "★ Sport Gloves | Amphibious (Well-Worn)": {
-        "buff_price": 387.26
+        "buff_price": 386.46
     },
     "★ Sport Gloves | Arid (Battle-Scarred)": {
         "buff_price": 435.77
     },
     "★ Sport Gloves | Arid (Field-Tested)": {
-        "buff_price": 1686.94
+        "buff_price": 1686.35
     },
     "★ Sport Gloves | Big Game (Battle-Scarred)": {
         "buff_price": 163.98
     },
     "★ Sport Gloves | Big Game (Field-Tested)": {
-        "buff_price": 205.28
+        "buff_price": 204.92
     },
     "★ Sport Gloves | Big Game (Minimal Wear)": {
-        "buff_price": 297.91
+        "buff_price": 298.03
     },
     "★ Sport Gloves | Big Game (Well-Worn)": {
         "buff_price": 183.71
@@ -6663,10 +6711,10 @@
         "buff_price": 155.95
     },
     "★ Sport Gloves | Blaze (Field-Tested)": {
-        "buff_price": 183.14
+        "buff_price": 183.25
     },
     "★ Sport Gloves | Blaze (Minimal Wear)": {
-        "buff_price": 370.4
+        "buff_price": 370.18
     },
     "★ Sport Gloves | Blaze (Well-Worn)": {
         "buff_price": 169.49
@@ -6678,7 +6726,7 @@
         "buff_price": 662.14
     },
     "★ Sport Gloves | Bronze Morph (Field-Tested)": {
-        "buff_price": 116.28
+        "buff_price": 118.31
     },
     "★ Sport Gloves | Bronze Morph (Minimal Wear)": {
         "buff_price": 192.08
@@ -6690,13 +6738,13 @@
         "buff_price": 112.15
     },
     "★ Sport Gloves | Creme Pinstripe (Field-Tested)": {
-        "buff_price": 128.43
+        "buff_price": 127.98
     },
     "★ Sport Gloves | Creme Pinstripe (Minimal Wear)": {
-        "buff_price": 254.02
+        "buff_price": 249.98
     },
     "★ Sport Gloves | Creme Pinstripe (Well-Worn)": {
-        "buff_price": 118.23
+        "buff_price": 117.89
     },
     "★ Sport Gloves | Frosty (Battle-Scarred)": {
         "buff_price": 186.69
@@ -6705,7 +6753,7 @@
         "buff_price": 272.71
     },
     "★ Sport Gloves | Frosty (Minimal Wear)": {
-        "buff_price": 567.65
+        "buff_price": 583.71
     },
     "★ Sport Gloves | Frosty (Well-Worn)": {
         "buff_price": 230.51
@@ -6714,10 +6762,10 @@
         "buff_price": 653.43
     },
     "★ Sport Gloves | Nocts (Field-Tested)": {
-        "buff_price": 882.89
+        "buff_price": 889.89
     },
     "★ Sport Gloves | Nocts (Minimal Wear)": {
-        "buff_price": 1307.32
+        "buff_price": 1295.85
     },
     "★ Sport Gloves | Nocts (Well-Worn)": {
         "buff_price": 809.62
@@ -6738,19 +6786,19 @@
         "buff_price": 200.11
     },
     "★ Sport Gloves | Omega (Field-Tested)": {
-        "buff_price": 281.54
+        "buff_price": 280.95
     },
     "★ Sport Gloves | Omega (Minimal Wear)": {
         "buff_price": 708.71
     },
     "★ Sport Gloves | Omega (Well-Worn)": {
-        "buff_price": 234.62
+        "buff_price": 231.65
     },
     "★ Sport Gloves | Red Racer (Battle-Scarred)": {
         "buff_price": 163.88
     },
     "★ Sport Gloves | Red Racer (Field-Tested)": {
-        "buff_price": 203.86
+        "buff_price": 206.31
     },
     "★ Sport Gloves | Red Racer (Minimal Wear)": {
         "buff_price": 426.37
@@ -6759,10 +6807,10 @@
         "buff_price": 181.18
     },
     "★ Sport Gloves | Scarlet Shamagh (Battle-Scarred)": {
-        "buff_price": 214.78
+        "buff_price": 214.66
     },
     "★ Sport Gloves | Scarlet Shamagh (Field-Tested)": {
-        "buff_price": 274.31
+        "buff_price": 273.97
     },
     "★ Sport Gloves | Scarlet Shamagh (Minimal Wear)": {
         "buff_price": 474.77
@@ -6777,7 +6825,7 @@
         "buff_price": 526.94
     },
     "★ Sport Gloves | Slingshot (Minimal Wear)": {
-        "buff_price": 1370.38
+        "buff_price": 1369.25
     },
     "★ Sport Gloves | Slingshot (Well-Worn)": {
         "buff_price": 398.38
@@ -6789,7 +6837,7 @@
         "buff_price": 891.05
     },
     "★ Sport Gloves | Ultra Violent (Field-Tested)": {
-        "buff_price": 1364.66
+        "buff_price": 1371.54
     },
     "★ Sport Gloves | Ultra Violent (Well-Worn)": {
         "buff_price": 1185.54
@@ -6798,7 +6846,7 @@
         "buff_price": 391.72
     },
     "★ Sport Gloves | Vice (Field-Tested)": {
-        "buff_price": 639.89
+        "buff_price": 639.66
     },
     "★ Sport Gloves | Vice (Well-Worn)": {
         "buff_price": 530.92
@@ -6807,7 +6855,7 @@
         "buff_price": 331.88
     },
     "★ Sport Gloves | Violet Beadwork (Minimal Wear)": {
-        "buff_price": 862.37
+        "buff_price": 861.91
     },
     "★ StatTrak™ Bayonet | Autotronic (Field-Tested)": {
         "buff_price": 470.15
@@ -6833,9 +6881,6 @@
     "★ StatTrak™ Butterfly Knife | Autotronic (Field-Tested)": {
         "buff_price": 1238.51
     },
-    "★ StatTrak™ Butterfly Knife | Autotronic (Minimal Wear)": {
-        "buff_price": 1547.57
-    },
     "★ StatTrak™ Butterfly Knife | Black Laminate (Field-Tested)": {
         "buff_price": 942.65
     },
@@ -6849,13 +6894,10 @@
         "buff_price": 1215.57
     },
     "★ StatTrak™ Butterfly Knife | Bright Water (Field-Tested)": {
-        "buff_price": 801.69
+        "buff_price": 801.37
     },
     "★ StatTrak™ Butterfly Knife | Crimson Web (Field-Tested)": {
-        "buff_price": 1066.26
-    },
-    "★ StatTrak™ Butterfly Knife | Freehand (Field-Tested)": {
-        "buff_price": 883.02
+        "buff_price": 1066.15
     },
     "★ StatTrak™ Butterfly Knife | Freehand (Minimal Wear)": {
         "buff_price": 971.31
@@ -6867,7 +6909,7 @@
         "buff_price": 1461.88
     },
     "★ StatTrak™ Butterfly Knife | Night (Field-Tested)": {
-        "buff_price": 812.35
+        "buff_price": 811.89
     },
     "★ StatTrak™ Butterfly Knife | Scorched (Field-Tested)": {
         "buff_price": 722.46
@@ -6906,16 +6948,19 @@
         "buff_price": 451.71
     },
     "★ StatTrak™ Gut Knife | Gamma Doppler (Factory New)": {
-        "buff_price": 285.29
+        "buff_price": 285.18
     },
     "★ StatTrak™ Huntsman Knife | Autotronic (Field-Tested)": {
-        "buff_price": 165.02
+        "buff_price": 164.78
     },
     "★ StatTrak™ Huntsman Knife | Bright Water (Factory New)": {
-        "buff_price": 112.89
+        "buff_price": 112.78
     },
     "★ StatTrak™ Huntsman Knife | Doppler (Factory New)": {
         "buff_price": 482.02
+    },
+    "★ StatTrak™ Huntsman Knife | Lore (Field-Tested)": {
+        "buff_price": 146.78
     },
     "★ StatTrak™ Karambit": {
         "buff_price": 1501.55
@@ -6927,7 +6972,7 @@
         "buff_price": 1765.91
     },
     "★ StatTrak™ Kukri Knife": {
-        "buff_price": 142.66
+        "buff_price": 143.35
     },
     "★ StatTrak™ Kukri Knife | Boreal Forest (Minimal Wear)": {
         "buff_price": 86.65
@@ -6936,7 +6981,7 @@
         "buff_price": 172.02
     },
     "★ StatTrak™ Kukri Knife | Case Hardened (Minimal Wear)": {
-        "buff_price": 238.08
+        "buff_price": 236.23
     },
     "★ StatTrak™ Kukri Knife | Case Hardened (Well-Worn)": {
         "buff_price": 162.22
@@ -6948,22 +6993,19 @@
         "buff_price": 275.23
     },
     "★ StatTrak™ Kukri Knife | Forest DDPAT (Field-Tested)": {
-        "buff_price": 77.75
+        "buff_price": 77.86
     },
     "★ StatTrak™ Kukri Knife | Night Stripe (Field-Tested)": {
-        "buff_price": 80.28
+        "buff_price": 80.15
     },
     "★ StatTrak™ Kukri Knife | Slaughter (Factory New)": {
-        "buff_price": 243.69
+        "buff_price": 233.94
     },
     "★ StatTrak™ Kukri Knife | Slaughter (Minimal Wear)": {
         "buff_price": 205.65
     },
     "★ StatTrak™ Kukri Knife | Stained (Battle-Scarred)": {
-        "buff_price": 94.78
-    },
-    "★ StatTrak™ Kukri Knife | Urban Masked (Battle-Scarred)": {
-        "buff_price": 107.8
+        "buff_price": 94.66
     },
     "★ StatTrak™ Kukri Knife | Urban Masked (Field-Tested)": {
         "buff_price": 83.49
@@ -6972,7 +7014,7 @@
         "buff_price": 1111.91
     },
     "★ StatTrak™ M9 Bayonet | Autotronic (Field-Tested)": {
-        "buff_price": 1061.68
+        "buff_price": 1059.62
     },
     "★ StatTrak™ M9 Bayonet | Doppler (Factory New)": {
         "buff_price": 1421.88
@@ -6993,10 +7035,10 @@
         "buff_price": 504.58
     },
     "★ StatTrak™ Navaja Knife | Doppler (Factory New)": {
-        "buff_price": 205.05
+        "buff_price": 204.02
     },
     "★ StatTrak™ Nomad Knife": {
-        "buff_price": 201.83
+        "buff_price": 199.54
     },
     "★ StatTrak™ Nomad Knife | Case Hardened (Field-Tested)": {
         "buff_price": 290.25
@@ -7014,7 +7056,7 @@
         "buff_price": 370.26
     },
     "★ StatTrak™ Nomad Knife | Rust Coat (Battle-Scarred)": {
-        "buff_price": 139.43
+        "buff_price": 139.2
     },
     "★ StatTrak™ Nomad Knife | Tiger Tooth (Factory New)": {
         "buff_price": 294.69
@@ -7038,10 +7080,10 @@
         "buff_price": 167.89
     },
     "★ StatTrak™ Skeleton Knife": {
-        "buff_price": 357.34
+        "buff_price": 357.31
     },
     "★ StatTrak™ Skeleton Knife | Case Hardened (Field-Tested)": {
-        "buff_price": 409.4
+        "buff_price": 409.28
     },
     "★ StatTrak™ Skeleton Knife | Damascus Steel (Field-Tested)": {
         "buff_price": 307.34
@@ -7062,7 +7104,7 @@
         "buff_price": 619.26
     },
     "★ StatTrak™ Skeleton Knife | Tiger Tooth (Factory New)": {
-        "buff_price": 501.14
+        "buff_price": 501.12
     },
     "★ StatTrak™ Stiletto Knife": {
         "buff_price": 295.38
@@ -7080,13 +7122,13 @@
         "buff_price": 206.42
     },
     "★ StatTrak™ Survival Knife": {
-        "buff_price": 90.6
+        "buff_price": 89.45
     },
     "★ StatTrak™ Survival Knife | Fade (Factory New)": {
         "buff_price": 250
     },
     "★ StatTrak™ Survival Knife | Marble Fade (Factory New)": {
-        "buff_price": 217.89
+        "buff_price": 232.8
     },
     "★ StatTrak™ Survival Knife | Rust Coat (Battle-Scarred)": {
         "buff_price": 72.46
@@ -7095,16 +7137,13 @@
         "buff_price": 486
     },
     "★ StatTrak™ Talon Knife | Case Hardened (Field-Tested)": {
-        "buff_price": 783.06
+        "buff_price": 782.94
     },
     "★ StatTrak™ Talon Knife | Fade (Factory New)": {
         "buff_price": 1396.31
     },
-    "★ StatTrak™ Talon Knife | Rust Coat (Battle-Scarred)": {
-        "buff_price": 402.72
-    },
     "★ StatTrak™ Talon Knife | Tiger Tooth (Factory New)": {
-        "buff_price": 687.75
+        "buff_price": 687.74
     },
     "★ StatTrak™ Talon Knife | Ultraviolet (Field-Tested)": {
         "buff_price": 454.12
@@ -7116,10 +7155,10 @@
         "buff_price": 361.89
     },
     "★ StatTrak™ Ursus Knife | Marble Fade (Factory New)": {
-        "buff_price": 263.75
+        "buff_price": 252.29
     },
     "★ Stiletto Knife": {
-        "buff_price": 287.85
+        "buff_price": 287.49
     },
     "★ Stiletto Knife | Blue Steel (Battle-Scarred)": {
         "buff_price": 288.88
@@ -7128,7 +7167,7 @@
         "buff_price": 308.23
     },
     "★ Stiletto Knife | Blue Steel (Minimal Wear)": {
-        "buff_price": 329.12
+        "buff_price": 331.08
     },
     "★ Stiletto Knife | Blue Steel (Well-Worn)": {
         "buff_price": 286.69
@@ -7140,7 +7179,7 @@
         "buff_price": 688.06
     },
     "★ Stiletto Knife | Case Hardened (Field-Tested)": {
-        "buff_price": 343.88
+        "buff_price": 343.85
     },
     "★ Stiletto Knife | Case Hardened (Minimal Wear)": {
         "buff_price": 412.62
@@ -7161,7 +7200,7 @@
         "buff_price": 262.62
     },
     "★ Stiletto Knife | Damascus Steel (Minimal Wear)": {
-        "buff_price": 279.82
+        "buff_price": 279.58
     },
     "★ Stiletto Knife | Doppler (Factory New)": {
         "buff_price": 663.98
@@ -7176,13 +7215,13 @@
         "buff_price": 185.77
     },
     "★ Stiletto Knife | Marble Fade (Factory New)": {
-        "buff_price": 440.02
+        "buff_price": 435.77
     },
     "★ Stiletto Knife | Night Stripe (Field-Tested)": {
-        "buff_price": 208.71
+        "buff_price": 204.12
     },
     "★ Stiletto Knife | Rust Coat (Battle-Scarred)": {
-        "buff_price": 202.52
+        "buff_price": 202.38
     },
     "★ Stiletto Knife | Rust Coat (Well-Worn)": {
         "buff_price": 219.83
@@ -7191,10 +7230,10 @@
         "buff_price": 207.57
     },
     "★ Stiletto Knife | Slaughter (Factory New)": {
-        "buff_price": 596.32
+        "buff_price": 596.2
     },
     "★ Stiletto Knife | Slaughter (Field-Tested)": {
-        "buff_price": 513.77
+        "buff_price": 513.89
     },
     "★ Stiletto Knife | Slaughter (Minimal Wear)": {
         "buff_price": 527.29
@@ -7206,22 +7245,25 @@
         "buff_price": 263.29
     },
     "★ Stiletto Knife | Stained (Well-Worn)": {
-        "buff_price": 235.09
+        "buff_price": 236
     },
     "★ Stiletto Knife | Tiger Tooth (Factory New)": {
-        "buff_price": 411.69
+        "buff_price": 410.54
     },
     "★ Stiletto Knife | Ultraviolet (Field-Tested)": {
-        "buff_price": 233.94
+        "buff_price": 236.23
     },
     "★ Stiletto Knife | Ultraviolet (Minimal Wear)": {
         "buff_price": 320.63
     },
     "★ Stiletto Knife | Urban Masked (Field-Tested)": {
-        "buff_price": 213.08
+        "buff_price": 212.95
+    },
+    "★ Stiletto Knife | Urban Masked (Minimal Wear)": {
+        "buff_price": 297.02
     },
     "★ Survival Knife": {
-        "buff_price": 70.65
+        "buff_price": 72.25
     },
     "★ Survival Knife | Blue Steel (Battle-Scarred)": {
         "buff_price": 95.88
@@ -7254,10 +7296,10 @@
         "buff_price": 134.52
     },
     "★ Survival Knife | Damascus Steel (Field-Tested)": {
-        "buff_price": 80.51
+        "buff_price": 80.38
     },
     "★ Survival Knife | Damascus Steel (Minimal Wear)": {
-        "buff_price": 89.45
+        "buff_price": 90.6
     },
     "★ Survival Knife | Doppler (Factory New)": {
         "buff_price": 254.58
@@ -7287,10 +7329,10 @@
         "buff_price": 61.22
     },
     "★ Survival Knife | Scorched (Field-Tested)": {
-        "buff_price": 63.51
+        "buff_price": 63.65
     },
     "★ Survival Knife | Slaughter (Minimal Wear)": {
-        "buff_price": 164.68
+        "buff_price": 163.98
     },
     "★ Survival Knife | Stained (Field-Tested)": {
         "buff_price": 79.12
@@ -7299,7 +7341,7 @@
         "buff_price": 156.18
     },
     "★ Survival Knife | Ultraviolet (Field-Tested)": {
-        "buff_price": 86.02
+        "buff_price": 87.15
     },
     "★ Survival Knife | Ultraviolet (Minimal Wear)": {
         "buff_price": 102.98
@@ -7311,7 +7353,7 @@
         "buff_price": 80.05
     },
     "★ Talon Knife": {
-        "buff_price": 472.48
+        "buff_price": 471.43
     },
     "★ Talon Knife | Blue Steel (Battle-Scarred)": {
         "buff_price": 515.71
@@ -7326,7 +7368,7 @@
         "buff_price": 517.65
     },
     "★ Talon Knife | Boreal Forest (Battle-Scarred)": {
-        "buff_price": 285.32
+        "buff_price": 285.2
     },
     "★ Talon Knife | Boreal Forest (Field-Tested)": {
         "buff_price": 291.17
@@ -7344,19 +7386,19 @@
         "buff_price": 516.05
     },
     "★ Talon Knife | Crimson Web (Field-Tested)": {
-        "buff_price": 511.34
+        "buff_price": 511.23
     },
     "★ Talon Knife | Crimson Web (Minimal Wear)": {
         "buff_price": 774.97
     },
     "★ Talon Knife | Damascus Steel (Factory New)": {
-        "buff_price": 493.11
+        "buff_price": 507.54
     },
     "★ Talon Knife | Damascus Steel (Field-Tested)": {
-        "buff_price": 434.05
+        "buff_price": 435.66
     },
     "★ Talon Knife | Damascus Steel (Minimal Wear)": {
-        "buff_price": 478.2
+        "buff_price": 477.97
     },
     "★ Talon Knife | Doppler (Factory New)": {
         "buff_price": 1193.68
@@ -7365,58 +7407,58 @@
         "buff_price": 1375.89
     },
     "★ Talon Knife | Fade (Factory New)": {
-        "buff_price": 1188.06
+        "buff_price": 1186.91
     },
     "★ Talon Knife | Forest DDPAT (Battle-Scarred)": {
         "buff_price": 286.69
     },
     "★ Talon Knife | Forest DDPAT (Field-Tested)": {
-        "buff_price": 293.23
+        "buff_price": 293.11
     },
     "★ Talon Knife | Marble Fade (Factory New)": {
-        "buff_price": 841.72
+        "buff_price": 841.62
     },
     "★ Talon Knife | Night Stripe (Battle-Scarred)": {
-        "buff_price": 336.29
+        "buff_price": 334.83
     },
     "★ Talon Knife | Night Stripe (Field-Tested)": {
-        "buff_price": 348.62
+        "buff_price": 343.8
     },
     "★ Talon Knife | Night Stripe (Minimal Wear)": {
         "buff_price": 412.83
     },
     "★ Talon Knife | Rust Coat (Battle-Scarred)": {
-        "buff_price": 362.83
+        "buff_price": 357.8
     },
     "★ Talon Knife | Safari Mesh (Field-Tested)": {
-        "buff_price": 284.4
+        "buff_price": 285.32
     },
     "★ Talon Knife | Safari Mesh (Minimal Wear)": {
-        "buff_price": 298.15
+        "buff_price": 305.95
     },
     "★ Talon Knife | Scorched (Field-Tested)": {
-        "buff_price": 307.34
+        "buff_price": 307.31
     },
     "★ Talon Knife | Slaughter (Factory New)": {
-        "buff_price": 963.95
+        "buff_price": 963.03
     },
     "★ Talon Knife | Slaughter (Minimal Wear)": {
         "buff_price": 805.71
     },
     "★ Talon Knife | Stained (Field-Tested)": {
-        "buff_price": 432.91
+        "buff_price": 432.34
     },
     "★ Talon Knife | Stained (Minimal Wear)": {
-        "buff_price": 472.48
+        "buff_price": 472.35
     },
     "★ Talon Knife | Tiger Tooth (Factory New)": {
-        "buff_price": 670.86
+        "buff_price": 681.88
     },
     "★ Talon Knife | Ultraviolet (Battle-Scarred)": {
         "buff_price": 357.78
     },
     "★ Talon Knife | Ultraviolet (Field-Tested)": {
-        "buff_price": 393.34
+        "buff_price": 392.2
     },
     "★ Talon Knife | Ultraviolet (Minimal Wear)": {
         "buff_price": 524.77
@@ -7428,13 +7470,13 @@
         "buff_price": 311.68
     },
     "★ Talon Knife | Urban Masked (Field-Tested)": {
-        "buff_price": 320.98
+        "buff_price": 320.63
     },
     "★ Talon Knife | Urban Masked (Minimal Wear)": {
-        "buff_price": 411.46
+        "buff_price": 409.63
     },
     "★ Ursus Knife": {
-        "buff_price": 112.05
+        "buff_price": 111.92
     },
     "★ Ursus Knife | Blue Steel (Battle-Scarred)": {
         "buff_price": 128.43
@@ -7443,10 +7485,13 @@
         "buff_price": 133.03
     },
     "★ Ursus Knife | Boreal Forest (Field-Tested)": {
-        "buff_price": 77.63
+        "buff_price": 79.35
+    },
+    "★ Ursus Knife | Case Hardened (Battle-Scarred)": {
+        "buff_price": 167.08
     },
     "★ Ursus Knife | Case Hardened (Minimal Wear)": {
-        "buff_price": 186.48
+        "buff_price": 186.46
     },
     "★ Ursus Knife | Case Hardened (Well-Worn)": {
         "buff_price": 158.26
@@ -7461,7 +7506,7 @@
         "buff_price": 139.43
     },
     "★ Ursus Knife | Damascus Steel (Field-Tested)": {
-        "buff_price": 108.69
+        "buff_price": 108.58
     },
     "★ Ursus Knife | Damascus Steel (Minimal Wear)": {
         "buff_price": 115.83
@@ -7469,32 +7514,29 @@
     "★ Ursus Knife | Fade (Factory New)": {
         "buff_price": 282.11
     },
-    "★ Ursus Knife | Forest DDPAT (Field-Tested)": {
-        "buff_price": 79.12
-    },
     "★ Ursus Knife | Marble Fade (Factory New)": {
-        "buff_price": 224.31
+        "buff_price": 224.65
     },
     "★ Ursus Knife | Night Stripe (Field-Tested)": {
-        "buff_price": 95.75
+        "buff_price": 95.65
     },
     "★ Ursus Knife | Night Stripe (Minimal Wear)": {
         "buff_price": 107.8
     },
     "★ Ursus Knife | Rust Coat (Battle-Scarred)": {
-        "buff_price": 78.66
+        "buff_price": 77.06
     },
     "★ Ursus Knife | Safari Mesh (Field-Tested)": {
-        "buff_price": 75.69
+        "buff_price": 73.4
     },
     "★ Ursus Knife | Scorched (Field-Tested)": {
-        "buff_price": 85.89
+        "buff_price": 85.78
     },
     "★ Ursus Knife | Scorched (Minimal Wear)": {
         "buff_price": 95.74
     },
     "★ Ursus Knife | Slaughter (Factory New)": {
-        "buff_price": 254.46
+        "buff_price": 254.25
     },
     "★ Ursus Knife | Slaughter (Field-Tested)": {
         "buff_price": 229.35
@@ -7503,27 +7545,27 @@
         "buff_price": 229.12
     },
     "★ Ursus Knife | Stained (Field-Tested)": {
-        "buff_price": 106.77
+        "buff_price": 107.11
     },
     "★ Ursus Knife | Stained (Minimal Wear)": {
         "buff_price": 116.86
     },
     "★ Ursus Knife | Tiger Tooth (Factory New)": {
-        "buff_price": 192.43
+        "buff_price": 190.25
     },
     "★ Ursus Knife | Ultraviolet (Battle-Scarred)": {
         "buff_price": 114.68
     },
     "★ Ursus Knife | Ultraviolet (Field-Tested)": {
-        "buff_price": 125.57
+        "buff_price": 125.23
     },
     "★ Ursus Knife | Ultraviolet (Minimal Wear)": {
-        "buff_price": 175.57
+        "buff_price": 175.46
     },
     "★ Ursus Knife | Urban Masked (Field-Tested)": {
         "buff_price": 94.03
     },
     "★ Ursus Knife | Urban Masked (Minimal Wear)": {
-        "buff_price": 123.85
+        "buff_price": 121.55
     }
 }
