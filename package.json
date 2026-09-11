@@ -1,7 +1,7 @@
 {
   "name": "price-filter",
   "version": "1.0.0",
-  "description": "Filtruje ceny z BetterFlipper Partner API i publikuje na GitHub Pages",
+  "description": "bot api",
   "main": "filter.js",
   "dependencies": {},
   "engines": {
