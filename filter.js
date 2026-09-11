@@ -1,8 +1,4 @@
 
-// Ceny pochodzą z BetterFlipper Partner API zamiast ze statycznych plików
-// na GitHub Pages. Node >= 18 ma wbudowany fetch, więc node-fetch nie jest
-// już potrzebny.
-
 const fs = require('fs').promises;
 
 // 1 / 0.66 = ~1.515
@@ -26,27 +22,17 @@ const MIN_CSFLOAT_STOCK = 10;
 const MIN_BUFF_PRICE = 15.00;      
 const MAX_BUFF_PRICE = 1234.00;    
 
-const BFP_API_BASE = process.env.BFP_API_BASE || 'https://apisystem.betterflipper.com/partner/v1';
+const BFP_API_BASE = 'https://apisystem.betterflipper.com/partner/v1';
 const BFP_API_KEY  = process.env.BFP_API_KEY || '';
 
 const OUTPUT_FILE = 'filteredPriceList.json';
 const LOG_FILE    = 'debug-log.txt';
 
-/**
- * Pobiera cennik jednego marketu z BetterFlippera i zwraca { nazwa: { price, stock } }.
- *
- * API oddaje { items: [{ name, bid, ask, count }] }. `ask` to najniższy listing —
- * dokładnie to, co wcześniej niosło pole `price`, a `count` to dawny `stock`.
- * Ceny są w USD, tak jak w poprzednich źródłach, więc progi filtrów zostają bez zmian.
- *
- * Zwraca null przy błędzie — wywołujący przerywa wtedy przebieg.
- */
 async function fetchMarket(market) {
   const url = `${BFP_API_BASE}/prices/${market}`;
   try {
     const response = await fetch(url, { headers: { 'X-API-Key': BFP_API_KEY } });
     if (!response.ok) {
-      // API zwraca powód w polu `detail` — bez niego diagnoza to zgadywanka.
       const detail = await response.text().catch(() => '');
       throw new Error(`HTTP ${response.status} ${detail.slice(0, 200)}`);
     }
@@ -72,9 +58,9 @@ async function main() {
   log += `Przelicznik użytkownika: ${PRICE_CONVERSION_RATE} -> Mnożnik cen: ${calculatedMultiplier.toFixed(4)}\n\n`;
 
   if (!BFP_API_KEY) {
-    log += 'Brak BFP_API_KEY — bez klucza BetterFlipper nie pobiorę cenników.\n';
+    log += 'Brak klucza \n';
     await fs.writeFile(LOG_FILE, log);
-    console.error('Brak BFP_API_KEY. Ustaw sekret w Settings → Secrets and variables → Actions.');
+    console.error('Brak API_KEY. Ustaw sekret w Settings → Secrets and variables → Actions.');
     process.exitCode = 1;
     return;
   }
@@ -84,8 +70,6 @@ async function main() {
     fetchMarket('csfloat'),
   ]);
 
-  // Nadpisanie wyniku pustką skasowałoby działający cennik na Pages,
-  // więc przy błędzie zostawiamy poprzedni plik nietknięty.
   if (!buffData || !csfloatData) {
     log += 'Nie udało się pobrać danych z jednego ze źródeł — zostawiam poprzedni cennik.\n';
     await fs.writeFile(LOG_FILE, log);
@@ -159,7 +143,7 @@ async function main() {
   await fs.writeFile(OUTPUT_FILE, JSON.stringify(filteredItems, null, 4), 'utf-8');
   await fs.writeFile(LOG_FILE, log);
 
-  console.log(`Gotowe! Znaleziono ${Object.keys(filteredItems).length} itemów spełniających warunki.`);
+  console.log(`Znaleziono ${Object.keys(filteredItems).length} itemów spełniających warunki.`);
   console.log(`Zastosowano przelicznik: 1 / ${PRICE_CONVERSION_RATE} = * ${calculatedMultiplier.toFixed(4)}`);
 }
 
